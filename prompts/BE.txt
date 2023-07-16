@@ -1,0 +1,22 @@
+Je cherche la liste des régions et des provinces de Belgique.
+Peux-tu les donner dans un tableau JSON au format suivant :
+```
+[
+    {
+        "name": "Wallonie",
+        "identifier": "WAL",
+        "code": "03000",
+        "children": [
+            {
+                "name": "Hainaut",
+                "identifier": "WHT",
+                "code": "50000"
+            },
+            ...
+        ] 
+    },
+    ...
+]
+```
+
+Le JSON valide est :

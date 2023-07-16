@@ -1,0 +1,251 @@
+[
+  {
+    "intl_name": "Abruzzo",
+    "identifier": "ABR",
+    "code": "13",
+    "children": [
+      { "intl_name": "Chieti", "code": "069" },
+      { "intl_name": "L'Aquila", "code": "066" },
+      { "intl_name": "Pescara", "code": "068" },
+      { "intl_name": "Teramo", "code": "067" }
+    ]
+  },
+  {
+    "intl_name": "Basilicata",
+    "identifier": "BAS",
+    "code": "17",
+    "children": [
+      { "intl_name": "Matera", "code": "077" },
+      { "intl_name": "Potenza", "code": "076" }
+    ]
+  },
+  {
+    "intl_name": "Calabria",
+    "identifier": "CAL",
+    "code": "18",
+    "children": [
+      { "intl_name": "Catanzaro", "code": "079" },
+      { "intl_name": "Cosenza", "code": "078" },
+      { "intl_name": "Crotone", "code": "101" },
+      { "intl_name": "Reggio Calabria", "code": "080" },
+      { "intl_name": "Vibo Valentia", "code": "102" }
+    ]
+  },
+  {
+    "intl_name": "Campania",
+    "identifier": "CAM",
+    "code": "15",
+    "children": [
+      { "intl_name": "Avellino", "code": "064" },
+      { "intl_name": "Benevento", "code": "062" },
+      { "intl_name": "Caserta", "code": "061" },
+      { "intl_name": "Napoli", "code": "001" },
+      { "intl_name": "Salerno", "code": "065" }
+    ]
+  },
+  {
+    "intl_name": "Emilia-Romagna",
+    "identifier": "EMR",
+    "code": "08",
+    "children": [
+      { "intl_name": "Bologna", "code": "037" },
+      { "intl_name": "Ferrara", "code": "038" },
+      { "intl_name": "Forlì-Cesena", "code": "040" },
+      { "intl_name": "Modena", "code": "036" },
+      { "intl_name": "Parma", "code": "034" },
+      { "intl_name": "Piacenza", "code": "033" },
+      { "intl_name": "Ravenna", "code": "039" },
+      { "intl_name": "Reggio Emilia", "code": "035" },
+      { "intl_name": "Rimini", "code": "099" }
+    ]
+  },
+  {
+    "intl_name": "Friuli Venezia Giulia",
+    "identifier": "FVG",
+    "code": "06",
+    "children": [
+      { "intl_name": "Gorizia", "code": "031" },
+      { "intl_name": "Pordenone", "code": "093" },
+      { "intl_name": "Trieste", "code": "032" },
+      { "intl_name": "Udine", "code": "030" }
+    ]
+  },
+  {
+    "intl_name": "Lazio",
+    "identifier": "LAZ",
+    "code": "12",
+    "children": [
+      { "intl_name": "Frosinone", "code": "060" },
+      { "intl_name": "Latina", "code": "059" },
+      { "intl_name": "Rieti", "code": "057" },
+      { "intl_name": "Roma", "code": "058" },
+      { "intl_name": "Viterbo", "code": "056" }
+    ]
+  },
+  {
+    "intl_name": "Liguria",
+    "identifier": "LIG",
+    "code": "07",
+    "children": [
+      { "intl_name": "Genova", "code": "010" },
+      { "intl_name": "Imperia", "code": "008" },
+      { "intl_name": "La Spezia", "code": "011" },
+      { "intl_name": "Savona", "code": "009" }
+    ]
+  },
+  {
+    "intl_name": "Lombardia",
+    "identifier": "LOM",
+    "code": "03",
+    "children": [
+      { "intl_name": "Bergamo", "code": "016" },
+      { "intl_name": "Brescia", "code": "017" },
+      { "intl_name": "Como", "code": "013" },
+      { "intl_name": "Cremona", "code": "019" },
+      { "intl_name": "Lecco", "code": "097" },
+      { "intl_name": "Lodi", "code": "098" },
+      { "intl_name": "Mantova", "code": "020" },
+      { "intl_name": "Milano", "code": "015" },
+      { "intl_name": "Monza e Brianza", "code": "108" },
+      { "intl_name": "Pavia", "code": "018" },
+      { "intl_name": "Sondrio", "code": "014" },
+      { "intl_name": "Varese", "code": "012" }
+    ]
+  },
+  {
+    "intl_name": "Marche",
+    "identifier": "MAR",
+    "code": "11",
+    "children": [
+      { "intl_name": "Ancona", "code": "042" },
+      { "intl_name": "Ascoli Piceno", "code": "044" },
+      { "intl_name": "Fermo", "code": "109" },
+      { "intl_name": "Macerata", "code": "043" },
+      { "intl_name": "Pesaro e Urbino", "code": "041" }
+    ]
+  },
+  {
+    "intl_name": "Molise",
+    "identifier": "MOL",
+    "code": "14",
+    "children": [
+      { "intl_name": "Campobasso", "code": "070" },
+      { "intl_name": "Isernia", "code": "094" }
+    ]
+  },
+  {
+    "intl_name": "Piemonte",
+    "identifier": "PIE",
+    "code": "01",
+    "children": [
+      { "intl_name": "Alessandria", "code": "006" },
+      { "intl_name": "Asti", "code": "005" },
+      { "intl_name": "Biella", "code": "096" },
+      { "intl_name": "Cuneo", "code": "004" },
+      { "intl_name": "Novara", "code": "003" },
+      { "intl_name": "Torino", "code": "002" },
+      { "intl_name": "Verbano-Cusio-Ossola", "code": "103" },
+      { "intl_name": "Vercelli", "code": "125" }
+    ]
+  },
+  {
+    "intl_name": "Puglia",
+    "identifier": "PUG",
+    "code": "16",
+    "children": [
+      { "intl_name": "Bari", "code": "072" },
+      { "intl_name": "Barletta-Andria-Trani", "code": "110" },
+      { "intl_name": "Brindisi", "code": "074" },
+      { "intl_name": "Foggia", "code": "071" },
+      { "intl_name": "Lecce", "code": "075" },
+      { "intl_name": "Taranto", "code": "073" }
+    ]
+  },
+  {
+    "intl_name": "Sardegna",
+    "identifier": "SAR",
+    "code": "20",
+    "children": [
+      { "intl_name": "Cagliari", "code": "092" },
+      { "intl_name": "Carbonia-Iglesias", "code": "111" },
+      { "intl_name": "Medio Campidano", "code": "112" },
+      { "intl_name": "Nuoro", "code": "091" },
+      { "intl_name": "Ogliastra", "code": "108" },
+      { "intl_name": "Olbia-Tempio", "code": "090" },
+      { "intl_name": "Oristano", "code": "095" },
+      { "intl_name": "Sassari", "code": "089" },
+      { "intl_name": "Sud Sardegna", "code": "088" }
+    ]
+  },
+  {
+    "intl_name": "Sicilia",
+    "identifier": "SIC",
+    "code": "19",
+    "children": [
+      { "intl_name": "Agrigento", "code": "084" },
+      { "intl_name": "Caltanissetta", "code": "085" },
+      { "intl_name": "Catania", "code": "087" },
+      { "intl_name": "Enna", "code": "086" },
+      { "intl_name": "Messina", "code": "083" },
+      { "intl_name": "Palermo", "code": "082" },
+      { "intl_name": "Ragusa", "code": "089" },
+      { "intl_name": "Siracusa", "code": "089" },
+      { "intl_name": "Trapani", "code": "091" }
+    ]
+  },
+  {
+    "intl_name": "Toscana",
+    "identifier": "TOS",
+    "code": "09",
+    "children": [
+      { "intl_name": "Arezzo", "code": "051" },
+      { "intl_name": "Firenze", "code": "048" },
+      { "intl_name": "Grosseto", "code": "053" },
+      { "intl_name": "Livorno", "code": "049" },
+      { "intl_name": "Lucca", "code": "046" },
+      { "intl_name": "Massa-Carrara", "code": "045" },
+      { "intl_name": "Pisa", "code": "050" },
+      { "intl_name": "Pistoia", "code": "047" },
+      { "intl_name": "Prato", "code": "049" },
+      { "intl_name": "Siena", "code": "052" }
+    ]
+  },
+  {
+    "intl_name": "Trentino-Alto Adige",
+    "identifier": "TAA",
+    "code": "04",
+    "children": [
+      { "intl_name": "Bolzano", "code": "021" },
+      { "intl_name": "Trento", "code": "022" }
+    ]
+  },
+  {
+    "intl_name": "Umbria",
+    "identifier": "UMB",
+    "code": "10",
+    "children": [
+      { "intl_name": "Perugia", "code": "054" },
+      { "intl_name": "Terni", "code": "055" }
+    ]
+  },
+  {
+    "intl_name": "Valle d'Aosta",
+    "identifier": "VDA",
+    "code": "02",
+    "children": [{ "intl_name": "Aosta", "code": "007" }]
+  },
+  {
+    "intl_name": "Veneto",
+    "identifier": "VEN",
+    "code": "05",
+    "children": [
+      { "intl_name": "Belluno", "code": "025" },
+      { "intl_name": "Padova", "code": "028" },
+      { "intl_name": "Rovigo", "code": "029" },
+      { "intl_name": "Treviso", "code": "026" },
+      { "intl_name": "Venezia", "code": "027" },
+      { "intl_name": "Verona", "code": "023" },
+      { "intl_name": "Vicenza", "code": "024" }
+    ]
+  }
+]

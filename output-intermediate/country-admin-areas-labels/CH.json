@@ -1,0 +1,36 @@
+[
+  { "name": "Zürich", "identifier": "ZH", "code": "1" },
+  { "name": "Berne", "identifier": "BE", "code": "2" },
+  { "name": "Lucerne", "identifier": "LU", "code": "3" },
+  { "name": "Uri", "identifier": "UR", "code": "4" },
+  { "name": "Schwytz", "identifier": "SZ", "code": "5" },
+  { "name": "Obwald", "identifier": "OW", "code": "6" },
+  { "name": "Nidwald", "identifier": "NW", "code": "7" },
+  { "name": "Glaris", "identifier": "GL", "code": "8" },
+  { "name": "Zoug", "identifier": "ZG", "code": "9" },
+  { "name": "Fribourg", "identifier": "FR", "code": "10" },
+  { "name": "Soleure", "identifier": "SO", "code": "11" },
+  { "name": "Bâle-Ville", "identifier": "BS", "code": "12" },
+  { "name": "Bâle-Campagne", "identifier": "BL", "code": "13" },
+  { "name": "Schaffhouse", "identifier": "SH", "code": "14" },
+  {
+    "name": "Appenzell Rhodes-Intérieures",
+    "identifier": "AI",
+    "code": "15"
+  },
+  {
+    "name": "Appenzell Rhodes-Extérieures",
+    "identifier": "AR",
+    "code": "16"
+  },
+  { "name": "Saint-Gall", "identifier": "SG", "code": "17" },
+  { "name": "Grisons", "identifier": "GR", "code": "18" },
+  { "name": "Argovie", "identifier": "AG", "code": "19" },
+  { "name": "Thurgovie", "identifier": "TG", "code": "20" },
+  { "name": "Tessin", "identifier": "TI", "code": "21" },
+  { "name": "Vaud", "identifier": "VD", "code": "22" },
+  { "name": "Valais", "identifier": "VS", "code": "23" },
+  { "name": "Neuchâtel", "identifier": "NE", "code": "24" },
+  { "name": "Genève", "identifier": "GE", "code": "25" },
+  { "name": "Jura", "identifier": "JU", "code": "26" }
+]

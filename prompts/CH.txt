@@ -1,0 +1,14 @@
+Je cherche la liste des cantons en Suisse.
+Peux-tu les donner dans un tableau JSON au format suivant :
+```
+[
+    {
+        "name": "Genève",
+        "identifier": "GE",
+        "code": "25"
+    },
+    ...
+]
+```
+
+Le JSON valide est :

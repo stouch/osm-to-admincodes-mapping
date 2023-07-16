@@ -1,0 +1,228 @@
+{
+  "relation:53937": {
+    "code": "13",
+    "identifier": "ABR",
+    "children": {
+      "relation:41542": { "code": "069" },
+      "relation:167044": { "code": "066" },
+      "relation:41778": { "code": "068" },
+      "relation:42024": { "code": "067" }
+    }
+  },
+  "relation:40137": {
+    "code": "17",
+    "identifier": "BAS",
+    "children": {
+      "relation:40259": { "code": "077" },
+      "relation:40136": { "code": "076" }
+    }
+  },
+  "relation:1783980": {
+    "code": "18",
+    "identifier": "CAL",
+    "children": {
+      "relation:39637": { "code": "079" },
+      "relation:39788": { "code": "078" },
+      "relation:39748": { "code": "101" },
+      "relation:44862": { "code": "080" },
+      "relation:44866": { "code": "102" }
+    }
+  },
+  "relation:40218": {
+    "code": "15",
+    "identifier": "CAM",
+    "children": {
+      "relation:40715": { "code": "064" },
+      "relation:40973": { "code": "062" },
+      "relation:40940": { "code": "061" },
+      "relation:40600": { "code": "001" },
+      "relation:40217": { "code": "065" }
+    }
+  },
+  "relation:42611": {
+    "code": "08",
+    "identifier": "EMR",
+    "children": {
+      "relation:42856": { "code": "037" },
+      "relation:43292": { "code": "038" },
+      "relation:42609": { "code": "040" },
+      "relation:42884": { "code": "036" },
+      "relation:43080": { "code": "034" },
+      "relation:43332": { "code": "033" },
+      "relation:42889": { "code": "039" },
+      "relation:42965": { "code": "035" },
+      "relation:42661": { "code": "099" }
+    }
+  },
+  "relation:179296": {
+    "code": "06",
+    "identifier": "FVG",
+    "children": {
+      "relation:179294": { "code": "031" },
+      "relation:179293": { "code": "093" },
+      "relation:179292": { "code": "032" },
+      "relation:179295": { "code": "030" }
+    }
+  },
+  "relation:40784": {
+    "code": "12",
+    "identifier": "LAZ",
+    "children": {
+      "relation:41223": { "code": "060" },
+      "relation:40783": { "code": "059" },
+      "relation:41781": { "code": "057" },
+      "relation:41313": { "code": "058" },
+      "relation:41817": { "code": "056" }
+    }
+  },
+  "relation:301482": {
+    "code": "07",
+    "identifier": "LIG",
+    "children": {
+      "relation:49135": { "code": "010" },
+      "relation:42628": { "code": "008" },
+      "relation:49131": { "code": "011" },
+      "relation:42760": { "code": "009" }
+    }
+  },
+  "relation:44879": {
+    "code": "03",
+    "identifier": "LOM",
+    "children": {
+      "relation:44996": { "code": "016" },
+      "relation:44882": { "code": "017" },
+      "relation:45614": { "code": "013" },
+      "relation:43893": { "code": "019" },
+      "relation:45639": { "code": "097" },
+      "relation:44181": { "code": "098" },
+      "relation:43798": { "code": "020" },
+      "relation:44881": { "code": "015" },
+      "relation:251419": { "code": "108" },
+      "relation:43483": { "code": "018" },
+      "relation:46708": { "code": "014" },
+      "relation:45347": { "code": "012" }
+    }
+  },
+  "relation:53060": {
+    "code": "11",
+    "identifier": "MAR",
+    "children": {
+      "relation:53059": { "code": "042" },
+      "relation:42141": { "code": "044" },
+      "relation:907991": { "code": "109" },
+      "relation:42212": { "code": "043" },
+      "relation:42455": { "code": "041" }
+    }
+  },
+  "relation:41256": {
+    "code": "14",
+    "identifier": "MOL",
+    "children": {
+      "relation:41255": { "code": "070" },
+      "relation:41277": { "code": "094" }
+    }
+  },
+  "relation:44874": {
+    "code": "01",
+    "identifier": "PIE",
+    "children": {
+      "relation:43199": { "code": "006" },
+      "relation:43267": { "code": "005" },
+      "relation:44913": { "code": "096" },
+      "relation:42845": { "code": "004" },
+      "relation:1552704": { "code": "003" },
+      "relation:44880": { "code": "002" },
+      "relation:46089": { "code": "103" },
+      "relation:1552705": { "code": "125" }
+    }
+  },
+  "relation:40095": {
+    "code": "16",
+    "identifier": "PUG",
+    "children": {
+      "relation:40707": { "code": "072" },
+      "relation:2203582": { "code": "110" },
+      "relation:40485": { "code": "074" },
+      "relation:41093": { "code": "071" },
+      "relation:40094": { "code": "075" },
+      "relation:40423": { "code": "073" }
+    }
+  },
+  "relation:7361997": {
+    "code": "20",
+    "identifier": "SAR",
+    "children": {
+      "relation:276369": { "code": "092" },
+      "relation:12998775": { "code": "112" },
+      "relation:39979": { "code": "091" },
+      "relation:12998778": { "code": "108" },
+      "relation:40021": { "code": "095" },
+      "relation:275098": { "code": "089" }
+    }
+  },
+  "relation:39152": {
+    "code": "19",
+    "identifier": "SIC",
+    "children": {
+      "relation:39151": { "code": "084" },
+      "relation:39178": { "code": "085" },
+      "relation:39181": { "code": "087" },
+      "relation:39216": { "code": "086" },
+      "relation:39374": { "code": "083" },
+      "relation:39295": { "code": "082" },
+      "relation:39157": { "code": "089" },
+      "relation:39155": { "code": "089" },
+      "relation:39166": { "code": "091" }
+    }
+  },
+  "relation:41977": {
+    "code": "09",
+    "identifier": "TOS",
+    "children": {
+      "relation:42366": { "code": "051" },
+      "relation:42472": { "code": "048" },
+      "relation:41976": { "code": "053" },
+      "relation:42147": { "code": "049" },
+      "relation:42614": { "code": "046" },
+      "relation:42782": { "code": "045" },
+      "relation:42338": { "code": "050" },
+      "relation:42637": { "code": "047" },
+      "relation:42619": { "code": "049" },
+      "relation:42172": { "code": "052" }
+    }
+  },
+  "relation:45757": {
+    "code": "04",
+    "identifier": "TAA",
+    "children": {
+      "relation:47046": { "code": "021" },
+      "relation:45756": { "code": "022" }
+    }
+  },
+  "relation:42004": {
+    "code": "10",
+    "identifier": "UMB",
+    "children": {
+      "relation:42106": { "code": "054" },
+      "relation:42003": { "code": "055" }
+    }
+  },
+  "relation:45155": {
+    "code": "02",
+    "identifier": "VDA",
+    "children": { "relation:45155": { "code": "007" } }
+  },
+  "relation:43648": {
+    "code": "05",
+    "identifier": "VEN",
+    "children": {
+      "relation:46429": { "code": "025" },
+      "relation:44217": { "code": "028" },
+      "relation:43647": { "code": "029" },
+      "relation:45300": { "code": "026" },
+      "relation:44230": { "code": "027" },
+      "relation:44107": { "code": "023" },
+      "relation:44580": { "code": "024" }
+    }
+  }
+}

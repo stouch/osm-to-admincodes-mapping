@@ -1,0 +1,21 @@
+Je cherche la liste des régions et des provinces d'Italie.
+Peux-tu les donner dans un tableau JSON au format suivant :
+```
+[
+    {
+        "intl_name": "Lombardia",
+        "identifier": "ITC",
+        "code": "25",
+        "children": [
+            {
+                "intl_name": "Bergamo",
+                "code": "24100"
+            },
+            ...
+        ] 
+    },
+    ...
+]
+```
+
+Le JSON valide est :

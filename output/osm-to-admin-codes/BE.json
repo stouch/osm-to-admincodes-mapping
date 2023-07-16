@@ -1,0 +1,25 @@
+{
+  "relation:90348": {
+    "code": "03000",
+    "identifier": "WAL",
+    "children": {
+      "relation:157559": { "code": "50000", "identifier": "WHT" },
+      "relation:1407192": { "code": "52000", "identifier": "WLG" },
+      "relation:1412581": { "code": "54000", "identifier": "WLX" },
+      "relation:1311816": { "code": "56000", "identifier": "WNA" },
+      "relation:78748": { "code": "57000", "identifier": "WBR" }
+    }
+  },
+  "relation:53134": {
+    "code": "02000",
+    "identifier": "VLG",
+    "children": {
+      "relation:53114": { "code": "10000", "identifier": "VAN" },
+      "relation:53142": { "code": "13000", "identifier": "VLI" },
+      "relation:53135": { "code": "15000", "identifier": "VOV" },
+      "relation:58004": { "code": "19000", "identifier": "VBR" },
+      "relation:416271": { "code": "23000", "identifier": "VWV" }
+    }
+  },
+  "relation:54094": { "code": "01000", "identifier": "BRU", "children": {} }
+}

@@ -1,0 +1,201 @@
+{
+  "relation:3792877": {
+    "code": "84",
+    "identifier": "ARA",
+    "children": {
+      "relation:7411": { "code": "01" },
+      "relation:1450201": { "code": "03" },
+      "relation:7430": { "code": "07" },
+      "relation:7381": { "code": "15" },
+      "relation:7434": { "code": "26" },
+      "relation:7452": { "code": "43" },
+      "relation:7407": { "code": "74" },
+      "relation:7437": { "code": "38" },
+      "relation:7420": { "code": "42" },
+      "relation:7406": { "code": "63" },
+      "relation:4850451": { "code": "69" },
+      "relation:7425": { "code": "73" }
+    }
+  },
+  "relation:3792878": {
+    "code": "27",
+    "identifier": "BFC",
+    "children": {
+      "relation:7424": { "code": "21" },
+      "relation:7462": { "code": "25" },
+      "relation:7460": { "code": "39" },
+      "relation:7448": { "code": "58" },
+      "relation:7423": { "code": "70" },
+      "relation:7397": { "code": "71" },
+      "relation:7392": { "code": "89" },
+      "relation:7410": { "code": "90" }
+    }
+  },
+  "relation:102740": {
+    "code": "53",
+    "identifier": "BRE",
+    "children": {
+      "relation:7398": { "code": "22" },
+      "relation:102430": { "code": "29" },
+      "relation:7465": { "code": "35" },
+      "relation:7447": { "code": "56" }
+    }
+  },
+  "relation:8640": {
+    "code": "24",
+    "identifier": "CVL",
+    "children": {
+      "relation:7456": { "code": "18" },
+      "relation:7374": { "code": "28" },
+      "relation:7417": { "code": "36" },
+      "relation:7408": { "code": "37" },
+      "relation:7399": { "code": "41" },
+      "relation:7440": { "code": "45" }
+    }
+  },
+  "relation:76910": {
+    "code": "94",
+    "identifier": "COR",
+    "children": {
+      "relation:76932": { "code": "2A" },
+      "relation:76931": { "code": "2B" }
+    }
+  },
+  "relation:3792876": {
+    "code": "44",
+    "identifier": "GES",
+    "children": {
+      "relation:7395": { "code": "08" },
+      "relation:7441": { "code": "10" },
+      "relation:7379": { "code": "51" },
+      "relation:7396": { "code": "52" },
+      "relation:51856": { "code": "54" },
+      "relation:7382": { "code": "55" },
+      "relation:51854": { "code": "57" },
+      "relation:7415": { "code": "67" },
+      "relation:7403": { "code": "68" },
+      "relation:7384": { "code": "88" }
+    }
+  },
+  "relation:4217435": {
+    "code": "32",
+    "identifier": "HDF",
+    "children": {
+      "relation:7411": { "code": "02" },
+      "relation:7400": { "code": "59" },
+      "relation:7427": { "code": "60" },
+      "relation:7394": { "code": "62" },
+      "relation:7463": { "code": "80" }
+    }
+  },
+  "relation:8649": {
+    "code": "11",
+    "identifier": "IDF",
+    "children": {
+      "relation:71525": { "code": "75" },
+      "relation:7383": { "code": "77" },
+      "relation:7457": { "code": "78" },
+      "relation:7401": { "code": "91" },
+      "relation:7449": { "code": "92" },
+      "relation:7389": { "code": "93" },
+      "relation:7458": { "code": "94" },
+      "relation:7433": { "code": "95" }
+    }
+  },
+  "relation:3793170": {
+    "code": "28",
+    "identifier": "NOR",
+    "children": {
+      "relation:7453": { "code": "14" },
+      "relation:7435": { "code": "27" },
+      "relation:7404": { "code": "50" },
+      "relation:7419": { "code": "61" },
+      "relation:7426": { "code": "76" }
+    }
+  },
+  "relation:3792880": {
+    "code": "75",
+    "identifier": "NAQ",
+    "children": {
+      "relation:7428": { "code": "16" },
+      "relation:7431": { "code": "17" },
+      "relation:7464": { "code": "19" },
+      "relation:7459": { "code": "23" },
+      "relation:7375": { "code": "24" },
+      "relation:7405": { "code": "33" },
+      "relation:7376": { "code": "40" },
+      "relation:1284995": { "code": "47" },
+      "relation:7450": { "code": "64" },
+      "relation:7455": { "code": "79" },
+      "relation:7377": { "code": "86" },
+      "relation:7418": { "code": "87" }
+    }
+  },
+  "relation:3792883": {
+    "code": "76",
+    "identifier": "OCC",
+    "children": {
+      "relation:7439": { "code": "09" },
+      "relation:7446": { "code": "11" },
+      "relation:7451": { "code": "12" },
+      "relation:7461": { "code": "30" },
+      "relation:7413": { "code": "31" },
+      "relation:7422": { "code": "32" },
+      "relation:7429": { "code": "34" },
+      "relation:7454": { "code": "46" },
+      "relation:7421": { "code": "48" },
+      "relation:7467": { "code": "65" },
+      "relation:7466": { "code": "66" },
+      "relation:7442": { "code": "81" },
+      "relation:7388": { "code": "82" }
+    }
+  },
+  "relation:8650": {
+    "code": "52",
+    "identifier": "PDL",
+    "children": {
+      "relation:7432": { "code": "44" },
+      "relation:7409": { "code": "49" },
+      "relation:7438": { "code": "53" },
+      "relation:7443": { "code": "72" },
+      "relation:7402": { "code": "85" }
+    }
+  },
+  "relation:8654": {
+    "code": "93",
+    "identifier": "PAC",
+    "children": {
+      "relation:7380": { "code": "04" },
+      "relation:7436": { "code": "05" },
+      "relation:7385": { "code": "06" },
+      "relation:7393": { "code": "13" },
+      "relation:7390": { "code": "83" },
+      "relation:7445": { "code": "84" }
+    }
+  },
+  "relation:2502058": {
+    "code": "03",
+    "identifier": "GUF",
+    "children": { "relation:2202121": { "code": "973" } }
+  },
+  "relation:2562137": {
+    "code": "01",
+    "identifier": "GLP",
+    "children": { "relation:1047206": { "code": "971" } }
+  },
+  "relation:2473088": {
+    "code": "02",
+    "identifier": "MTQ",
+    "children": { "relation:2473088": { "code": "972" } }
+  },
+  "relation:2470060": {
+    "code": "04",
+    "identifier": "REU",
+    "children": { "relation:77601": { "code": "974" } }
+  },
+  "relation:1363069": {
+    "code": "06",
+    "identifier": "MYT",
+    "children": { "relation:3388394": { "code": "976" } }
+  }
+}

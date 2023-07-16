@@ -1,0 +1,22 @@
+Je cherche la liste des régions et des départements de France.
+Il me faut également les DOM-TOM avec la Guyane, la Réunion, etc.
+Peux-tu les donner dans un tableau JSON au format suivant :
+```
+[
+    {
+        "name": "Bourgogne-Franche-Comté",
+        "identifier": "BFG",
+        "code": "27",
+        "children": [
+            {
+                "name": "Saône-et-loire",
+                "code": "71"
+            },
+            ...
+        ] 
+    },
+    ...
+]
+```
+
+Le JSON valide est :
