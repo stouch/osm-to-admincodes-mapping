@@ -25,7 +25,7 @@ npm ci
 
 ## Dev (new country)
 
-Create a `./prompts/<country>.json` for ChatGPT, and then you can execute Usage commands below.
+Create a `./prompts/<country>.txt` for ChatGPT, and then you can execute Usage commands below.
 
 ## Usage
 
