@@ -1,0 +1,18 @@
+{
+  "relation:62611": { "identifier": "BW", "children": {} },
+  "relation:2145268": { "identifier": "BY", "children": {} },
+  "relation:62422": { "identifier": "BE", "children": {} },
+  "relation:62504": { "identifier": "BB", "children": {} },
+  "relation:62718": { "identifier": "HB", "children": {} },
+  "relation:62782": { "identifier": "HH", "children": {} },
+  "relation:62650": { "identifier": "HE", "children": {} },
+  "relation:28322": { "identifier": "MV", "children": {} },
+  "relation:62771": { "identifier": "NI", "children": {} },
+  "relation:62761": { "identifier": "NW", "children": {} },
+  "relation:62341": { "identifier": "RP", "children": {} },
+  "relation:62372": { "identifier": "SL", "children": {} },
+  "relation:62467": { "identifier": "SN", "children": {} },
+  "relation:62607": { "identifier": "ST", "children": {} },
+  "relation:51529": { "identifier": "SH", "children": {} },
+  "relation:62366": { "identifier": "TH", "children": {} }
+}

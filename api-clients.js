@@ -1,5 +1,51 @@
 import fetch from "node-fetch";
 
+export const RequestGNFirstResult = async (
+  placeName,
+  countryCode,
+  layers = "macroregion,region"
+) => {
+  const queryURL = process.env.PELIAS_GEONAME_API_URL.replace(
+    /\{cc\}/,
+    countryCode
+  )
+    .replace(/\{layers\}/, layers)
+    .replace(/\{q\}/, encodeURIComponent(placeName));
+  const response = await fetch(queryURL, {
+    method: "GET",
+    headers: {
+      "Content-Type": "application/json",
+    },
+  });
+  const data = await response.json();
+  if (data.features && data.features.length > 0) {
+    return data.features[0].properties;
+  }
+};
+
+export const RequestWOFFirstResult = async (
+  placeName,
+  countryCode,
+  layers = "macroregion,region"
+) => {
+  const queryURL = process.env.PELIAS_WOF_API_URL.replace(
+    /\{cc\}/,
+    countryCode
+  )
+    .replace(/\{layers\}/, layers)
+    .replace(/\{q\}/, encodeURIComponent(placeName));
+  const response = await fetch(queryURL, {
+    method: "GET",
+    headers: {
+      "Content-Type": "application/json",
+    },
+  });
+  const data = await response.json();
+  if (data.features && data.features.length > 0) {
+    return data.features[0].properties;
+  }
+};
+
 /**
  *
  * @param {*} placeName

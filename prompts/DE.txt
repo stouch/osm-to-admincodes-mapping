@@ -1,0 +1,15 @@
+Je cherche la liste des Landers d'Allemagne.
+On veut les noms en allemand.
+Peux-tu les donner dans un tableau JSON au format suivant :
+```
+[
+    {
+        "intl_name": "Bayern",
+        "identifier": "BY",
+        "children": [] 
+    },
+    ...
+]
+```
+
+Le JSON valide est :

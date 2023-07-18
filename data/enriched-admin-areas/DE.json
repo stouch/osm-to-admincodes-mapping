@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Baden-Württemberg",
+    "identifier": "BW",
+    "osm_type": "relation",
+    "osm_id": 62611,
+    "children": []
+  },
+  {
+    "name": "Bavière",
+    "identifier": "BY",
+    "osm_type": "relation",
+    "osm_id": 2145268,
+    "children": []
+  },
+  {
+    "name": "Berlin",
+    "identifier": "BE",
+    "osm_type": "relation",
+    "osm_id": 62422,
+    "children": []
+  },
+  {
+    "name": "Brandebourg",
+    "identifier": "BB",
+    "osm_type": "relation",
+    "osm_id": 62504,
+    "children": []
+  },
+  {
+    "name": "Brême",
+    "identifier": "HB",
+    "osm_type": "relation",
+    "osm_id": 62718,
+    "children": []
+  },
+  {
+    "name": "Hambourg",
+    "identifier": "HH",
+    "osm_type": "relation",
+    "osm_id": 62782,
+    "children": []
+  },
+  {
+    "name": "Hesse",
+    "identifier": "HE",
+    "osm_type": "relation",
+    "osm_id": 62650,
+    "children": []
+  },
+  {
+    "name": "Mecklembourg-Poméranie-Occidentale",
+    "identifier": "MV",
+    "osm_type": "relation",
+    "osm_id": 28322,
+    "children": []
+  },
+  {
+    "name": "Basse-Saxe",
+    "identifier": "NI",
+    "osm_type": "relation",
+    "osm_id": 62771,
+    "children": []
+  },
+  {
+    "name": "Rhénanie-du-Nord-Westphalie",
+    "identifier": "NW",
+    "osm_type": "relation",
+    "osm_id": 62761,
+    "children": []
+  },
+  {
+    "name": "Rhénanie-Palatinat",
+    "identifier": "RP",
+    "osm_type": "relation",
+    "osm_id": 62341,
+    "children": []
+  },
+  {
+    "name": "Sarre",
+    "identifier": "SL",
+    "osm_type": "relation",
+    "osm_id": 62372,
+    "children": []
+  },
+  {
+    "name": "Saxe",
+    "identifier": "SN",
+    "osm_type": "relation",
+    "osm_id": 62467,
+    "children": []
+  },
+  {
+    "name": "Saxe-Anhalt",
+    "identifier": "ST",
+    "osm_type": "relation",
+    "osm_id": 62607,
+    "children": []
+  },
+  {
+    "name": "Schleswig-Holstein",
+    "identifier": "SH",
+    "osm_type": "relation",
+    "osm_id": 51529,
+    "children": []
+  },
+  {
+    "name": "Thuringe",
+    "identifier": "TH",
+    "osm_type": "relation",
+    "osm_id": 62366,
+    "children": []
+  }
+]

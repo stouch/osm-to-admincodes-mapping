@@ -1,0 +1,22 @@
+[
+  { "name": "Baden-Württemberg", "identifier": "BW", "children": [] },
+  { "name": "Bavière", "identifier": "BY", "children": [] },
+  { "name": "Berlin", "identifier": "BE", "children": [] },
+  { "name": "Brandebourg", "identifier": "BB", "children": [] },
+  { "name": "Brême", "identifier": "HB", "children": [] },
+  { "name": "Hambourg", "identifier": "HH", "children": [] },
+  { "name": "Hesse", "identifier": "HE", "children": [] },
+  {
+    "name": "Mecklembourg-Poméranie-Occidentale",
+    "identifier": "MV",
+    "children": []
+  },
+  { "name": "Basse-Saxe", "identifier": "NI", "children": [] },
+  { "name": "Rhénanie-du-Nord-Westphalie", "identifier": "NW", "children": [] },
+  { "name": "Rhénanie-Palatinat", "identifier": "RP", "children": [] },
+  { "name": "Sarre", "identifier": "SL", "children": [] },
+  { "name": "Saxe", "identifier": "SN", "children": [] },
+  { "name": "Saxe-Anhalt", "identifier": "ST", "children": [] },
+  { "name": "Schleswig-Holstein", "identifier": "SH", "children": [] },
+  { "name": "Thuringe", "identifier": "TH", "children": [] }
+]

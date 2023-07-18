@@ -1,0 +1,848 @@
+[
+  {
+    "name": "Abruzzo",
+    "code": "13",
+    "identifier": "ABR",
+    "osm_type": "relation",
+    "osm_id": 53937,
+    "children": [
+      {
+        "name": "Chieti",
+        "code": "069",
+        "osm_type": "relation",
+        "osm_id": 41542
+      },
+      {
+        "name": "L'Aquila",
+        "code": "066",
+        "osm_type": "relation",
+        "osm_id": 167044
+      },
+      {
+        "name": "Pescara",
+        "code": "068",
+        "osm_type": "relation",
+        "osm_id": 41778
+      },
+      {
+        "name": "Teramo",
+        "code": "067",
+        "osm_type": "relation",
+        "osm_id": 42024
+      }
+    ]
+  },
+  {
+    "name": "Basilicata",
+    "code": "17",
+    "identifier": "BAS",
+    "osm_type": "relation",
+    "osm_id": 40137,
+    "children": [
+      {
+        "name": "Matera",
+        "code": "077",
+        "osm_type": "relation",
+        "osm_id": 40259
+      },
+      {
+        "name": "Potenza",
+        "code": "076",
+        "osm_type": "relation",
+        "osm_id": 40136
+      }
+    ]
+  },
+  {
+    "name": "Calabria",
+    "code": "18",
+    "identifier": "CAL",
+    "osm_type": "relation",
+    "osm_id": 1783980,
+    "children": [
+      {
+        "name": "Catanzaro",
+        "code": "079",
+        "osm_type": "relation",
+        "osm_id": 39637
+      },
+      {
+        "name": "Cosenza",
+        "code": "078",
+        "osm_type": "relation",
+        "osm_id": 39788
+      },
+      {
+        "name": "Crotone",
+        "code": "101",
+        "osm_type": "relation",
+        "osm_id": 39748
+      },
+      {
+        "name": "Reggio Calabria",
+        "code": "080",
+        "osm_type": "relation",
+        "osm_id": 44862
+      },
+      {
+        "name": "Vibo Valentia",
+        "code": "102",
+        "osm_type": "relation",
+        "osm_id": 44866
+      }
+    ]
+  },
+  {
+    "name": "Campania",
+    "code": "15",
+    "identifier": "CAM",
+    "osm_type": "relation",
+    "osm_id": 40218,
+    "children": [
+      {
+        "name": "Avellino",
+        "code": "064",
+        "osm_type": "relation",
+        "osm_id": 40715
+      },
+      {
+        "name": "Benevento",
+        "code": "062",
+        "osm_type": "relation",
+        "osm_id": 40973
+      },
+      {
+        "name": "Caserta",
+        "code": "061",
+        "osm_type": "relation",
+        "osm_id": 40940
+      },
+      {
+        "name": "Napoli",
+        "code": "001",
+        "osm_type": "relation",
+        "osm_id": 40600
+      },
+      {
+        "name": "Salerno",
+        "code": "065",
+        "osm_type": "relation",
+        "osm_id": 40217
+      }
+    ]
+  },
+  {
+    "name": "Emilia-Romagna",
+    "code": "08",
+    "identifier": "EMR",
+    "osm_type": "relation",
+    "osm_id": 42611,
+    "children": [
+      {
+        "name": "Bologna",
+        "code": "037",
+        "osm_type": "relation",
+        "osm_id": 42856
+      },
+      {
+        "name": "Ferrara",
+        "code": "038",
+        "osm_type": "relation",
+        "osm_id": 43292
+      },
+      {
+        "name": "Forlì-Cesena",
+        "code": "040",
+        "osm_type": "relation",
+        "osm_id": 42609
+      },
+      {
+        "name": "Modena",
+        "code": "036",
+        "osm_type": "relation",
+        "osm_id": 42884
+      },
+      {
+        "name": "Parma",
+        "code": "034",
+        "osm_type": "relation",
+        "osm_id": 43080
+      },
+      {
+        "name": "Piacenza",
+        "code": "033",
+        "osm_type": "relation",
+        "osm_id": 43332
+      },
+      {
+        "name": "Ravenna",
+        "code": "039",
+        "osm_type": "relation",
+        "osm_id": 42889
+      },
+      {
+        "name": "Reggio Emilia",
+        "code": "035",
+        "osm_type": "relation",
+        "osm_id": 42965
+      },
+      {
+        "name": "Rimini",
+        "code": "099",
+        "osm_type": "relation",
+        "osm_id": 42661
+      }
+    ]
+  },
+  {
+    "name": "Friuli Venezia Giulia",
+    "code": "06",
+    "identifier": "FVG",
+    "osm_type": "relation",
+    "osm_id": 179296,
+    "children": [
+      {
+        "name": "Gorizia",
+        "code": "031",
+        "osm_type": "relation",
+        "osm_id": 179294
+      },
+      {
+        "name": "Pordenone",
+        "code": "093",
+        "osm_type": "relation",
+        "osm_id": 179293
+      },
+      {
+        "name": "Trieste",
+        "code": "032",
+        "osm_type": "relation",
+        "osm_id": 179292
+      },
+      {
+        "name": "Udine",
+        "code": "030",
+        "osm_type": "relation",
+        "osm_id": 179295
+      }
+    ]
+  },
+  {
+    "name": "Lazio",
+    "code": "12",
+    "identifier": "LAZ",
+    "osm_type": "relation",
+    "osm_id": 40784,
+    "children": [
+      {
+        "name": "Frosinone",
+        "code": "060",
+        "osm_type": "relation",
+        "osm_id": 41223
+      },
+      {
+        "name": "Latina",
+        "code": "059",
+        "osm_type": "relation",
+        "osm_id": 40783
+      },
+      {
+        "name": "Rieti",
+        "code": "057",
+        "osm_type": "relation",
+        "osm_id": 41781
+      },
+      {
+        "name": "Roma",
+        "code": "058",
+        "osm_type": "relation",
+        "osm_id": 41313
+      },
+      {
+        "name": "Viterbo",
+        "code": "056",
+        "osm_type": "relation",
+        "osm_id": 41817
+      }
+    ]
+  },
+  {
+    "name": "Liguria",
+    "code": "07",
+    "identifier": "LIG",
+    "osm_type": "relation",
+    "osm_id": 301482,
+    "children": [
+      {
+        "name": "Genova",
+        "code": "010",
+        "osm_type": "relation",
+        "osm_id": 49135
+      },
+      {
+        "name": "Imperia",
+        "code": "008",
+        "osm_type": "relation",
+        "osm_id": 42628
+      },
+      {
+        "name": "La Spezia",
+        "code": "011",
+        "osm_type": "relation",
+        "osm_id": 49131
+      },
+      {
+        "name": "Savona",
+        "code": "009",
+        "osm_type": "relation",
+        "osm_id": 42760
+      }
+    ]
+  },
+  {
+    "name": "Lombardia",
+    "code": "03",
+    "identifier": "LOM",
+    "osm_type": "relation",
+    "osm_id": 44879,
+    "children": [
+      {
+        "name": "Bergamo",
+        "code": "016",
+        "osm_type": "relation",
+        "osm_id": 44996
+      },
+      {
+        "name": "Brescia",
+        "code": "017",
+        "osm_type": "relation",
+        "osm_id": 44882
+      },
+      {
+        "name": "Como",
+        "code": "013",
+        "osm_type": "relation",
+        "osm_id": 45614
+      },
+      {
+        "name": "Cremona",
+        "code": "019",
+        "osm_type": "relation",
+        "osm_id": 43893
+      },
+      {
+        "name": "Lecco",
+        "code": "097",
+        "osm_type": "relation",
+        "osm_id": 45639
+      },
+      {
+        "name": "Lodi",
+        "code": "098",
+        "osm_type": "relation",
+        "osm_id": 44181
+      },
+      {
+        "name": "Mantova",
+        "code": "020",
+        "osm_type": "relation",
+        "osm_id": 43798
+      },
+      {
+        "name": "Milano",
+        "code": "015",
+        "osm_type": "relation",
+        "osm_id": 44881
+      },
+      {
+        "name": "Monza e Brianza",
+        "code": "108",
+        "osm_type": "relation",
+        "osm_id": 251419
+      },
+      {
+        "name": "Pavia",
+        "code": "018",
+        "osm_type": "relation",
+        "osm_id": 43483
+      },
+      {
+        "name": "Sondrio",
+        "code": "014",
+        "osm_type": "relation",
+        "osm_id": 46708
+      },
+      {
+        "name": "Varese",
+        "code": "012",
+        "osm_type": "relation",
+        "osm_id": 45347
+      }
+    ]
+  },
+  {
+    "name": "Marche",
+    "code": "11",
+    "identifier": "MAR",
+    "osm_type": "relation",
+    "osm_id": 53060,
+    "children": [
+      {
+        "name": "Ancona",
+        "code": "042",
+        "osm_type": "relation",
+        "osm_id": 53059
+      },
+      {
+        "name": "Ascoli Piceno",
+        "code": "044",
+        "osm_type": "relation",
+        "osm_id": 42141
+      },
+      {
+        "name": "Fermo",
+        "code": "109",
+        "osm_type": "relation",
+        "osm_id": 907991
+      },
+      {
+        "name": "Macerata",
+        "code": "043",
+        "osm_type": "relation",
+        "osm_id": 42212
+      },
+      {
+        "name": "Pesaro e Urbino",
+        "code": "041",
+        "osm_type": "relation",
+        "osm_id": 42455
+      }
+    ]
+  },
+  {
+    "name": "Molise",
+    "code": "14",
+    "identifier": "MOL",
+    "osm_type": "relation",
+    "osm_id": 41256,
+    "children": [
+      {
+        "name": "Campobasso",
+        "code": "070",
+        "osm_type": "relation",
+        "osm_id": 41255
+      },
+      {
+        "name": "Isernia",
+        "code": "094",
+        "osm_type": "relation",
+        "osm_id": 41277
+      }
+    ]
+  },
+  {
+    "name": "Piemonte",
+    "code": "01",
+    "identifier": "PIE",
+    "osm_type": "relation",
+    "osm_id": 44874,
+    "children": [
+      {
+        "name": "Alessandria",
+        "code": "006",
+        "osm_type": "relation",
+        "osm_id": 43199
+      },
+      {
+        "name": "Asti",
+        "code": "005",
+        "osm_type": "relation",
+        "osm_id": 43267
+      },
+      {
+        "name": "Biella",
+        "code": "096",
+        "osm_type": "relation",
+        "osm_id": 44913
+      },
+      {
+        "name": "Cuneo",
+        "code": "004",
+        "osm_type": "relation",
+        "osm_id": 42845
+      },
+      {
+        "name": "Novara",
+        "code": "003",
+        "osm_type": "relation",
+        "osm_id": 1552704
+      },
+      {
+        "name": "Torino",
+        "code": "002",
+        "osm_type": "relation",
+        "osm_id": 44880
+      },
+      {
+        "name": "Verbano-Cusio-Ossola",
+        "code": "103",
+        "osm_type": "relation",
+        "osm_id": 46089
+      },
+      {
+        "name": "Vercelli",
+        "code": "125",
+        "osm_type": "relation",
+        "osm_id": 1552705
+      }
+    ]
+  },
+  {
+    "name": "Puglia",
+    "code": "16",
+    "identifier": "PUG",
+    "osm_type": "relation",
+    "osm_id": 40095,
+    "children": [
+      {
+        "name": "Bari",
+        "code": "072",
+        "osm_type": "relation",
+        "osm_id": 40707
+      },
+      {
+        "name": "Barletta-Andria-Trani",
+        "code": "110",
+        "osm_type": "relation",
+        "osm_id": 2203582
+      },
+      {
+        "name": "Brindisi",
+        "code": "074",
+        "osm_type": "relation",
+        "osm_id": 40485
+      },
+      {
+        "name": "Foggia",
+        "code": "071",
+        "osm_type": "relation",
+        "osm_id": 41093
+      },
+      {
+        "name": "Lecce",
+        "code": "075",
+        "osm_type": "relation",
+        "osm_id": 40094
+      },
+      {
+        "name": "Taranto",
+        "code": "073",
+        "osm_type": "relation",
+        "osm_id": 40423
+      }
+    ]
+  },
+  {
+    "name": "Sardegna",
+    "code": "20",
+    "identifier": "SAR",
+    "osm_type": "relation",
+    "osm_id": 7361997,
+    "children": [
+      {
+        "name": "Cagliari",
+        "code": "092",
+        "osm_type": "relation",
+        "osm_id": 276369
+      },
+      {
+        "name": "Carbonia-Iglesias",
+        "code": "111",
+        "osm_type": null,
+        "osm_id": null
+      },
+      {
+        "name": "Medio Campidano",
+        "code": "112",
+        "osm_type": "relation",
+        "osm_id": 12998775
+      },
+      {
+        "name": "Nuoro",
+        "code": "091",
+        "osm_type": "relation",
+        "osm_id": 39979
+      },
+      {
+        "name": "Ogliastra",
+        "code": "108",
+        "osm_type": "relation",
+        "osm_id": 12998778
+      },
+      {
+        "name": "Olbia-Tempio",
+        "code": "090",
+        "osm_type": null,
+        "osm_id": null
+      },
+      {
+        "name": "Oristano",
+        "code": "095",
+        "osm_type": "relation",
+        "osm_id": 40021
+      },
+      {
+        "name": "Sassari",
+        "code": "089",
+        "osm_type": "relation",
+        "osm_id": 275098
+      },
+      {
+        "name": "Sud Sardegna",
+        "code": "088",
+        "osm_type": null,
+        "osm_id": null
+      }
+    ]
+  },
+  {
+    "name": "Sicilia",
+    "code": "19",
+    "identifier": "SIC",
+    "osm_type": "relation",
+    "osm_id": 39152,
+    "children": [
+      {
+        "name": "Agrigento",
+        "code": "084",
+        "osm_type": "relation",
+        "osm_id": 39151
+      },
+      {
+        "name": "Caltanissetta",
+        "code": "085",
+        "osm_type": "relation",
+        "osm_id": 39178
+      },
+      {
+        "name": "Catania",
+        "code": "087",
+        "osm_type": "relation",
+        "osm_id": 39181
+      },
+      {
+        "name": "Enna",
+        "code": "086",
+        "osm_type": "relation",
+        "osm_id": 39216
+      },
+      {
+        "name": "Messina",
+        "code": "083",
+        "osm_type": "relation",
+        "osm_id": 39374
+      },
+      {
+        "name": "Palermo",
+        "code": "082",
+        "osm_type": "relation",
+        "osm_id": 39295
+      },
+      {
+        "name": "Ragusa",
+        "code": "089",
+        "osm_type": "relation",
+        "osm_id": 39157
+      },
+      {
+        "name": "Siracusa",
+        "code": "089",
+        "osm_type": "relation",
+        "osm_id": 39155
+      },
+      {
+        "name": "Trapani",
+        "code": "091",
+        "osm_type": "relation",
+        "osm_id": 39166
+      }
+    ]
+  },
+  {
+    "name": "Toscana",
+    "code": "09",
+    "identifier": "TOS",
+    "osm_type": "relation",
+    "osm_id": 41977,
+    "children": [
+      {
+        "name": "Arezzo",
+        "code": "051",
+        "osm_type": "relation",
+        "osm_id": 42366
+      },
+      {
+        "name": "Firenze",
+        "code": "048",
+        "osm_type": "relation",
+        "osm_id": 42472
+      },
+      {
+        "name": "Grosseto",
+        "code": "053",
+        "osm_type": "relation",
+        "osm_id": 41976
+      },
+      {
+        "name": "Livorno",
+        "code": "049",
+        "osm_type": "relation",
+        "osm_id": 42147
+      },
+      {
+        "name": "Lucca",
+        "code": "046",
+        "osm_type": "relation",
+        "osm_id": 42614
+      },
+      {
+        "name": "Massa-Carrara",
+        "code": "045",
+        "osm_type": "relation",
+        "osm_id": 42782
+      },
+      {
+        "name": "Pisa",
+        "code": "050",
+        "osm_type": "relation",
+        "osm_id": 42338
+      },
+      {
+        "name": "Pistoia",
+        "code": "047",
+        "osm_type": "relation",
+        "osm_id": 42637
+      },
+      {
+        "name": "Prato",
+        "code": "049",
+        "osm_type": "relation",
+        "osm_id": 42619
+      },
+      {
+        "name": "Siena",
+        "code": "052",
+        "osm_type": "relation",
+        "osm_id": 42172
+      }
+    ]
+  },
+  {
+    "name": "Trentino-Alto Adige",
+    "code": "04",
+    "identifier": "TAA",
+    "osm_type": "relation",
+    "osm_id": 45757,
+    "children": [
+      {
+        "name": "Bolzano",
+        "code": "021",
+        "osm_type": "relation",
+        "osm_id": 47046
+      },
+      {
+        "name": "Trento",
+        "code": "022",
+        "osm_type": "relation",
+        "osm_id": 45756
+      }
+    ]
+  },
+  {
+    "name": "Umbria",
+    "code": "10",
+    "identifier": "UMB",
+    "osm_type": "relation",
+    "osm_id": 42004,
+    "children": [
+      {
+        "name": "Perugia",
+        "code": "054",
+        "osm_type": "relation",
+        "osm_id": 42106
+      },
+      {
+        "name": "Terni",
+        "code": "055",
+        "osm_type": "relation",
+        "osm_id": 42003
+      }
+    ]
+  },
+  {
+    "name": "Valle d'Aosta",
+    "code": "02",
+    "identifier": "VDA",
+    "osm_type": "relation",
+    "osm_id": 45155,
+    "children": [
+      {
+        "name": "Aosta",
+        "code": "007",
+        "osm_type": "relation",
+        "osm_id": 45155
+      }
+    ]
+  },
+  {
+    "name": "Veneto",
+    "code": "05",
+    "identifier": "VEN",
+    "osm_type": "relation",
+    "osm_id": 43648,
+    "children": [
+      {
+        "name": "Belluno",
+        "code": "025",
+        "osm_type": "relation",
+        "osm_id": 46429
+      },
+      {
+        "name": "Padova",
+        "code": "028",
+        "osm_type": "relation",
+        "osm_id": 44217
+      },
+      {
+        "name": "Rovigo",
+        "code": "029",
+        "osm_type": "relation",
+        "osm_id": 43647
+      },
+      {
+        "name": "Treviso",
+        "code": "026",
+        "osm_type": "relation",
+        "osm_id": 45300
+      },
+      {
+        "name": "Venezia",
+        "code": "027",
+        "osm_type": "relation",
+        "osm_id": 44230
+      },
+      {
+        "name": "Verona",
+        "code": "023",
+        "osm_type": "relation",
+        "osm_id": 44107
+      },
+      {
+        "name": "Vicenza",
+        "code": "024",
+        "osm_type": "relation",
+        "osm_id": 44580
+      }
+    ]
+  }
+]
