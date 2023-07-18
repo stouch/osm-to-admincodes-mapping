@@ -10,16 +10,16 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const higherAdminAreasCountries = ["BE"];
 const gnStateTypePerCountry = {
-  FR: "macroregion",
+  FR: ["macroregion"],
 };
 const gnSubareaTypePerCountry = {
-  FR: "region",
+  FR: ["region"],
 };
 const wofStateTypePerCountry = {
-  FR: "macroregion",
+  FR: ["macroregion"],
 };
 const wofSubareaTypePerCountry = {
-  FR: "region",
+  FR: ["region"],
 };
 
 const country = process.argv[2] || "FR";
@@ -130,7 +130,9 @@ for (const region of adminAreaLabels) {
     gnRegionSearch = await RequestGNFirstResult(
       region.intl_name || region.name,
       country,
-      gnStateTypePerCountry[country] || "macroregion"
+      gnStateTypePerCountry[country]
+        ? gnStateTypePerCountry[country].join(",")
+        : "macroregion"
     );
     if (
       !gnRegionSearch &&
@@ -160,7 +162,9 @@ for (const region of adminAreaLabels) {
     wofRegionSearch = await RequestWOFFirstResult(
       region.intl_name || region.name,
       country,
-      wofStateTypePerCountry[country] || "macroregion"
+      wofStateTypePerCountry[country]
+        ? wofStateTypePerCountry[country].join(",")
+        : "macroregion"
     );
     if (
       !wofRegionSearch &&
@@ -234,7 +238,9 @@ for (const region of adminAreaLabels) {
         gnSerach = await RequestGNFirstResult(
           subregion.intl_name || subregion.name,
           country,
-          gnSubareaTypePerCountry[country] || "region"
+          gnSubareaTypePerCountry[country]
+            ? gnSubareaTypePerCountry[country].join(",")
+            : "region"
         );
         if (gnSerach) {
           subregionData.gn_id = gnSerach.gid;
@@ -252,7 +258,9 @@ for (const region of adminAreaLabels) {
         wofSearch = await RequestWOFFirstResult(
           subregion.intl_name || subregion.name,
           country,
-          wofSubareaTypePerCountry[country] || "region"
+          wofSubareaTypePerCountry[country]
+            ? wofSubareaTypePerCountry[country].join(",")
+            : "region"
         );
         if (wofSearch) {
           subregionData.wof_id = wofSearch.gid;

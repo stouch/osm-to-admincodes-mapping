@@ -806,8 +806,8 @@
     "code": "03",
     "identifier": "GUF",
     "osm_id": "osm:relation:2502058",
-    "gn_id": null,
-    "wof_id": null,
+    "gn_id": "geonames:region:6690605",
+    "wof_id": "whosonfirst:region:85671195",
     "children": [
       {
         "name": "Guyane",
@@ -824,7 +824,7 @@
     "identifier": "GLP",
     "osm_id": "osm:relation:2562137",
     "gn_id": null,
-    "wof_id": null,
+    "wof_id": "whosonfirst:region:85671209",
     "children": [
       {
         "name": "Guadeloupe",
@@ -841,7 +841,7 @@
     "identifier": "MTQ",
     "osm_id": "osm:relation:2473088",
     "gn_id": null,
-    "wof_id": null,
+    "wof_id": "whosonfirst:region:85671191",
     "children": [
       {
         "name": "Martinique",
@@ -858,7 +858,7 @@
     "identifier": "REU",
     "osm_id": "osm:relation:2470060",
     "gn_id": null,
-    "wof_id": null,
+    "wof_id": "whosonfirst:region:85671199",
     "children": [
       {
         "name": "La Réunion",
@@ -875,7 +875,7 @@
     "identifier": "MYT",
     "osm_id": "osm:relation:1363069",
     "gn_id": null,
-    "wof_id": null,
+    "wof_id": "whosonfirst:region:85671203",
     "children": [
       {
         "name": "Mayotte",

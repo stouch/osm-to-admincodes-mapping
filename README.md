@@ -1,4 +1,4 @@
-# World administrative areas : From OSM/WOF/Geoname id to _AdminCodes_
+# World administrative areas : From OSM/WOF/Geoname id to _AdminCode_
 
 What we call _AdminCode_ is a common 2-3 digits (or letters) of an administrative area.
 For example, the subarea "Saône-et-Loire", in France, is _71_.
@@ -6,14 +6,6 @@ For example, the subarea "Saône-et-Loire", in France, is _71_.
 We often need to get quickly the _AdminCode_ of an admin area, but we only got its WOF (Whosonfirst), or its OSM (OpenStreetMap), or even its GeoNames id. Depending on endpoints we used to fetch the data, these ids are rarely returned with the area _AdminCode_.
 
 This project goals to map, in JSON files, the worldwide administrative areas, from different taxonomies (WOF, OSM, GN), with their common _AdminCode_.
-
-Currently available countries are :
-
-- France
-- Italy
-- Belgium
-- Switzerland
-- Germany
 
 Mappings are in `./output`
 

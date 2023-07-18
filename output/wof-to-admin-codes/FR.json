@@ -1,0 +1,197 @@
+{
+  "whosonfirst:macroregion:1108826389": {
+    "code": "84",
+    "identifier": "ARA",
+    "children": {
+      "whosonfirst:region:85683153": { "code": "01" },
+      "whosonfirst:region:85683293": { "code": "03" },
+      "whosonfirst:region:85683421": { "code": "07" },
+      "whosonfirst:region:85683517": { "code": "15" },
+      "whosonfirst:region:85683523": { "code": "26" },
+      "whosonfirst:region:85683413": { "code": "43" },
+      "whosonfirst:region:85683227": { "code": "73" },
+      "whosonfirst:region:85683427": { "code": "38" },
+      "whosonfirst:region:85683479": { "code": "42" },
+      "whosonfirst:region:85683471": { "code": "63" },
+      "whosonfirst:region:85683441": { "code": "69" }
+    }
+  },
+  "whosonfirst:macroregion:1108826395": {
+    "code": "27",
+    "identifier": "BFC",
+    "children": {
+      "whosonfirst:region:85683563": { "code": "21" },
+      "whosonfirst:region:85683239": { "code": "25" },
+      "whosonfirst:region:85683173": { "code": "39" },
+      "whosonfirst:region:85683359": { "code": "58" },
+      "whosonfirst:region:85683559": { "code": "70" },
+      "whosonfirst:region:85683543": { "code": "71" },
+      "whosonfirst:region:85683503": { "code": "89" },
+      "whosonfirst:region:85683353": { "code": "90" }
+    }
+  },
+  "whosonfirst:macroregion:404227447": {
+    "code": "53",
+    "identifier": "BRE",
+    "children": {
+      "whosonfirst:region:85683515": { "code": "22" },
+      "whosonfirst:region:85683553": { "code": "29" },
+      "whosonfirst:region:85683461": { "code": "35" },
+      "whosonfirst:region:85683507": { "code": "56" }
+    }
+  },
+  "whosonfirst:macroregion:404227461": {
+    "code": "24",
+    "identifier": "CVL",
+    "children": {
+      "whosonfirst:region:85683349": { "code": "41" },
+      "whosonfirst:region:85683189": { "code": "28" },
+      "whosonfirst:region:85683575": { "code": "37" },
+      "whosonfirst:region:85683479": { "code": "45" }
+    }
+  },
+  "whosonfirst:macroregion:404227453": {
+    "code": "94",
+    "identifier": "COR",
+    "children": {
+      "whosonfirst:region:85683167": { "code": "2A" },
+      "whosonfirst:region:85683493": { "code": "2B" }
+    }
+  },
+  "whosonfirst:macroregion:1108826391": {
+    "code": "44",
+    "identifier": "GES",
+    "children": {
+      "whosonfirst:region:85683309": { "code": "08" },
+      "whosonfirst:region:85683193": { "code": "10" },
+      "whosonfirst:region:85683459": { "code": "51" },
+      "whosonfirst:region:85683261": { "code": "52" },
+      "whosonfirst:region:85683343": { "code": "54" },
+      "whosonfirst:region:85683297": { "code": "55" },
+      "whosonfirst:region:85683271": { "code": "57" },
+      "whosonfirst:region:85683221": { "code": "67" },
+      "whosonfirst:region:85683381": { "code": "68" },
+      "whosonfirst:region:85683223": { "code": "88" }
+    }
+  },
+  "whosonfirst:macroregion:1108826399": {
+    "code": "32",
+    "identifier": "HDF",
+    "children": {
+      "whosonfirst:region:85683247": { "code": "02" },
+      "whosonfirst:region:85683445": { "code": "59" },
+      "whosonfirst:region:85683289": { "code": "60" },
+      "whosonfirst:region:85683255": { "code": "62" },
+      "whosonfirst:region:85683363": { "code": "80" }
+    }
+  },
+  "whosonfirst:macroregion:404227465": {
+    "code": "11",
+    "identifier": "IDF",
+    "children": {
+      "whosonfirst:region:85683497": { "code": "75" },
+      "whosonfirst:region:85683385": { "code": "77" },
+      "whosonfirst:region:85683367": { "code": "78" },
+      "whosonfirst:region:85683371": { "code": "91" },
+      "whosonfirst:region:85683157": { "code": "92" },
+      "whosonfirst:region:85683475": { "code": "93" },
+      "whosonfirst:region:85683459": { "code": "94" },
+      "whosonfirst:region:85683451": { "code": "95" }
+    }
+  },
+  "whosonfirst:macroregion:1108826393": {
+    "code": "28",
+    "identifier": "NOR",
+    "children": {
+      "whosonfirst:region:85683579": { "code": "14" },
+      "whosonfirst:region:85683189": { "code": "27" },
+      "whosonfirst:region:85683489": { "code": "50" },
+      "whosonfirst:region:85683527": { "code": "61" },
+      "whosonfirst:region:85683251": { "code": "76" }
+    }
+  },
+  "whosonfirst:macroregion:1108826385": {
+    "code": "75",
+    "identifier": "NAQ",
+    "children": {
+      "whosonfirst:region:85683275": { "code": "17" },
+      "whosonfirst:region:85683209": { "code": "19" },
+      "whosonfirst:region:85683179": { "code": "23" },
+      "whosonfirst:region:85683331": { "code": "24" },
+      "whosonfirst:region:85683243": { "code": "33" },
+      "whosonfirst:region:85683183": { "code": "40" },
+      "whosonfirst:region:85683341": { "code": "47" },
+      "whosonfirst:region:85683539": { "code": "64" },
+      "whosonfirst:region:85683163": { "code": "79" },
+      "whosonfirst:region:85683185": { "code": "86" },
+      "whosonfirst:region:85683531": { "code": "87" }
+    }
+  },
+  "whosonfirst:macroregion:1108826387": {
+    "code": "76",
+    "identifier": "OCC",
+    "children": {
+      "whosonfirst:region:85683335": { "code": "09" },
+      "whosonfirst:region:85683485": { "code": "11" },
+      "whosonfirst:region:85683301": { "code": "12" },
+      "whosonfirst:region:85683431": { "code": "30" },
+      "whosonfirst:region:85683397": { "code": "31" },
+      "whosonfirst:region:85683467": { "code": "32" },
+      "whosonfirst:region:85683419": { "code": "34" },
+      "whosonfirst:region:85683341": { "code": "46" },
+      "whosonfirst:region:85683453": { "code": "48" },
+      "whosonfirst:region:85683203": { "code": "65" },
+      "whosonfirst:region:85683169": { "code": "66" },
+      "whosonfirst:region:85683603": { "code": "81" },
+      "whosonfirst:region:85683217": { "code": "82" }
+    }
+  },
+  "whosonfirst:macroregion:404227423": {
+    "code": "52",
+    "identifier": "PDL",
+    "children": {
+      "whosonfirst:region:85683233": { "code": "44" },
+      "whosonfirst:region:85683327": { "code": "49" },
+      "whosonfirst:region:85683401": { "code": "53" },
+      "whosonfirst:region:85683279": { "code": "72" },
+      "whosonfirst:region:85683409": { "code": "85" }
+    }
+  },
+  "whosonfirst:macroregion:404227445": {
+    "code": "93",
+    "identifier": "PAC",
+    "children": {
+      "whosonfirst:region:85683509": { "code": "04" },
+      "whosonfirst:region:85683597": { "code": "05" },
+      "whosonfirst:region:85683323": { "code": "06" },
+      "whosonfirst:region:85683441": { "code": "13" },
+      "whosonfirst:region:85683315": { "code": "83" },
+      "whosonfirst:region:85683201": { "code": "84" }
+    }
+  },
+  "whosonfirst:region:85671195": {
+    "code": "03",
+    "identifier": "GUF",
+    "children": { "whosonfirst:region:85671195": { "code": "973" } }
+  },
+  "whosonfirst:region:85671209": {
+    "code": "01",
+    "identifier": "GLP",
+    "children": { "whosonfirst:region:85671209": { "code": "971" } }
+  },
+  "whosonfirst:region:85671191": {
+    "code": "02",
+    "identifier": "MTQ",
+    "children": { "whosonfirst:region:85671191": { "code": "972" } }
+  },
+  "whosonfirst:region:85671199": {
+    "code": "04",
+    "identifier": "REU",
+    "children": { "whosonfirst:region:85671199": { "code": "974" } }
+  },
+  "whosonfirst:region:85671203": {
+    "code": "06",
+    "identifier": "MYT",
+    "children": { "whosonfirst:region:85671203": { "code": "976" } }
+  }
+}
