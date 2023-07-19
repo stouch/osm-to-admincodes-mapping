@@ -1,5 +1,35 @@
 [
   {
+    "name": "Guyane",
+    "identifier": "GUF",
+    "code": "03",
+    "children": [{ "name": "Guyane", "code": "973" }]
+  },
+  {
+    "name": "Guadeloupe",
+    "identifier": "GLP",
+    "code": "01",
+    "children": [{ "name": "Guadeloupe", "code": "971" }]
+  },
+  {
+    "name": "Martinique",
+    "identifier": "MTQ",
+    "code": "02",
+    "children": [{ "name": "Martinique", "code": "972" }]
+  },
+  {
+    "name": "Réunion",
+    "identifier": "REU",
+    "code": "04",
+    "children": [{ "name": "Réunion", "code": "974" }]
+  },
+  {
+    "name": "Mayotte",
+    "identifier": "MYT",
+    "code": "06",
+    "children": [{ "name": "Mayotte", "code": "976" }]
+  },
+  {
     "name": "Auvergne-Rhône-Alpes",
     "identifier": "ARA",
     "code": "84",
@@ -62,8 +92,8 @@
     "identifier": "COR",
     "code": "94",
     "children": [
-      { "name": "Corse-du-Sud", "code": "2A" },
-      { "name": "Haute-Corse", "code": "2B" }
+      { "gn_name": "South Corsica", "name": "Corse-du-sud", "code": "2A" },
+      { "gn_name": "Upper Corsica", "name": "Haute-Corse", "code": "2B" }
     ]
   },
   {
@@ -89,7 +119,7 @@
     "code": "32",
     "children": [
       { "name": "Aisne", "code": "02" },
-      { "name": "Nord", "code": "59" },
+      { "gn_name": "North", "name": "Nord", "code": "59" },
       { "name": "Oise", "code": "60" },
       { "name": "Pas-de-Calais", "code": "62" },
       { "name": "Somme", "code": "80" }
@@ -150,7 +180,7 @@
       { "name": "Aude", "code": "11" },
       { "name": "Aveyron", "code": "12" },
       { "name": "Gard", "code": "30" },
-      { "name": "Haute-Garonne", "code": "31" },
+      { "gn_name": "Upper Garonne", "name": "Haute-Garonne", "code": "31" },
       { "name": "Gers", "code": "32" },
       { "name": "Hérault", "code": "34" },
       { "name": "Lot", "code": "46" },
@@ -185,35 +215,5 @@
       { "name": "Var", "code": "83" },
       { "name": "Vaucluse", "code": "84" }
     ]
-  },
-  {
-    "name": "Guyane",
-    "identifier": "GUF",
-    "code": "03",
-    "children": [{ "name": "Guyane", "code": "973" }]
-  },
-  {
-    "name": "Guadeloupe",
-    "identifier": "GLP",
-    "code": "01",
-    "children": [{ "name": "Guadeloupe", "code": "971" }]
-  },
-  {
-    "name": "Martinique",
-    "identifier": "MTQ",
-    "code": "02",
-    "children": [{ "name": "Martinique", "code": "972" }]
-  },
-  {
-    "name": "La Réunion",
-    "identifier": "REU",
-    "code": "04",
-    "children": [{ "name": "La Réunion", "code": "974" }]
-  },
-  {
-    "name": "Mayotte",
-    "identifier": "MYT",
-    "code": "06",
-    "children": [{ "name": "Mayotte", "code": "976" }]
   }
 ]

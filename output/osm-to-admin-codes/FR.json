@@ -1,4 +1,25 @@
 {
+  "osm:relation:2502058": {
+    "code": "03",
+    "identifier": "GUF",
+    "children": { "osm:relation:2202121": { "code": "973" } }
+  },
+  "osm:relation:2562137": {
+    "code": "01",
+    "identifier": "GLP",
+    "children": { "osm:relation:1047206": { "code": "971" } }
+  },
+  "osm:relation:2473088": { "code": "02", "identifier": "MTQ", "children": {} },
+  "osm:relation:2470060": {
+    "code": "04",
+    "identifier": "REU",
+    "children": { "osm:relation:77601": { "code": "974" } }
+  },
+  "osm:relation:1363069": {
+    "code": "06",
+    "identifier": "MYT",
+    "children": { "osm:relation:3388394": { "code": "976" } }
+  },
   "osm:relation:3792877": {
     "code": "84",
     "identifier": "ARA",
@@ -172,30 +193,5 @@
       "osm:relation:7390": { "code": "83" },
       "osm:relation:7445": { "code": "84" }
     }
-  },
-  "osm:relation:2502058": {
-    "code": "03",
-    "identifier": "GUF",
-    "children": { "osm:relation:2202121": { "code": "973" } }
-  },
-  "osm:relation:2562137": {
-    "code": "01",
-    "identifier": "GLP",
-    "children": { "osm:relation:1047206": { "code": "971" } }
-  },
-  "osm:relation:2473088": {
-    "code": "02",
-    "identifier": "MTQ",
-    "children": { "osm:relation:2473088": { "code": "972" } }
-  },
-  "osm:relation:2470060": {
-    "code": "04",
-    "identifier": "REU",
-    "children": { "osm:relation:77601": { "code": "974" } }
-  },
-  "osm:relation:1363069": {
-    "code": "06",
-    "identifier": "MYT",
-    "children": { "osm:relation:3388394": { "code": "976" } }
   }
 }

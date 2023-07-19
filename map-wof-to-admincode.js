@@ -14,8 +14,14 @@ structure = JSON.parse(structure);
 
 const finalMapping = {};
 for (const region of structure) {
+  if (region.wof_id === null) {
+    continue;
+  }
   const subregionsMapping = {};
   for (const subregion of region.children) {
+    if (subregion.wof_id === null) {
+      continue;
+    }
     subregionsMapping[`${subregion.wof_id}`] = {
       code: subregion.code || undefined,
       identifier: subregion.identifier || undefined,

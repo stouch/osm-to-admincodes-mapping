@@ -10,7 +10,7 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const higherAdminAreasCountries = ["BE"];
 const gnStateTypePerCountry = {
-  FR: ["macroregion"],
+  FR: ["macroregion", "dependency"],
 };
 const gnSubareaTypePerCountry = {
   FR: ["region"],
@@ -75,6 +75,7 @@ const notFoundOSMAreas = [];
 const notFoundGNAreas = [];
 const notFoundWOFAreas = [];
 const countryAdminAreas = [];
+let pre = "";
 for (const region of adminAreaLabels) {
   process.stdout.write(`_ About ${areaName(region)}... `);
 
@@ -88,15 +89,21 @@ for (const region of adminAreaLabels) {
     children: [],
   };
 
+  if (hasHigherAdminAreas) {
+    process.stdout.write(` (probably place_rank=6)...`);
+  }
+  process.stdout.write(`\n`);
+
+  pre = "  ";
+
   // Find a OSM ID
   if (process.env.OSM_API_URL) {
     let osmRegionSearch, osmRegionSearchRegion;
     // We first look for something above `state` or `county` (?q with a place_rank === 6)
     if (hasHigherAdminAreas) {
-      process.stdout.write(` (probably place_rank=6)... `);
       await sleep(200);
       osmRegionSearchRegion = await RequestOSMFirstResult(
-        region.intl_name || region.name,
+        region.osm_name || region.intl_name || region.name,
         country,
         "q"
       );
@@ -107,7 +114,7 @@ for (const region of adminAreaLabels) {
     } else {
       await sleep(200);
       osmRegionSearch = await RequestOSMFirstResult(
-        region.intl_name || region.name,
+        region.osm_name || region.intl_name || region.name,
         country,
         "state"
       );
@@ -115,10 +122,10 @@ for (const region of adminAreaLabels) {
     if (osmRegionSearch) {
       regionData.osm_id = `osm:${osmRegionSearch.osm_type}:${osmRegionSearch.osm_id}`;
       process.stdout.write(
-        `-> ${regionData.osm_id} (${osmRegionSearch.place_rank} - ${osmRegionSearch.display_name})`
+        `${pre}-> ${regionData.osm_id} (${osmRegionSearch.place_rank} - ${osmRegionSearch.display_name})\n`
       );
     } else {
-      process.stdout.write(`-> [error] retry later`);
+      process.stdout.write(`${pre}-> [error] NO MATCH\n`);
       notFoundOSMAreas.push(regionData);
     }
   }
@@ -128,7 +135,7 @@ for (const region of adminAreaLabels) {
     let gnRegionSearch;
     await sleep(200);
     gnRegionSearch = await RequestGNFirstResult(
-      region.intl_name || region.name,
+      region.gn_name || region.intl_name || region.name,
       country,
       gnStateTypePerCountry[country]
         ? gnStateTypePerCountry[country].join(",")
@@ -141,16 +148,18 @@ for (const region of adminAreaLabels) {
       // not a hyper-region ? this state might be just a "region"
       await sleep(200);
       gnRegionSearch = await RequestGNFirstResult(
-        region.intl_name || region.name,
+        region.gn_name || region.intl_name || region.name,
         country,
         "region"
       );
     }
     if (gnRegionSearch) {
       regionData.gn_id = gnRegionSearch.gid;
-      process.stdout.write(`-> ${regionData.gn_id} (${gnRegionSearch.label})`);
+      process.stdout.write(
+        `${pre}-> ${regionData.gn_id} (${gnRegionSearch.label})\n`
+      );
     } else {
-      process.stdout.write(`-> [error] retry later`);
+      process.stdout.write(`${pre}-> [error] NO MATCH\n`);
       notFoundGNAreas.push(regionData);
     }
   }
@@ -160,7 +169,7 @@ for (const region of adminAreaLabels) {
     let wofRegionSearch;
     await sleep(200);
     wofRegionSearch = await RequestWOFFirstResult(
-      region.intl_name || region.name,
+      region.wof_name || region.intl_name || region.name,
       country,
       wofStateTypePerCountry[country]
         ? wofStateTypePerCountry[country].join(",")
@@ -173,7 +182,7 @@ for (const region of adminAreaLabels) {
       // not a hyper-region ? this state might be just a "region"
       await sleep(200);
       wofRegionSearch = await RequestWOFFirstResult(
-        region.intl_name || region.name,
+        region.wof_name || region.intl_name || region.name,
         country,
         "region"
       );
@@ -181,10 +190,10 @@ for (const region of adminAreaLabels) {
     if (wofRegionSearch) {
       regionData.wof_id = wofRegionSearch.gid;
       process.stdout.write(
-        `-> ${regionData.wof_id} (${wofRegionSearch.label})`
+        `${pre}-> ${regionData.wof_id} (${wofRegionSearch.label})\n`
       );
     } else {
-      process.stdout.write(`-> [error] retry later`);
+      process.stdout.write(`${pre}-> [error] NO MATCH\n`);
       notFoundWOFAreas.push(regionData);
     }
   }
@@ -193,7 +202,9 @@ for (const region of adminAreaLabels) {
 
   if (region.children) {
     for (const subregion of region.children) {
-      process.stdout.write(`\\_ About ${areaName(subregion)}... `);
+      process.stdout.write(` \\_ About ${areaName(subregion)}...\n`);
+
+      pre = "    ";
 
       const subregionData = {
         name: subregion.intl_name || subregion.name,
@@ -208,25 +219,31 @@ for (const region of adminAreaLabels) {
       if (process.env.OSM_API_URL) {
         await sleep(200);
         let osmSearch = await RequestOSMFirstResult(
-          subregion.intl_name || subregion.name,
+          subregion.osm_name || subregion.intl_name || subregion.name,
           country,
           hasHigherAdminAreas ? "state" : "county"
         );
         if (!osmSearch) {
           await sleep(200);
           osmSearch = await RequestOSMFirstResult(
-            subregion.intl_name || subregion.name,
+            subregion.osm_name || subregion.intl_name || subregion.name,
             country,
             hasHigherAdminAreas ? "county" : "state" // try the other one in case of..
           );
         }
         if (osmSearch) {
-          subregionData.osm_id = `osm:${osmSearch.osm_type}:${osmSearch.osm_id}`;
-          process.stdout.write(
-            `-> ${subregionData.osm_id} (${osmSearch.place_rank} - ${osmSearch.display_name})`
-          );
+          if (
+            regionData.osm_id != `osm:${osmSearch.osm_type}:${osmSearch.osm_id}`
+          ) {
+            subregionData.osm_id = `osm:${osmSearch.osm_type}:${osmSearch.osm_id}`;
+            process.stdout.write(
+              `${pre}-> ${subregionData.osm_id} (${osmSearch.place_rank} - ${osmSearch.display_name})\n`
+            );
+          } else {
+            process.stdout.write(`${pre}-> Ignored\n`);
+          }
         } else {
-          process.stdout.write(`-> [error] retry later`);
+          process.stdout.write(`${pre}-> [error] NO MATCH\n`);
           notFoundOSMAreas.push(subregionData);
         }
       }
@@ -236,17 +253,23 @@ for (const region of adminAreaLabels) {
         let gnSerach;
         await sleep(200);
         gnSerach = await RequestGNFirstResult(
-          subregion.intl_name || subregion.name,
+          subregion.gn_name || subregion.intl_name || subregion.name,
           country,
           gnSubareaTypePerCountry[country]
             ? gnSubareaTypePerCountry[country].join(",")
             : "region"
         );
         if (gnSerach) {
-          subregionData.gn_id = gnSerach.gid;
-          process.stdout.write(`-> ${subregionData.gn_id} (${gnSerach.label})`);
+          if (regionData.gn_id != gnSerach.gid) {
+            subregionData.gn_id = gnSerach.gid;
+            process.stdout.write(
+              `${pre}-> ${subregionData.gn_id} (${gnSerach.label})\n`
+            );
+          } else {
+            process.stdout.write(`${pre}-> Ignored\n`);
+          }
         } else {
-          process.stdout.write(`-> [error] retry later`);
+          process.stdout.write(`${pre}-> [error] NO MATCH\n`);
           notFoundGNAreas.push(subregionData);
         }
       }
@@ -256,19 +279,23 @@ for (const region of adminAreaLabels) {
         let wofSearch;
         await sleep(200);
         wofSearch = await RequestWOFFirstResult(
-          subregion.intl_name || subregion.name,
+          subregion.wof_name || subregion.intl_name || subregion.name,
           country,
           wofSubareaTypePerCountry[country]
             ? wofSubareaTypePerCountry[country].join(",")
             : "region"
         );
         if (wofSearch) {
-          subregionData.wof_id = wofSearch.gid;
-          process.stdout.write(
-            `-> ${subregionData.wof_id} (${wofSearch.label})`
-          );
+          if (regionData.wof_id != wofSearch.gid) {
+            subregionData.wof_id = wofSearch.gid;
+            process.stdout.write(
+              `${pre}-> ${subregionData.wof_id} (${wofSearch.label})\n`
+            );
+          } else {
+            process.stdout.write(`${pre}-> Ignored\n`);
+          }
         } else {
-          process.stdout.write(`-> [error] retry later`);
+          process.stdout.write(`${pre}-> [error] NO MATCH\n`);
           notFoundGNAreas.push(subregionData);
         }
       }

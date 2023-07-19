@@ -1,16 +1,14 @@
-For each `<country>.txt`, we need to ask ChatGPT to return admin areas in this format :
+For each `<country>.txt`, we need ChatGPT to generate admin areas (`./admin-areas/<country>.json`) in this format :
 
 ```json
 [
     {
         "name": "Bourgogne-Franche-Comté",
-        "intl_name": "(optional. see IT.txt)",
         "identifier": "BFG",
         "code": "27",
         "children": [
             {
                 "name": "Saône-et-loire",
-                "intl_name": "(optional. see IT.txt)",
                 "code": "71"
             },
             ...

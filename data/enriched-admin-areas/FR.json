@@ -1,5 +1,90 @@
 [
   {
+    "name": "Guyane",
+    "code": "03",
+    "identifier": "GUF",
+    "osm_id": "osm:relation:2502058",
+    "gn_id": "geonames:dependency:3381670",
+    "wof_id": "whosonfirst:region:85671195",
+    "children": [
+      {
+        "name": "Guyane",
+        "code": "973",
+        "osm_id": "osm:relation:2202121",
+        "wof_id": null,
+        "gn_id": "geonames:region:6690605"
+      }
+    ]
+  },
+  {
+    "name": "Guadeloupe",
+    "code": "01",
+    "identifier": "GLP",
+    "osm_id": "osm:relation:2562137",
+    "gn_id": "geonames:dependency:3579143",
+    "wof_id": "whosonfirst:region:85671209",
+    "children": [
+      {
+        "name": "Guadeloupe",
+        "code": "971",
+        "osm_id": "osm:relation:1047206",
+        "wof_id": null,
+        "gn_id": "geonames:region:6690363"
+      }
+    ]
+  },
+  {
+    "name": "Martinique",
+    "code": "02",
+    "identifier": "MTQ",
+    "osm_id": "osm:relation:2473088",
+    "gn_id": "geonames:dependency:3570311",
+    "wof_id": "whosonfirst:region:85671191",
+    "children": [
+      {
+        "name": "Martinique",
+        "code": "972",
+        "osm_id": null,
+        "wof_id": null,
+        "gn_id": "geonames:region:6690603"
+      }
+    ]
+  },
+  {
+    "name": "Réunion",
+    "code": "04",
+    "identifier": "REU",
+    "osm_id": "osm:relation:2470060",
+    "gn_id": "geonames:dependency:935317",
+    "wof_id": "whosonfirst:region:85671199",
+    "children": [
+      {
+        "name": "Réunion",
+        "code": "974",
+        "osm_id": "osm:relation:77601",
+        "wof_id": null,
+        "gn_id": "geonames:region:6690283"
+      }
+    ]
+  },
+  {
+    "name": "Mayotte",
+    "code": "06",
+    "identifier": "MYT",
+    "osm_id": "osm:relation:1363069",
+    "gn_id": "geonames:dependency:1024031",
+    "wof_id": "whosonfirst:region:85671203",
+    "children": [
+      {
+        "name": "Mayotte",
+        "code": "976",
+        "osm_id": "osm:relation:3388394",
+        "wof_id": null,
+        "gn_id": null
+      }
+    ]
+  },
+  {
     "name": "Auvergne-Rhône-Alpes",
     "code": "84",
     "identifier": "ARA",
@@ -258,18 +343,18 @@
     "wof_id": "whosonfirst:macroregion:404227453",
     "children": [
       {
-        "name": "Corse-du-Sud",
+        "name": "Corse-du-sud",
         "code": "2A",
         "osm_id": "osm:relation:76932",
         "wof_id": "whosonfirst:region:85683167",
-        "gn_id": null
+        "gn_id": "geonames:region:3023514"
       },
       {
         "name": "Haute-Corse",
         "code": "2B",
         "osm_id": "osm:relation:76931",
         "wof_id": "whosonfirst:region:85683493",
-        "gn_id": null
+        "gn_id": "geonames:region:3013793"
       }
     ]
   },
@@ -373,7 +458,7 @@
         "code": "59",
         "osm_id": "osm:relation:7400",
         "wof_id": "whosonfirst:region:85683445",
-        "gn_id": null
+        "gn_id": "geonames:region:2990129"
       },
       {
         "name": "Oise",
@@ -644,7 +729,7 @@
         "code": "31",
         "osm_id": "osm:relation:7413",
         "wof_id": "whosonfirst:region:85683397",
-        "gn_id": null
+        "gn_id": "geonames:region:3013767"
       },
       {
         "name": "Gers",
@@ -798,91 +883,6 @@
         "osm_id": "osm:relation:7445",
         "wof_id": "whosonfirst:region:85683201",
         "gn_id": "geonames:region:2970554"
-      }
-    ]
-  },
-  {
-    "name": "Guyane",
-    "code": "03",
-    "identifier": "GUF",
-    "osm_id": "osm:relation:2502058",
-    "gn_id": "geonames:region:6690605",
-    "wof_id": "whosonfirst:region:85671195",
-    "children": [
-      {
-        "name": "Guyane",
-        "code": "973",
-        "osm_id": "osm:relation:2202121",
-        "wof_id": "whosonfirst:region:85671195",
-        "gn_id": "geonames:region:6690605"
-      }
-    ]
-  },
-  {
-    "name": "Guadeloupe",
-    "code": "01",
-    "identifier": "GLP",
-    "osm_id": "osm:relation:2562137",
-    "gn_id": null,
-    "wof_id": "whosonfirst:region:85671209",
-    "children": [
-      {
-        "name": "Guadeloupe",
-        "code": "971",
-        "osm_id": "osm:relation:1047206",
-        "wof_id": "whosonfirst:region:85671209",
-        "gn_id": null
-      }
-    ]
-  },
-  {
-    "name": "Martinique",
-    "code": "02",
-    "identifier": "MTQ",
-    "osm_id": "osm:relation:2473088",
-    "gn_id": null,
-    "wof_id": "whosonfirst:region:85671191",
-    "children": [
-      {
-        "name": "Martinique",
-        "code": "972",
-        "osm_id": "osm:relation:2473088",
-        "wof_id": "whosonfirst:region:85671191",
-        "gn_id": null
-      }
-    ]
-  },
-  {
-    "name": "La Réunion",
-    "code": "04",
-    "identifier": "REU",
-    "osm_id": "osm:relation:2470060",
-    "gn_id": null,
-    "wof_id": "whosonfirst:region:85671199",
-    "children": [
-      {
-        "name": "La Réunion",
-        "code": "974",
-        "osm_id": "osm:relation:77601",
-        "wof_id": "whosonfirst:region:85671199",
-        "gn_id": null
-      }
-    ]
-  },
-  {
-    "name": "Mayotte",
-    "code": "06",
-    "identifier": "MYT",
-    "osm_id": "osm:relation:1363069",
-    "gn_id": null,
-    "wof_id": "whosonfirst:region:85671203",
-    "children": [
-      {
-        "name": "Mayotte",
-        "code": "976",
-        "osm_id": "osm:relation:3388394",
-        "wof_id": "whosonfirst:region:85671203",
-        "gn_id": null
       }
     ]
   }

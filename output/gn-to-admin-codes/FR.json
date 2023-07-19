@@ -1,4 +1,29 @@
 {
+  "geonames:dependency:3381670": {
+    "code": "03",
+    "identifier": "GUF",
+    "children": { "geonames:region:6690605": { "code": "973" } }
+  },
+  "geonames:dependency:3579143": {
+    "code": "01",
+    "identifier": "GLP",
+    "children": { "geonames:region:6690363": { "code": "971" } }
+  },
+  "geonames:dependency:3570311": {
+    "code": "02",
+    "identifier": "MTQ",
+    "children": { "geonames:region:6690603": { "code": "972" } }
+  },
+  "geonames:dependency:935317": {
+    "code": "04",
+    "identifier": "REU",
+    "children": { "geonames:region:6690283": { "code": "974" } }
+  },
+  "geonames:dependency:1024031": {
+    "code": "06",
+    "identifier": "MYT",
+    "children": {}
+  },
   "geonames:macroregion:11071625": {
     "code": "84",
     "identifier": "ARA",
@@ -53,7 +78,10 @@
   "geonames:macroregion:3023519": {
     "code": "94",
     "identifier": "COR",
-    "children": { "null": { "code": "2B" } }
+    "children": {
+      "geonames:region:3023514": { "code": "2A" },
+      "geonames:region:3013793": { "code": "2B" }
+    }
   },
   "geonames:macroregion:11071622": {
     "code": "44",
@@ -76,7 +104,7 @@
     "identifier": "HDF",
     "children": {
       "geonames:region:3038375": { "code": "02" },
-      "null": { "code": "59" },
+      "geonames:region:2990129": { "code": "59" },
       "geonames:region:2989663": { "code": "60" },
       "geonames:region:2988430": { "code": "62" },
       "geonames:region:2974304": { "code": "80" }
@@ -132,7 +160,7 @@
       "geonames:region:3036264": { "code": "11" },
       "geonames:region:3035691": { "code": "12" },
       "geonames:region:3016670": { "code": "30" },
-      "null": { "code": "31" },
+      "geonames:region:3013767": { "code": "31" },
       "geonames:region:3016194": { "code": "32" },
       "geonames:region:3013500": { "code": "34" },
       "geonames:region:2997523": { "code": "46" },
@@ -165,15 +193,5 @@
       "geonames:region:2970749": { "code": "83" },
       "geonames:region:2970554": { "code": "84" }
     }
-  },
-  "geonames:region:6690605": {
-    "code": "03",
-    "identifier": "GUF",
-    "children": { "geonames:region:6690605": { "code": "973" } }
-  },
-  "null": {
-    "code": "06",
-    "identifier": "MYT",
-    "children": { "null": { "code": "976" } }
   }
 }
