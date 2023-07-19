@@ -34,11 +34,12 @@
       "geonames:region:3028791": { "code": "15" },
       "geonames:region:3020781": { "code": "26" },
       "geonames:region:3013760": { "code": "43" },
-      "geonames:region:3013736": { "code": "73" },
+      "geonames:region:3013736": { "code": "74" },
       "geonames:region:3012715": { "code": "38" },
-      "geonames:region:2997857": { "code": "42" },
+      "geonames:region:2997870": { "code": "42" },
       "geonames:region:2984986": { "code": "63" },
-      "geonames:region:3031359": { "code": "69" }
+      "geonames:region:2987410": { "code": "69" },
+      "geonames:region:2975517": { "code": "73" }
     }
   },
   "geonames:macroregion:11071619": {
@@ -69,9 +70,11 @@
     "code": "24",
     "identifier": "CVL",
     "children": {
-      "geonames:region:2997856": { "code": "41" },
+      "geonames:region:3025480": { "code": "18" },
       "geonames:region:3019316": { "code": "28" },
+      "geonames:region:3012805": { "code": "36" },
       "geonames:region:3012804": { "code": "37" },
+      "geonames:region:2997856": { "code": "41" },
       "geonames:region:2997857": { "code": "45" }
     }
   },
@@ -89,7 +92,7 @@
     "children": {
       "geonames:region:3037136": { "code": "08" },
       "geonames:region:3036420": { "code": "10" },
-      "geonames:region:2971090": { "code": "51" },
+      "geonames:region:2995603": { "code": "51" },
       "geonames:region:3013757": { "code": "52" },
       "geonames:region:2994111": { "code": "54" },
       "geonames:region:2994106": { "code": "55" },
@@ -129,7 +132,7 @@
     "identifier": "NOR",
     "children": {
       "geonames:region:3029094": { "code": "14" },
-      "geonames:region:3019316": { "code": "27" },
+      "geonames:region:3019317": { "code": "27" },
       "geonames:region:2996268": { "code": "50" },
       "geonames:region:2989247": { "code": "61" },
       "geonames:region:2975248": { "code": "76" }
@@ -139,6 +142,7 @@
     "code": "75",
     "identifier": "NAQ",
     "children": {
+      "geonames:region:3026646": { "code": "16" },
       "geonames:region:3026644": { "code": "17" },
       "geonames:region:3023532": { "code": "19" },
       "geonames:region:3022516": { "code": "23" },
@@ -163,7 +167,7 @@
       "geonames:region:3013767": { "code": "31" },
       "geonames:region:3016194": { "code": "32" },
       "geonames:region:3013500": { "code": "34" },
-      "geonames:region:2997523": { "code": "46" },
+      "geonames:region:2997524": { "code": "46" },
       "geonames:region:2997288": { "code": "48" },
       "geonames:region:3013726": { "code": "65" },
       "geonames:region:2984885": { "code": "66" },

@@ -95,7 +95,7 @@
       {
         "name": "Ain",
         "code": "01",
-        "osm_id": "osm:relation:7411",
+        "osm_id": "osm:relation:7387",
         "wof_id": "whosonfirst:region:85683153",
         "gn_id": "geonames:region:3038422"
       },
@@ -152,8 +152,8 @@
         "name": "Loire",
         "code": "42",
         "osm_id": "osm:relation:7420",
-        "wof_id": "whosonfirst:region:85683479",
-        "gn_id": "geonames:region:2997857"
+        "wof_id": "whosonfirst:region:85683377",
+        "gn_id": "geonames:region:2997870"
       },
       {
         "name": "Puy-de-Dôme",
@@ -166,15 +166,15 @@
         "name": "Rhône",
         "code": "69",
         "osm_id": "osm:relation:4850451",
-        "wof_id": "whosonfirst:region:85683441",
-        "gn_id": "geonames:region:3031359"
+        "wof_id": "whosonfirst:region:85683569",
+        "gn_id": "geonames:region:2987410"
       },
       {
         "name": "Savoie",
         "code": "73",
         "osm_id": "osm:relation:7425",
-        "wof_id": "whosonfirst:region:85683227",
-        "gn_id": "geonames:region:3013736"
+        "wof_id": "whosonfirst:region:85683265",
+        "gn_id": "geonames:region:2975517"
       }
     ]
   },
@@ -294,8 +294,8 @@
         "name": "Cher",
         "code": "18",
         "osm_id": "osm:relation:7456",
-        "wof_id": "whosonfirst:region:85683349",
-        "gn_id": "geonames:region:2997856"
+        "wof_id": "whosonfirst:region:85683549",
+        "gn_id": "geonames:region:3025480"
       },
       {
         "name": "Eure-et-Loir",
@@ -308,8 +308,8 @@
         "name": "Indre",
         "code": "36",
         "osm_id": "osm:relation:7417",
-        "wof_id": "whosonfirst:region:85683575",
-        "gn_id": "geonames:region:3012804"
+        "wof_id": "whosonfirst:region:85683311",
+        "gn_id": "geonames:region:3012805"
       },
       {
         "name": "Indre-et-Loire",
@@ -384,8 +384,8 @@
         "name": "Marne",
         "code": "51",
         "osm_id": "osm:relation:7379",
-        "wof_id": "whosonfirst:region:85683459",
-        "gn_id": "geonames:region:2971090"
+        "wof_id": "whosonfirst:region:85683405",
+        "gn_id": "geonames:region:2995603"
       },
       {
         "name": "Haute-Marne",
@@ -568,8 +568,8 @@
         "name": "Eure",
         "code": "27",
         "osm_id": "osm:relation:7435",
-        "wof_id": "whosonfirst:region:85683189",
-        "gn_id": "geonames:region:3019316"
+        "wof_id": "whosonfirst:region:85683283",
+        "gn_id": "geonames:region:3019317"
       },
       {
         "name": "Manche",
@@ -606,8 +606,8 @@
         "name": "Charente",
         "code": "16",
         "osm_id": "osm:relation:7428",
-        "wof_id": "whosonfirst:region:85683275",
-        "gn_id": "geonames:region:3026644"
+        "wof_id": "whosonfirst:region:85683437",
+        "gn_id": "geonames:region:3026646"
       },
       {
         "name": "Charente-Maritime",
@@ -749,8 +749,8 @@
         "name": "Lot",
         "code": "46",
         "osm_id": "osm:relation:7454",
-        "wof_id": "whosonfirst:region:85683341",
-        "gn_id": "geonames:region:2997523"
+        "wof_id": "whosonfirst:region:85683389",
+        "gn_id": "geonames:region:2997524"
       },
       {
         "name": "Lozère",

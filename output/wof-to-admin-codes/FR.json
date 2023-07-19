@@ -34,11 +34,12 @@
       "whosonfirst:region:85683517": { "code": "15" },
       "whosonfirst:region:85683523": { "code": "26" },
       "whosonfirst:region:85683413": { "code": "43" },
-      "whosonfirst:region:85683227": { "code": "73" },
+      "whosonfirst:region:85683227": { "code": "74" },
       "whosonfirst:region:85683427": { "code": "38" },
-      "whosonfirst:region:85683479": { "code": "42" },
+      "whosonfirst:region:85683377": { "code": "42" },
       "whosonfirst:region:85683471": { "code": "63" },
-      "whosonfirst:region:85683441": { "code": "69" }
+      "whosonfirst:region:85683569": { "code": "69" },
+      "whosonfirst:region:85683265": { "code": "73" }
     }
   },
   "whosonfirst:macroregion:1108826395": {
@@ -69,9 +70,11 @@
     "code": "24",
     "identifier": "CVL",
     "children": {
-      "whosonfirst:region:85683349": { "code": "41" },
+      "whosonfirst:region:85683549": { "code": "18" },
       "whosonfirst:region:85683189": { "code": "28" },
+      "whosonfirst:region:85683311": { "code": "36" },
       "whosonfirst:region:85683575": { "code": "37" },
+      "whosonfirst:region:85683349": { "code": "41" },
       "whosonfirst:region:85683479": { "code": "45" }
     }
   },
@@ -89,7 +92,7 @@
     "children": {
       "whosonfirst:region:85683309": { "code": "08" },
       "whosonfirst:region:85683193": { "code": "10" },
-      "whosonfirst:region:85683459": { "code": "51" },
+      "whosonfirst:region:85683405": { "code": "51" },
       "whosonfirst:region:85683261": { "code": "52" },
       "whosonfirst:region:85683343": { "code": "54" },
       "whosonfirst:region:85683297": { "code": "55" },
@@ -129,7 +132,7 @@
     "identifier": "NOR",
     "children": {
       "whosonfirst:region:85683579": { "code": "14" },
-      "whosonfirst:region:85683189": { "code": "27" },
+      "whosonfirst:region:85683283": { "code": "27" },
       "whosonfirst:region:85683489": { "code": "50" },
       "whosonfirst:region:85683527": { "code": "61" },
       "whosonfirst:region:85683251": { "code": "76" }
@@ -139,6 +142,7 @@
     "code": "75",
     "identifier": "NAQ",
     "children": {
+      "whosonfirst:region:85683437": { "code": "16" },
       "whosonfirst:region:85683275": { "code": "17" },
       "whosonfirst:region:85683209": { "code": "19" },
       "whosonfirst:region:85683179": { "code": "23" },
@@ -163,7 +167,7 @@
       "whosonfirst:region:85683397": { "code": "31" },
       "whosonfirst:region:85683467": { "code": "32" },
       "whosonfirst:region:85683419": { "code": "34" },
-      "whosonfirst:region:85683341": { "code": "46" },
+      "whosonfirst:region:85683389": { "code": "46" },
       "whosonfirst:region:85683453": { "code": "48" },
       "whosonfirst:region:85683203": { "code": "65" },
       "whosonfirst:region:85683169": { "code": "66" },

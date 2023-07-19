@@ -74,6 +74,9 @@ const areaName = (r) =>
 const notFoundOSMAreas = [];
 const notFoundGNAreas = [];
 const notFoundWOFAreas = [];
+const existingOSM = {};
+const existingGN = {};
+const existingWOF = {};
 const countryAdminAreas = [];
 let pre = "";
 for (const region of adminAreaLabels) {
@@ -121,6 +124,8 @@ for (const region of adminAreaLabels) {
     }
     if (osmRegionSearch) {
       regionData.osm_id = `osm:${osmRegionSearch.osm_type}:${osmRegionSearch.osm_id}`;
+      !existingOSM[regionData.osm_id] && (existingOSM[regionData.osm_id] = 0);
+      existingOSM[regionData.osm_id] += 1;
       process.stdout.write(
         `${pre}-> ${regionData.osm_id} (${osmRegionSearch.place_rank} - ${osmRegionSearch.display_name})\n`
       );
@@ -155,6 +160,8 @@ for (const region of adminAreaLabels) {
     }
     if (gnRegionSearch) {
       regionData.gn_id = gnRegionSearch.gid;
+      !existingGN[regionData.gn_id] && (existingGN[regionData.gn_id] = 0);
+      existingGN[regionData.gn_id] += 1;
       process.stdout.write(
         `${pre}-> ${regionData.gn_id} (${gnRegionSearch.label})\n`
       );
@@ -189,6 +196,8 @@ for (const region of adminAreaLabels) {
     }
     if (wofRegionSearch) {
       regionData.wof_id = wofRegionSearch.gid;
+      !existingWOF[regionData.osm_id] && (existingWOF[regionData.osm_id] = 0);
+      existingWOF[regionData.wof_id] += 1;
       process.stdout.write(
         `${pre}-> ${regionData.wof_id} (${wofRegionSearch.label})\n`
       );
@@ -236,6 +245,9 @@ for (const region of adminAreaLabels) {
             regionData.osm_id != `osm:${osmSearch.osm_type}:${osmSearch.osm_id}`
           ) {
             subregionData.osm_id = `osm:${osmSearch.osm_type}:${osmSearch.osm_id}`;
+            !existingOSM[subregionData.osm_id] &&
+              (existingOSM[subregionData.osm_id] = 0);
+            existingOSM[subregionData.osm_id] += 1;
             process.stdout.write(
               `${pre}-> ${subregionData.osm_id} (${osmSearch.place_rank} - ${osmSearch.display_name})\n`
             );
@@ -262,6 +274,9 @@ for (const region of adminAreaLabels) {
         if (gnSerach) {
           if (regionData.gn_id != gnSerach.gid) {
             subregionData.gn_id = gnSerach.gid;
+            !existingGN[subregionData.gn_id] &&
+              (existingGN[subregionData.gn_id] = 0);
+            existingGN[subregionData.gn_id] += 1;
             process.stdout.write(
               `${pre}-> ${subregionData.gn_id} (${gnSerach.label})\n`
             );
@@ -288,6 +303,9 @@ for (const region of adminAreaLabels) {
         if (wofSearch) {
           if (regionData.wof_id != wofSearch.gid) {
             subregionData.wof_id = wofSearch.gid;
+            !existingWOF[subregionData.wof_id] &&
+              (existingWOF[subregionData.wof_id] = 0);
+            existingWOF[subregionData.wof_id] += 1;
             process.stdout.write(
               `${pre}-> ${subregionData.wof_id} (${wofSearch.label})\n`
             );
@@ -308,7 +326,27 @@ for (const region of adminAreaLabels) {
   countryAdminAreas.push(regionData);
 }
 
-process.stdout.write(`\n`);
+process.stdout.write(`If duplicates, they appear just below: `);
+process.stdout.write(
+  "\n- " +
+    Object.keys(existingOSM)
+      .filter((osm) => existingOSM[osm] > 1)
+      .join("\n- ")
+);
+process.stdout.write(
+  "\n- " +
+    Object.keys(existingWOF)
+      .filter((wof) => existingWOF[wof] > 1)
+      .join("\n- ")
+);
+process.stdout.write(
+  "\n- " +
+    Object.keys(existingGN)
+      .filter((gn) => existingGN[gn] > 1)
+      .join("\n- ")
+);
+
+process.stdout.write(`\n\n`);
 process.stdout.write(
   `Finished to collect data about admin areas structure ! You can now run :\n`
 );

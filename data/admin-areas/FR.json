@@ -34,7 +34,7 @@
     "identifier": "ARA",
     "code": "84",
     "children": [
-      { "name": "Ain", "code": "01" },
+      { "osm_name": "FR-01", "name": "Ain", "code": "01" },
       { "name": "Allier", "code": "03" },
       { "name": "Ardèche", "code": "07" },
       { "name": "Cantal", "code": "15" },
@@ -42,10 +42,25 @@
       { "name": "Haute-Loire", "code": "43" },
       { "name": "Haute-Savoie", "code": "74" },
       { "name": "Isère", "code": "38" },
-      { "name": "Loire", "code": "42" },
+      {
+        "gn_name": "Loire, France",
+        "wof_name": "Loire, France",
+        "name": "Loire",
+        "code": "42"
+      },
       { "name": "Puy-de-Dôme", "code": "63" },
-      { "name": "Rhône", "code": "69" },
-      { "name": "Savoie", "code": "73" }
+      {
+        "gn_name": "Rhône, France",
+        "wof_name": "Rhône, France",
+        "name": "Rhône",
+        "code": "69"
+      },
+      {
+        "gn_name": "Savoie, France",
+        "wof_name": "Savoie, France",
+        "name": "Savoie",
+        "code": "73"
+      }
     ]
   },
   {
@@ -79,9 +94,19 @@
     "identifier": "CVL",
     "code": "24",
     "children": [
-      { "name": "Cher", "code": "18" },
+      {
+        "gn_name": "Cher, France",
+        "wof_name": "Cher, France",
+        "name": "Cher",
+        "code": "18"
+      },
       { "name": "Eure-et-Loir", "code": "28" },
-      { "name": "Indre", "code": "36" },
+      {
+        "gn_name": "Indre, France",
+        "wof_name": "Indre, France",
+        "name": "Indre",
+        "code": "36"
+      },
       { "name": "Indre-et-Loire", "code": "37" },
       { "name": "Loir-et-Cher", "code": "41" },
       { "name": "Loiret", "code": "45" }
@@ -103,7 +128,12 @@
     "children": [
       { "name": "Ardennes", "code": "08" },
       { "name": "Aube", "code": "10" },
-      { "name": "Marne", "code": "51" },
+      {
+        "gn_name": "Marne, Great East",
+        "wof_name": "Marne, Grand est",
+        "name": "Marne",
+        "code": "51"
+      },
       { "name": "Haute-Marne", "code": "52" },
       { "name": "Meurthe-et-Moselle", "code": "54" },
       { "name": "Meuse", "code": "55" },
@@ -146,7 +176,12 @@
     "code": "28",
     "children": [
       { "name": "Calvados", "code": "14" },
-      { "name": "Eure", "code": "27" },
+      {
+        "gn_name": "Eure, France",
+        "wof_name": "Eure, France",
+        "name": "Eure",
+        "code": "27"
+      },
       { "name": "Manche", "code": "50" },
       { "name": "Orne", "code": "61" },
       { "name": "Seine-Maritime", "code": "76" }
@@ -157,7 +192,12 @@
     "identifier": "NAQ",
     "code": "75",
     "children": [
-      { "name": "Charente", "code": "16" },
+      {
+        "gn_name": "Charente, France",
+        "wof_name": "Charente, France",
+        "name": "Charente",
+        "code": "16"
+      },
       { "name": "Charente-Maritime", "code": "17" },
       { "name": "Corrèze", "code": "19" },
       { "name": "Creuse", "code": "23" },
@@ -183,7 +223,12 @@
       { "gn_name": "Upper Garonne", "name": "Haute-Garonne", "code": "31" },
       { "name": "Gers", "code": "32" },
       { "name": "Hérault", "code": "34" },
-      { "name": "Lot", "code": "46" },
+      {
+        "gn_name": "Lot, France",
+        "wof_name": "Lot, France",
+        "name": "Lot",
+        "code": "46"
+      },
       { "name": "Lozère", "code": "48" },
       { "name": "Hautes-Pyrénées", "code": "65" },
       { "name": "Pyrénées-Orientales", "code": "66" },
