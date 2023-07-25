@@ -1,0 +1,537 @@
+[
+  {
+    "name": "Andalucía",
+    "identifier": "AN",
+    "osm_id": "osm:relation:349044",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227361",
+    "children": [
+      {
+        "name": "Almería",
+        "code": "AL",
+        "osm_id": "osm:relation:348997",
+        "wof_id": "whosonfirst:region:85682631",
+        "gn_id": null
+      },
+      {
+        "name": "Cádiz",
+        "code": "CA",
+        "osm_id": "osm:relation:349017",
+        "wof_id": "whosonfirst:region:85682679",
+        "gn_id": null
+      },
+      {
+        "name": "Córdoba",
+        "code": "CO",
+        "osm_id": "osm:relation:349016",
+        "wof_id": "whosonfirst:region:85682697",
+        "gn_id": null
+      },
+      {
+        "name": "Granada",
+        "code": "GR",
+        "osm_id": "osm:relation:349026",
+        "wof_id": "whosonfirst:region:85682731",
+        "gn_id": null
+      },
+      {
+        "name": "Huelva",
+        "code": "H",
+        "osm_id": "osm:relation:348995",
+        "wof_id": "whosonfirst:region:85682749",
+        "gn_id": null
+      },
+      {
+        "name": "Jaén",
+        "code": "J",
+        "osm_id": "osm:relation:348998",
+        "wof_id": "whosonfirst:region:85682757",
+        "gn_id": null
+      },
+      {
+        "name": "Málaga",
+        "code": "MA",
+        "osm_id": "osm:relation:5275848",
+        "wof_id": "whosonfirst:region:85682787",
+        "gn_id": null
+      },
+      {
+        "name": "Sevilla",
+        "code": "SE",
+        "osm_id": "osm:relation:349008",
+        "wof_id": "whosonfirst:region:85682841",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Aragón",
+    "identifier": "AR",
+    "osm_id": "osm:relation:349045",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227363",
+    "children": [
+      {
+        "name": "Huesca",
+        "code": "HU",
+        "osm_id": "osm:relation:349022",
+        "wof_id": "whosonfirst:region:85682753",
+        "gn_id": null
+      },
+      {
+        "name": "Teruel",
+        "code": "TE",
+        "osm_id": "osm:relation:349002",
+        "wof_id": "whosonfirst:region:85682857",
+        "gn_id": null
+      },
+      {
+        "name": "Zaragoza",
+        "code": "Z",
+        "osm_id": "osm:relation:349030",
+        "wof_id": "whosonfirst:region:85682891",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Asturias",
+    "identifier": "AS",
+    "osm_id": "osm:relation:349033",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227365",
+    "children": [
+      {
+        "name": "Asturias",
+        "code": "O",
+        "osm_id": "osm:relation:6428094",
+        "wof_id": "whosonfirst:region:85682805",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Islas Baleares",
+    "identifier": "IB",
+    "osm_id": "osm:relation:348981",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227367",
+    "children": [
+      {
+        "name": "Islas Baleares",
+        "code": "PM",
+        "osm_id": "osm:relation:6426656",
+        "wof_id": "whosonfirst:region:85682647",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Canarias",
+    "identifier": "CN",
+    "osm_id": "osm:relation:349048",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227369",
+    "children": [
+      {
+        "name": "Santa Cruz de Tenerife",
+        "code": "TF",
+        "osm_id": "osm:relation:349014",
+        "wof_id": "whosonfirst:region:85682831",
+        "gn_id": null
+      },
+      {
+        "name": "Las Palmas",
+        "code": "GC",
+        "osm_id": "osm:relation:349031",
+        "wof_id": "whosonfirst:region:85682821",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Cantabria",
+    "identifier": "CB",
+    "osm_id": "osm:relation:349013",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227371",
+    "children": [
+      {
+        "name": "Cantabria",
+        "code": "S",
+        "osm_id": "osm:relation:6426101",
+        "wof_id": "whosonfirst:region:85682833",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Castilla y León",
+    "identifier": "CL",
+    "osm_id": "osm:relation:349041",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227373",
+    "children": [
+      {
+        "name": "Ávila",
+        "code": "AV",
+        "osm_id": "osm:relation:349009",
+        "wof_id": "whosonfirst:region:85682639",
+        "gn_id": null
+      },
+      {
+        "name": "Burgos",
+        "code": "BU",
+        "osm_id": "osm:relation:349004",
+        "wof_id": "whosonfirst:region:85682667",
+        "gn_id": null
+      },
+      {
+        "name": "León",
+        "code": "LE",
+        "osm_id": "osm:relation:349010",
+        "wof_id": "whosonfirst:region:85682765",
+        "gn_id": null
+      },
+      {
+        "name": "Palencia",
+        "code": "P",
+        "osm_id": "osm:relation:349032",
+        "wof_id": "whosonfirst:region:85682815",
+        "gn_id": null
+      },
+      {
+        "name": "Salamanca",
+        "code": "SA",
+        "osm_id": "osm:relation:349029",
+        "wof_id": "whosonfirst:region:85682829",
+        "gn_id": null
+      },
+      {
+        "name": "Segovia",
+        "code": "SG",
+        "osm_id": "osm:relation:349007",
+        "wof_id": "whosonfirst:region:85682839",
+        "gn_id": null
+      },
+      {
+        "name": "Soria",
+        "code": "SO",
+        "osm_id": "osm:relation:349005",
+        "wof_id": "whosonfirst:region:85682847",
+        "gn_id": null
+      },
+      {
+        "name": "Valladolid",
+        "code": "VA",
+        "osm_id": "osm:relation:349001",
+        "wof_id": "whosonfirst:region:85682873",
+        "gn_id": null
+      },
+      {
+        "name": "Zamora",
+        "code": "ZA",
+        "osm_id": "osm:relation:348987",
+        "wof_id": "whosonfirst:region:85682883",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Castilla-La Mancha",
+    "identifier": "CM",
+    "osm_id": "osm:relation:349052",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227375",
+    "children": [
+      {
+        "name": "Albacete",
+        "code": "AB",
+        "osm_id": "osm:relation:348989",
+        "wof_id": "whosonfirst:region:85682621",
+        "gn_id": null
+      },
+      {
+        "name": "Ciudad Real",
+        "code": "CR",
+        "osm_id": "osm:relation:349019",
+        "wof_id": "whosonfirst:region:85682689",
+        "gn_id": null
+      },
+      {
+        "name": "Cuenca",
+        "code": "CU",
+        "osm_id": "osm:relation:349024",
+        "wof_id": "whosonfirst:region:85682715",
+        "gn_id": null
+      },
+      {
+        "name": "Guadalajara",
+        "code": "GU",
+        "osm_id": "osm:relation:349025",
+        "wof_id": "whosonfirst:region:85682737",
+        "gn_id": null
+      },
+      {
+        "name": "Toledo",
+        "code": "TO",
+        "osm_id": "osm:relation:348982",
+        "wof_id": "whosonfirst:region:85682863",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Cataluña",
+    "identifier": "CT",
+    "osm_id": "osm:relation:349053",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227379",
+    "children": [
+      {
+        "name": "Barcelona",
+        "code": "B",
+        "osm_id": "osm:relation:349035",
+        "wof_id": "whosonfirst:region:85682663",
+        "gn_id": null
+      },
+      {
+        "name": "Girona",
+        "code": "GI",
+        "osm_id": "osm:relation:349023",
+        "wof_id": "whosonfirst:region:85682721",
+        "gn_id": null
+      },
+      {
+        "name": "Lleida",
+        "code": "L",
+        "osm_id": "osm:relation:348990",
+        "wof_id": "whosonfirst:region:85682769",
+        "gn_id": null
+      },
+      {
+        "name": "Tarragona",
+        "code": "T",
+        "osm_id": "osm:relation:348985",
+        "wof_id": "whosonfirst:region:85682851",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Comunidad Valenciana",
+    "identifier": "VC",
+    "osm_id": "osm:relation:349043",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227381",
+    "children": [
+      {
+        "name": "Alicante",
+        "code": "A",
+        "osm_id": "osm:relation:349012",
+        "wof_id": "whosonfirst:region:85682625",
+        "gn_id": null
+      },
+      {
+        "name": "Castellón",
+        "code": "CS",
+        "osm_id": "osm:relation:349020",
+        "wof_id": "whosonfirst:region:85682685",
+        "gn_id": null
+      },
+      {
+        "name": "Valencia",
+        "code": "V",
+        "osm_id": "osm:relation:349000",
+        "wof_id": "whosonfirst:region:85682867",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Extremadura",
+    "identifier": "EX",
+    "osm_id": "osm:relation:349050",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227383",
+    "children": [
+      {
+        "name": "Badajoz",
+        "code": "BA",
+        "osm_id": "osm:relation:348994",
+        "wof_id": "whosonfirst:region:85682643",
+        "gn_id": null
+      },
+      {
+        "name": "Cáceres",
+        "code": "CC",
+        "osm_id": "osm:relation:1863380",
+        "wof_id": "whosonfirst:region:85682675",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Galicia",
+    "identifier": "GA",
+    "osm_id": "osm:relation:349036",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227385",
+    "children": [
+      {
+        "name": "A Coruña",
+        "code": "C",
+        "osm_id": "osm:relation:349021",
+        "wof_id": null,
+        "gn_id": null
+      },
+      {
+        "name": "Lugo",
+        "code": "LU",
+        "osm_id": "osm:relation:348992",
+        "wof_id": "whosonfirst:region:85682775",
+        "gn_id": null
+      },
+      {
+        "name": "Ourense",
+        "code": "OR",
+        "osm_id": "osm:relation:348988",
+        "wof_id": "whosonfirst:region:85682801",
+        "gn_id": null
+      },
+      {
+        "name": "Pontevedra",
+        "code": "PO",
+        "osm_id": "osm:relation:348986",
+        "wof_id": "whosonfirst:region:85682825",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "La Rioja",
+    "identifier": "RI",
+    "osm_id": "osm:relation:348991",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227397",
+    "children": [
+      {
+        "name": "La Rioja",
+        "code": "LO",
+        "osm_id": "osm:relation:6426654",
+        "wof_id": "whosonfirst:region:85682773",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Madrid",
+    "identifier": "MD",
+    "osm_id": "osm:relation:349055",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227387",
+    "children": [
+      {
+        "name": "Madrid",
+        "code": "M",
+        "osm_id": "osm:relation:6426653",
+        "wof_id": "whosonfirst:region:85682783",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Murcia",
+    "identifier": "MC",
+    "osm_id": "osm:relation:349047",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227389",
+    "children": [
+      {
+        "name": "Murcia",
+        "code": "MU",
+        "osm_id": "osm:relation:6427907",
+        "wof_id": "whosonfirst:region:85682791",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Navarra",
+    "identifier": "NC",
+    "osm_id": "osm:relation:349027",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227391",
+    "children": [
+      {
+        "name": "Navarra",
+        "code": "NA",
+        "osm_id": "osm:relation:6429242",
+        "wof_id": "whosonfirst:region:85682795",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "País Vasco",
+    "identifier": "PV",
+    "osm_id": "osm:relation:349042",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227393",
+    "children": [
+      {
+        "name": "Álava",
+        "code": "VI",
+        "osm_id": "osm:relation:349011",
+        "wof_id": "whosonfirst:region:85682615",
+        "gn_id": null
+      },
+      {
+        "name": "Gipuzkoa",
+        "code": "SS",
+        "osm_id": "osm:relation:349015",
+        "wof_id": "whosonfirst:region:85682741",
+        "gn_id": null
+      },
+      {
+        "name": "Bizkaia",
+        "code": "BI",
+        "osm_id": "osm:relation:349034",
+        "wof_id": null,
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Ceuta",
+    "identifier": "CE",
+    "osm_id": "osm:relation:1154756",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227399",
+    "children": [
+      {
+        "name": "Ceuta",
+        "code": "CE",
+        "osm_id": null,
+        "wof_id": "whosonfirst:region:85682895",
+        "gn_id": null
+      }
+    ]
+  },
+  {
+    "name": "Melilla",
+    "identifier": "ML",
+    "osm_id": "osm:relation:1154757",
+    "gn_id": null,
+    "wof_id": "whosonfirst:macroregion:404227401",
+    "children": [
+      {
+        "name": "Melilla",
+        "code": "ML",
+        "osm_id": null,
+        "wof_id": "whosonfirst:region:85682899",
+        "gn_id": null
+      }
+    ]
+  }
+]

@@ -7,6 +7,13 @@ We often need to get quickly the _AdminCode_ of an admin area, but we only got i
 
 This project goals to map, in JSON files, the worldwide administrative areas, from different taxonomies (WOF, OSM, GN), with their common _AdminCode_.
 
+Available countries:
+
+- France
+- Belgium
+- Switzerland
+- Spain
+- Germany
 
 ## Overview
 
@@ -16,7 +23,7 @@ This project goals to map, in JSON files, the worldwide administrative areas, fr
 
 Admin area names returned by ChatGPT can be fine-tuned to fit with each /autocomplete of Pelias, Nominatim or Geonames APIs, for next step:
 
-### Collecting IDs from multiple source 
+### Collecting IDs from multiple source
 
 Then, these data are enriched with APIs, using their names, so we can collect their IDs :
 

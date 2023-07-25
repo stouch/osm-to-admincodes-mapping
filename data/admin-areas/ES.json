@@ -1,0 +1,150 @@
+[
+  {
+    "intl_name": "Andalucía",
+    "identifier": "AN",
+    "children": [
+      { "name": "Almería", "code": "AL" },
+      { "name": "Cádiz", "code": "CA" },
+      { "name": "Córdoba", "code": "CO" },
+      { "name": "Granada", "code": "GR" },
+      { "name": "Huelva", "code": "H" },
+      { "name": "Jaén", "code": "J" },
+      { "name": "Málaga", "code": "MA" },
+      { "name": "Sevilla", "code": "SE" }
+    ]
+  },
+  {
+    "intl_name": "Aragón",
+    "identifier": "AR",
+    "children": [
+      { "name": "Huesca", "code": "HU" },
+      { "name": "Teruel", "code": "TE" },
+      { "name": "Zaragoza", "code": "Z" }
+    ]
+  },
+  {
+    "intl_name": "Asturias",
+    "identifier": "AS",
+    "children": [{ "name": "Asturias", "code": "O" }]
+  },
+  {
+    "intl_name": "Islas Baleares",
+    "identifier": "IB",
+    "children": [{ "name": "Islas Baleares", "code": "PM" }]
+  },
+  {
+    "intl_name": "Canarias",
+    "identifier": "CN",
+    "children": [
+      { "name": "Santa Cruz de Tenerife", "code": "TF" },
+      { "name": "Las Palmas", "code": "GC" }
+    ]
+  },
+  {
+    "intl_name": "Cantabria",
+    "identifier": "CB",
+    "children": [{ "name": "Cantabria", "code": "S" }]
+  },
+  {
+    "intl_name": "Castilla y León",
+    "identifier": "CL",
+    "children": [
+      { "name": "Ávila", "code": "AV" },
+      { "name": "Burgos", "code": "BU" },
+      { "name": "León", "code": "LE" },
+      { "name": "Palencia", "code": "P" },
+      { "name": "Salamanca", "code": "SA" },
+      { "name": "Segovia", "code": "SG" },
+      { "name": "Soria", "code": "SO" },
+      { "name": "Valladolid", "code": "VA" },
+      { "name": "Zamora", "code": "ZA" }
+    ]
+  },
+  {
+    "intl_name": "Castilla-La Mancha",
+    "identifier": "CM",
+    "children": [
+      { "name": "Albacete", "code": "AB" },
+      { "name": "Ciudad Real", "code": "CR" },
+      { "name": "Cuenca", "code": "CU" },
+      { "name": "Guadalajara", "code": "GU" },
+      { "name": "Toledo", "code": "TO" }
+    ]
+  },
+  {
+    "intl_name": "Cataluña",
+    "identifier": "CT",
+    "children": [
+      { "name": "Barcelona", "code": "B" },
+      { "name": "Girona", "code": "GI" },
+      { "name": "Lleida", "code": "L" },
+      { "name": "Tarragona", "code": "T" }
+    ]
+  },
+  {
+    "intl_name": "Comunidad Valenciana",
+    "identifier": "VC",
+    "children": [
+      { "name": "Alicante", "code": "A" },
+      { "name": "Castellón", "code": "CS" },
+      { "name": "Valencia", "code": "V" }
+    ]
+  },
+  {
+    "intl_name": "Extremadura",
+    "identifier": "EX",
+    "children": [
+      { "name": "Badajoz", "code": "BA" },
+      { "name": "Cáceres", "code": "CC" }
+    ]
+  },
+  {
+    "intl_name": "Galicia",
+    "identifier": "GA",
+    "children": [
+      { "name": "A Coruña", "code": "C" },
+      { "name": "Lugo", "code": "LU" },
+      { "name": "Ourense", "code": "OR" },
+      { "name": "Pontevedra", "code": "PO" }
+    ]
+  },
+  {
+    "intl_name": "La Rioja",
+    "identifier": "RI",
+    "children": [{ "name": "La Rioja", "code": "LO" }]
+  },
+  {
+    "intl_name": "Madrid",
+    "identifier": "MD",
+    "children": [{ "name": "Madrid", "code": "M" }]
+  },
+  {
+    "intl_name": "Murcia",
+    "identifier": "MC",
+    "children": [{ "name": "Murcia", "code": "MU" }]
+  },
+  {
+    "intl_name": "Navarra",
+    "identifier": "NC",
+    "children": [{ "name": "Navarra", "code": "NA" }]
+  },
+  {
+    "intl_name": "País Vasco",
+    "identifier": "PV",
+    "children": [
+      { "name": "Álava", "code": "VI" },
+      { "name": "Gipuzkoa", "code": "SS" },
+      { "name": "Bizkaia", "code": "BI" }
+    ]
+  },
+  {
+    "intl_name": "Ceuta",
+    "identifier": "CE",
+    "children": [{ "name": "Ceuta", "code": "CE" }]
+  },
+  {
+    "intl_name": "Melilla",
+    "identifier": "ML",
+    "children": [{ "name": "Melilla", "code": "ML" }]
+  }
+]

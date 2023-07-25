@@ -1,5 +1,6 @@
 [
   {
+    "gn_name": "Wallonia",
     "name": "Wallonie",
     "identifier": "WAL",
     "code": "03000",
@@ -12,15 +13,42 @@
     ]
   },
   {
+    "gn_name": "Flanders",
+    "wof_name": "Flemish Region",
     "name": "Flandre",
     "identifier": "VLG",
     "code": "02000",
     "children": [
-      { "name": "Anvers", "identifier": "VAN", "code": "10000" },
-      { "name": "Limbourg", "identifier": "VLI", "code": "13000" },
-      { "name": "Flandre orientale", "identifier": "VOV", "code": "15000" },
-      { "name": "Brabant flamand", "identifier": "VBR", "code": "19000" },
-      { "name": "Flandre occidentale", "identifier": "VWV", "code": "23000" }
+      {
+        "gn_name": "Antwerpen",
+        "name": "Anvers",
+        "identifier": "VAN",
+        "code": "10000"
+      },
+      {
+        "gn_name": "Limburg",
+        "name": "Limbourg",
+        "identifier": "VLI",
+        "code": "13000"
+      },
+      {
+        "gn_name": "Oost-Vlaanderen",
+        "name": "Flandre orientale",
+        "identifier": "VOV",
+        "code": "15000"
+      },
+      {
+        "gn_name": "Vlaams-Brabant",
+        "name": "Brabant flamand",
+        "identifier": "VBR",
+        "code": "19000"
+      },
+      {
+        "gn_name": "West-Vlaanderen",
+        "name": "Flandre occidentale",
+        "identifier": "VWV",
+        "code": "23000"
+      }
     ]
   },
   {

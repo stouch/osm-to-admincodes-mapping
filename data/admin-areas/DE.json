@@ -1,22 +1,79 @@
 [
   { "name": "Baden-Württemberg", "identifier": "BW", "children": [] },
-  { "name": "Bavière", "identifier": "BY", "children": [] },
+  {
+    "gn_name": "Bavaria",
+    "wof_name": "Bavaria",
+    "name": "Bavière",
+    "identifier": "BY",
+    "children": []
+  },
   { "name": "Berlin", "identifier": "BE", "children": [] },
-  { "name": "Brandebourg", "identifier": "BB", "children": [] },
+  {
+    "intl_name": "Brandenburg",
+    "name": "Brandebourg",
+    "identifier": "BB",
+    "children": []
+  },
   { "name": "Brême", "identifier": "HB", "children": [] },
-  { "name": "Hambourg", "identifier": "HH", "children": [] },
+  {
+    "intl_name": "Hamburg",
+    "name": "Hambourg",
+    "identifier": "HH",
+    "children": []
+  },
   { "name": "Hesse", "identifier": "HE", "children": [] },
   {
+    "gn_name": "Mecklenburg-Western Pomerania",
+    "intl_name": "Mecklenburg-Vorpommern",
     "name": "Mecklembourg-Poméranie-Occidentale",
     "identifier": "MV",
     "children": []
   },
-  { "name": "Basse-Saxe", "identifier": "NI", "children": [] },
-  { "name": "Rhénanie-du-Nord-Westphalie", "identifier": "NW", "children": [] },
-  { "name": "Rhénanie-Palatinat", "identifier": "RP", "children": [] },
-  { "name": "Sarre", "identifier": "SL", "children": [] },
-  { "name": "Saxe", "identifier": "SN", "children": [] },
-  { "name": "Saxe-Anhalt", "identifier": "ST", "children": [] },
+  {
+    "gn_name": "Lower Saxony",
+    "intl_name": "Niedersachsen",
+    "name": "Basse-Saxe",
+    "identifier": "NI",
+    "children": []
+  },
+  {
+    "intl_name": "Nordrhein-Westfalen",
+    "name": "Rhénanie-du-Nord-Westphalie",
+    "identifier": "NW",
+    "children": []
+  },
+  {
+    "intl_name": "Rheinland-Pfalz",
+    "name": "Rhénanie-Palatinat",
+    "identifier": "RP",
+    "children": []
+  },
+  {
+    "intl_name": "Saarland",
+    "name": "Sarre",
+    "identifier": "SL",
+    "children": []
+  },
+  {
+    "gn_name": "Saxony, Germany",
+    "intl_name": "Sachsen",
+    "name": "Saxe",
+    "identifier": "SN",
+    "children": []
+  },
+  {
+    "gn_name": "Saxony-Anhalt",
+    "intl_name": "Sachsen-Anhalt",
+    "name": "Saxe-Anhalt",
+    "identifier": "ST",
+    "children": []
+  },
   { "name": "Schleswig-Holstein", "identifier": "SH", "children": [] },
-  { "name": "Thuringe", "identifier": "TH", "children": [] }
+  {
+    "gn_name": "Thuringia",
+    "intl_name": "Freistaat Thüringen",
+    "name": "Thuringe",
+    "identifier": "TH",
+    "children": []
+  }
 ]

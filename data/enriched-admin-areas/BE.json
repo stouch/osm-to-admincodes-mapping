@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Wallonie",
+    "code": "03000",
+    "identifier": "WAL",
+    "osm_id": "osm:relation:90348",
+    "gn_id": "geonames:region:3337387",
+    "wof_id": "whosonfirst:macroregion:404227353",
+    "children": [
+      {
+        "name": "Hainaut",
+        "code": "50000",
+        "identifier": "WHT",
+        "osm_id": "osm:relation:157559",
+        "wof_id": "whosonfirst:region:85681723",
+        "gn_id": "geonames:county:2796741"
+      },
+      {
+        "name": "Liège",
+        "code": "52000",
+        "identifier": "WLG",
+        "osm_id": "osm:relation:1407192",
+        "wof_id": "whosonfirst:region:85681691",
+        "gn_id": "geonames:county:2792411"
+      },
+      {
+        "name": "Luxembourg",
+        "code": "54000",
+        "identifier": "WLX",
+        "osm_id": "osm:relation:1412581",
+        "wof_id": "whosonfirst:region:85681727",
+        "gn_id": "geonames:county:2791993"
+      },
+      {
+        "name": "Namur",
+        "code": "56000",
+        "identifier": "WNA",
+        "osm_id": "osm:relation:1311816",
+        "wof_id": "whosonfirst:region:85681699",
+        "gn_id": "geonames:county:2790469"
+      },
+      {
+        "name": "Brabant wallon",
+        "code": "57000",
+        "identifier": "WBR",
+        "osm_id": "osm:relation:78748",
+        "wof_id": "whosonfirst:region:85681693",
+        "gn_id": "geonames:county:3333251"
+      }
+    ]
+  },
+  {
+    "name": "Flandre",
+    "code": "02000",
+    "identifier": "VLG",
+    "osm_id": "osm:relation:53134",
+    "gn_id": "geonames:region:3337388",
+    "wof_id": "whosonfirst:macroregion:404227357",
+    "children": [
+      {
+        "name": "Anvers",
+        "code": "10000",
+        "identifier": "VAN",
+        "osm_id": "osm:relation:53114",
+        "wof_id": "whosonfirst:region:85681715",
+        "gn_id": "geonames:county:2803136"
+      },
+      {
+        "name": "Limbourg",
+        "code": "13000",
+        "identifier": "VLI",
+        "osm_id": "osm:relation:53142",
+        "wof_id": "whosonfirst:region:85681705",
+        "gn_id": "geonames:county:2792347"
+      },
+      {
+        "name": "Flandre orientale",
+        "code": "15000",
+        "identifier": "VOV",
+        "osm_id": "osm:relation:53135",
+        "wof_id": "whosonfirst:region:85681733",
+        "gn_id": "geonames:county:2789733"
+      },
+      {
+        "name": "Brabant flamand",
+        "code": "19000",
+        "identifier": "VBR",
+        "osm_id": "osm:relation:58004",
+        "wof_id": "whosonfirst:region:85681731",
+        "gn_id": "geonames:county:3333250"
+      },
+      {
+        "name": "Flandre occidentale",
+        "code": "23000",
+        "identifier": "VWV",
+        "osm_id": "osm:relation:416271",
+        "wof_id": "whosonfirst:region:85681709",
+        "gn_id": "geonames:county:2783770"
+      }
+    ]
+  },
+  {
+    "name": "Bruxelles-Capitale",
+    "code": "01000",
+    "identifier": "BRU",
+    "osm_id": "osm:relation:54094",
+    "gn_id": "geonames:region:2800867",
+    "wof_id": "whosonfirst:region:85681713",
+    "children": []
+  }
+]

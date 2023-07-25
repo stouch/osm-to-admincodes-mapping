@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Baden-Württemberg",
+    "identifier": "BW",
+    "osm_id": "osm:relation:62611",
+    "gn_id": "geonames:region:2953481",
+    "wof_id": "whosonfirst:region:85682567",
+    "children": []
+  },
+  {
+    "name": "Bavière",
+    "identifier": "BY",
+    "osm_id": "osm:relation:2145268",
+    "gn_id": "geonames:region:2951839",
+    "wof_id": "whosonfirst:region:85682571",
+    "children": []
+  },
+  {
+    "name": "Berlin",
+    "identifier": "BE",
+    "osm_id": "osm:relation:62422",
+    "gn_id": "geonames:region:2950157",
+    "wof_id": "whosonfirst:region:85682499",
+    "children": []
+  },
+  {
+    "name": "Brandenburg",
+    "identifier": "BB",
+    "osm_id": "osm:relation:62504",
+    "gn_id": "geonames:region:2945356",
+    "wof_id": "whosonfirst:region:85682553",
+    "children": []
+  },
+  {
+    "name": "Brême",
+    "identifier": "HB",
+    "osm_id": "osm:relation:62718",
+    "gn_id": "geonames:region:2944387",
+    "wof_id": "whosonfirst:region:85682561",
+    "children": []
+  },
+  {
+    "name": "Hamburg",
+    "identifier": "HH",
+    "osm_id": "osm:relation:62782",
+    "gn_id": "geonames:region:2911297",
+    "wof_id": "whosonfirst:region:85682505",
+    "children": []
+  },
+  {
+    "name": "Hesse",
+    "identifier": "HE",
+    "osm_id": "osm:relation:62650",
+    "gn_id": "geonames:region:2905330",
+    "wof_id": "whosonfirst:region:85682531",
+    "children": []
+  },
+  {
+    "name": "Mecklenburg-Vorpommern",
+    "identifier": "MV",
+    "osm_id": "osm:relation:28322",
+    "gn_id": "geonames:region:2872567",
+    "wof_id": "whosonfirst:region:85682487",
+    "children": []
+  },
+  {
+    "name": "Niedersachsen",
+    "identifier": "NI",
+    "osm_id": "osm:relation:62771",
+    "gn_id": "geonames:region:2862926",
+    "wof_id": "whosonfirst:region:85682555",
+    "children": []
+  },
+  {
+    "name": "Nordrhein-Westfalen",
+    "identifier": "NW",
+    "osm_id": "osm:relation:62761",
+    "gn_id": "geonames:region:2861876",
+    "wof_id": "whosonfirst:region:85682513",
+    "children": []
+  },
+  {
+    "name": "Rheinland-Pfalz",
+    "identifier": "RP",
+    "osm_id": "osm:relation:62341",
+    "gn_id": "geonames:region:2847618",
+    "wof_id": "whosonfirst:region:85682491",
+    "children": []
+  },
+  {
+    "name": "Saarland",
+    "identifier": "SL",
+    "osm_id": "osm:relation:62372",
+    "gn_id": "geonames:region:2842635",
+    "wof_id": "whosonfirst:region:85682479",
+    "children": []
+  },
+  {
+    "name": "Sachsen",
+    "identifier": "SN",
+    "osm_id": "osm:relation:62467",
+    "gn_id": "geonames:region:2842566",
+    "wof_id": "whosonfirst:region:85682523",
+    "children": []
+  },
+  {
+    "name": "Sachsen-Anhalt",
+    "identifier": "ST",
+    "osm_id": "osm:relation:62607",
+    "gn_id": "geonames:region:2842565",
+    "wof_id": "whosonfirst:region:85682519",
+    "children": []
+  },
+  {
+    "name": "Schleswig-Holstein",
+    "identifier": "SH",
+    "osm_id": "osm:relation:51529",
+    "gn_id": "geonames:region:2838632",
+    "wof_id": "whosonfirst:region:85682517",
+    "children": []
+  },
+  {
+    "name": "Freistaat Thüringen",
+    "identifier": "TH",
+    "osm_id": "osm:relation:62366",
+    "gn_id": "geonames:region:2822542",
+    "wof_id": "whosonfirst:region:85682541",
+    "children": []
+  }
+]

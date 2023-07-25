@@ -1,0 +1,21 @@
+Je cherche la liste des communautés autonomes d'Espagne et leurs provinces, écrites en espagnol.
+Je veux les codes ISO 3166-2 des provinces. 
+Peux-tu les donner dans un tableau JSON au format suivant :
+```
+[
+    {
+        "intl_name": "Andalucía",
+        "identifier": "AN",
+        "children": [
+            {
+                "name": "Almería",
+                "code": "AL"
+            },
+            ...
+        ] 
+    },
+    ...
+]
+```
+
+Le JSON valide est :

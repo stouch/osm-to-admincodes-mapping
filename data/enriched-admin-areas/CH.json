@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Zürich",
+    "code": "1",
+    "identifier": "ZH",
+    "osm_id": "osm:relation:1690227",
+    "gn_id": "geonames:region:2657895",
+    "wof_id": "whosonfirst:region:85682309",
+    "children": []
+  },
+  {
+    "name": "Berne",
+    "code": "2",
+    "identifier": "BE",
+    "osm_id": "osm:relation:1686344",
+    "gn_id": "geonames:region:2661551",
+    "wof_id": "whosonfirst:region:85682381",
+    "children": []
+  },
+  {
+    "name": "Lucerne",
+    "code": "3",
+    "identifier": "LU",
+    "osm_id": "osm:relation:1685677",
+    "gn_id": "geonames:region:2659810",
+    "wof_id": "whosonfirst:region:85682319",
+    "children": []
+  },
+  {
+    "name": "Uri",
+    "code": "4",
+    "identifier": "UR",
+    "osm_id": "osm:relation:1693971",
+    "gn_id": "geonames:region:2658226",
+    "wof_id": "whosonfirst:region:85682377",
+    "children": []
+  },
+  {
+    "name": "Schwyz",
+    "code": "5",
+    "identifier": "SZ",
+    "osm_id": "osm:relation:1688583",
+    "gn_id": "geonames:region:2658664",
+    "wof_id": "whosonfirst:region:85682305",
+    "children": []
+  },
+  {
+    "name": "Obwald",
+    "code": "6",
+    "identifier": "OW",
+    "osm_id": "osm:relation:1686448",
+    "gn_id": "geonames:region:2659315",
+    "wof_id": "whosonfirst:region:85682371",
+    "children": []
+  },
+  {
+    "name": "Nidwald",
+    "code": "7",
+    "identifier": "NW",
+    "osm_id": "osm:relation:1686449",
+    "gn_id": "geonames:region:2659471",
+    "wof_id": "whosonfirst:region:85682315",
+    "children": []
+  },
+  {
+    "name": "Glaris",
+    "code": "8",
+    "identifier": "GL",
+    "osm_id": "osm:relation:1685673",
+    "gn_id": "geonames:region:2660593",
+    "wof_id": "whosonfirst:region:85682249",
+    "children": []
+  },
+  {
+    "name": "Zoug",
+    "code": "9",
+    "identifier": "ZG",
+    "osm_id": "osm:relation:1686447",
+    "gn_id": "geonames:region:2657907",
+    "wof_id": "whosonfirst:region:85682263",
+    "children": []
+  },
+  {
+    "name": "Fribourg",
+    "code": "10",
+    "identifier": "FR",
+    "osm_id": "osm:relation:1698314",
+    "gn_id": "geonames:region:2660717",
+    "wof_id": "whosonfirst:region:85682301",
+    "children": []
+  },
+  {
+    "name": "Soleure",
+    "code": "11",
+    "identifier": "SO",
+    "osm_id": "osm:relation:1701133",
+    "gn_id": "geonames:region:2658563",
+    "wof_id": "whosonfirst:region:85682365",
+    "children": []
+  },
+  {
+    "name": "Bâle-Ville",
+    "code": "12",
+    "identifier": "BS",
+    "osm_id": "osm:relation:1699639",
+    "gn_id": "geonames:region:2661602",
+    "wof_id": "whosonfirst:region:85682297",
+    "children": []
+  },
+  {
+    "name": "Bâle-Campagne",
+    "code": "13",
+    "identifier": "BL",
+    "osm_id": "osm:relation:1686366",
+    "gn_id": "geonames:region:2661603",
+    "wof_id": "whosonfirst:region:85682361",
+    "children": []
+  },
+  {
+    "name": "Schaffhouse",
+    "code": "14",
+    "identifier": "SH",
+    "osm_id": "osm:relation:1696112",
+    "gn_id": "geonames:region:2658760",
+    "wof_id": "whosonfirst:region:85682285",
+    "children": []
+  },
+  {
+    "name": "Appenzell Rhodes-Intérieures",
+    "code": "15",
+    "identifier": "AI",
+    "osm_id": "osm:relation:1686666",
+    "gn_id": "geonames:region:2661741",
+    "wof_id": "whosonfirst:region:85682275",
+    "children": []
+  },
+  {
+    "name": "Appenzell Rhodes-Extérieures",
+    "code": "16",
+    "identifier": "AR",
+    "osm_id": "osm:relation:1686649",
+    "gn_id": "geonames:region:2661739",
+    "wof_id": "whosonfirst:region:85682353",
+    "children": []
+  },
+  {
+    "name": "Saint-Gall",
+    "code": "17",
+    "identifier": "SG",
+    "osm_id": "osm:relation:1687006",
+    "gn_id": "geonames:region:2658821",
+    "wof_id": "whosonfirst:region:85682341",
+    "children": []
+  },
+  {
+    "name": "Grisons",
+    "code": "18",
+    "identifier": "GR",
+    "osm_id": "osm:relation:1686631",
+    "gn_id": "geonames:region:2660522",
+    "wof_id": "whosonfirst:region:85682255",
+    "children": []
+  },
+  {
+    "name": "Argovie",
+    "code": "19",
+    "identifier": "AG",
+    "osm_id": "osm:relation:1686359",
+    "gn_id": "geonames:region:2661876",
+    "wof_id": "whosonfirst:region:85682329",
+    "children": []
+  },
+  {
+    "name": "Thurgovie",
+    "code": "20",
+    "identifier": "TG",
+    "osm_id": "osm:relation:1693811",
+    "gn_id": "geonames:region:2658372",
+    "wof_id": "whosonfirst:region:85682337",
+    "children": []
+  },
+  {
+    "name": "Tessin",
+    "code": "21",
+    "identifier": "TI",
+    "osm_id": "osm:relation:1687730",
+    "gn_id": "geonames:region:2658370",
+    "wof_id": "whosonfirst:region:85682269",
+    "children": []
+  },
+  {
+    "name": "Vaud",
+    "code": "22",
+    "identifier": "VD",
+    "osm_id": "osm:relation:1702421",
+    "gn_id": "geonames:region:2658182",
+    "wof_id": "whosonfirst:region:85682325",
+    "children": []
+  },
+  {
+    "name": "Valais",
+    "code": "23",
+    "identifier": "VS",
+    "osm_id": "osm:relation:1686699",
+    "gn_id": "geonames:region:2658205",
+    "wof_id": "whosonfirst:region:85682281",
+    "children": []
+  },
+  {
+    "name": "Neuchâtel",
+    "code": "24",
+    "identifier": "NE",
+    "osm_id": "osm:relation:1702420",
+    "gn_id": "geonames:region:2659495",
+    "wof_id": "whosonfirst:region:85682359",
+    "children": []
+  },
+  {
+    "name": "Genève",
+    "code": "25",
+    "identifier": "GE",
+    "osm_id": "osm:relation:1702419",
+    "gn_id": "geonames:region:2660645",
+    "wof_id": "whosonfirst:region:85682291",
+    "children": []
+  },
+  {
+    "name": "Jura",
+    "code": "26",
+    "identifier": "JU",
+    "osm_id": "osm:relation:1697347",
+    "gn_id": "geonames:region:2660207",
+    "wof_id": "whosonfirst:region:85682347",
+    "children": []
+  }
+]

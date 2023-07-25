@@ -1,0 +1,18 @@
+{
+  "osm:relation:62611": { "identifier": "BW", "children": {} },
+  "osm:relation:2145268": { "identifier": "BY", "children": {} },
+  "osm:relation:62422": { "identifier": "BE", "children": {} },
+  "osm:relation:62504": { "identifier": "BB", "children": {} },
+  "osm:relation:62718": { "identifier": "HB", "children": {} },
+  "osm:relation:62782": { "identifier": "HH", "children": {} },
+  "osm:relation:62650": { "identifier": "HE", "children": {} },
+  "osm:relation:28322": { "identifier": "MV", "children": {} },
+  "osm:relation:62771": { "identifier": "NI", "children": {} },
+  "osm:relation:62761": { "identifier": "NW", "children": {} },
+  "osm:relation:62341": { "identifier": "RP", "children": {} },
+  "osm:relation:62372": { "identifier": "SL", "children": {} },
+  "osm:relation:62467": { "identifier": "SN", "children": {} },
+  "osm:relation:62607": { "identifier": "ST", "children": {} },
+  "osm:relation:51529": { "identifier": "SH", "children": {} },
+  "osm:relation:62366": { "identifier": "TH", "children": {} }
+}

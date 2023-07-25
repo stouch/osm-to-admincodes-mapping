@@ -14,6 +14,7 @@ const gnStateTypePerCountry = {
 };
 const gnSubareaTypePerCountry = {
   FR: ["region"],
+  BE: ["region", "county"],
 };
 const wofStateTypePerCountry = {
   FR: ["macroregion"],
@@ -148,7 +149,8 @@ for (const region of adminAreaLabels) {
     );
     if (
       !gnRegionSearch &&
-      gnStateTypePerCountry[country].indexOf("region") === -1
+      (!gnStateTypePerCountry[country] ||
+        gnStateTypePerCountry[country].indexOf("region") === -1)
     ) {
       // not a hyper-region ? this state might be just a "region"
       await sleep(200);
@@ -184,7 +186,8 @@ for (const region of adminAreaLabels) {
     );
     if (
       !wofRegionSearch &&
-      wofStateTypePerCountry[country].indexOf("region") === -1
+      (!wofStateTypePerCountry[country] ||
+        wofStateTypePerCountry[country].indexOf("region") === -1)
     ) {
       // not a hyper-region ? this state might be just a "region"
       await sleep(200);

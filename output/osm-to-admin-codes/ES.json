@@ -1,0 +1,125 @@
+{
+  "osm:relation:349044": {
+    "identifier": "AN",
+    "children": {
+      "osm:relation:348997": { "code": "AL" },
+      "osm:relation:349017": { "code": "CA" },
+      "osm:relation:349016": { "code": "CO" },
+      "osm:relation:349026": { "code": "GR" },
+      "osm:relation:348995": { "code": "H" },
+      "osm:relation:348998": { "code": "J" },
+      "osm:relation:5275848": { "code": "MA" },
+      "osm:relation:349008": { "code": "SE" }
+    }
+  },
+  "osm:relation:349045": {
+    "identifier": "AR",
+    "children": {
+      "osm:relation:349022": { "code": "HU" },
+      "osm:relation:349002": { "code": "TE" },
+      "osm:relation:349030": { "code": "Z" }
+    }
+  },
+  "osm:relation:349033": {
+    "identifier": "AS",
+    "children": { "osm:relation:6428094": { "code": "O" } }
+  },
+  "osm:relation:348981": {
+    "identifier": "IB",
+    "children": { "osm:relation:6426656": { "code": "PM" } }
+  },
+  "osm:relation:349048": {
+    "identifier": "CN",
+    "children": {
+      "osm:relation:349014": { "code": "TF" },
+      "osm:relation:349031": { "code": "GC" }
+    }
+  },
+  "osm:relation:349013": {
+    "identifier": "CB",
+    "children": { "osm:relation:6426101": { "code": "S" } }
+  },
+  "osm:relation:349041": {
+    "identifier": "CL",
+    "children": {
+      "osm:relation:349009": { "code": "AV" },
+      "osm:relation:349004": { "code": "BU" },
+      "osm:relation:349010": { "code": "LE" },
+      "osm:relation:349032": { "code": "P" },
+      "osm:relation:349029": { "code": "SA" },
+      "osm:relation:349007": { "code": "SG" },
+      "osm:relation:349005": { "code": "SO" },
+      "osm:relation:349001": { "code": "VA" },
+      "osm:relation:348987": { "code": "ZA" }
+    }
+  },
+  "osm:relation:349052": {
+    "identifier": "CM",
+    "children": {
+      "osm:relation:348989": { "code": "AB" },
+      "osm:relation:349019": { "code": "CR" },
+      "osm:relation:349024": { "code": "CU" },
+      "osm:relation:349025": { "code": "GU" },
+      "osm:relation:348982": { "code": "TO" }
+    }
+  },
+  "osm:relation:349053": {
+    "identifier": "CT",
+    "children": {
+      "osm:relation:349035": { "code": "B" },
+      "osm:relation:349023": { "code": "GI" },
+      "osm:relation:348990": { "code": "L" },
+      "osm:relation:348985": { "code": "T" }
+    }
+  },
+  "osm:relation:349043": {
+    "identifier": "VC",
+    "children": {
+      "osm:relation:349012": { "code": "A" },
+      "osm:relation:349020": { "code": "CS" },
+      "osm:relation:349000": { "code": "V" }
+    }
+  },
+  "osm:relation:349050": {
+    "identifier": "EX",
+    "children": {
+      "osm:relation:348994": { "code": "BA" },
+      "osm:relation:1863380": { "code": "CC" }
+    }
+  },
+  "osm:relation:349036": {
+    "identifier": "GA",
+    "children": {
+      "osm:relation:349021": { "code": "C" },
+      "osm:relation:348992": { "code": "LU" },
+      "osm:relation:348988": { "code": "OR" },
+      "osm:relation:348986": { "code": "PO" }
+    }
+  },
+  "osm:relation:348991": {
+    "identifier": "RI",
+    "children": { "osm:relation:6426654": { "code": "LO" } }
+  },
+  "osm:relation:349055": {
+    "identifier": "MD",
+    "children": { "osm:relation:6426653": { "code": "M" } }
+  },
+  "osm:relation:349047": {
+    "identifier": "MC",
+    "children": { "osm:relation:6427907": { "code": "MU" } }
+  },
+  "osm:relation:349027": {
+    "identifier": "NC",
+    "children": { "osm:relation:6429242": { "code": "NA" } }
+  },
+  "osm:relation:349042": {
+    "identifier": "PV",
+    "children": {
+      "osm:relation:349011": { "code": "VI" },
+      "osm:relation:349015": { "code": "SS" },
+      "osm:relation:349034": { "code": "BI" }
+    }
+  },
+  "osm:relation:1154756": { "identifier": "CE", "children": {} },
+  "osm:relation:1154757": { "identifier": "ML", "children": {} }
+}

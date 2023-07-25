@@ -1,0 +1,29 @@
+{
+  "geonames:region:3337387": {
+    "code": "03000",
+    "identifier": "WAL",
+    "children": {
+      "geonames:county:2796741": { "code": "50000", "identifier": "WHT" },
+      "geonames:county:2792411": { "code": "52000", "identifier": "WLG" },
+      "geonames:county:2791993": { "code": "54000", "identifier": "WLX" },
+      "geonames:county:2790469": { "code": "56000", "identifier": "WNA" },
+      "geonames:county:3333251": { "code": "57000", "identifier": "WBR" }
+    }
+  },
+  "geonames:region:3337388": {
+    "code": "02000",
+    "identifier": "VLG",
+    "children": {
+      "geonames:county:2803136": { "code": "10000", "identifier": "VAN" },
+      "geonames:county:2792347": { "code": "13000", "identifier": "VLI" },
+      "geonames:county:2789733": { "code": "15000", "identifier": "VOV" },
+      "geonames:county:3333250": { "code": "19000", "identifier": "VBR" },
+      "geonames:county:2783770": { "code": "23000", "identifier": "VWV" }
+    }
+  },
+  "geonames:region:2800867": {
+    "code": "01000",
+    "identifier": "BRU",
+    "children": {}
+  }
+}
