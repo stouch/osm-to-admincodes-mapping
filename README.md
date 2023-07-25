@@ -14,6 +14,7 @@ Available countries:
 - Switzerland
 - Spain
 - Germany
+- Italy
 
 ## Overview
 
