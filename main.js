@@ -15,6 +15,7 @@ const gnStateTypePerCountry = {
 const gnSubareaTypePerCountry = {
   FR: ["region"],
   BE: ["region", "county"],
+  IT: ["region", "county"],
 };
 const wofStateTypePerCountry = {
   FR: ["macroregion"],

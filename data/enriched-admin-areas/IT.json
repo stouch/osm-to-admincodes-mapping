@@ -1,0 +1,1050 @@
+[
+  {
+    "name": "Abruzzo",
+    "code": "13",
+    "identifier": "ITF",
+    "osm_id": "osm:relation:53937",
+    "gn_id": "geonames:macroregion:3183560",
+    "wof_id": "whosonfirst:macroregion:404227519",
+    "children": [
+      {
+        "name": "Chieti",
+        "code": "069",
+        "identifier": "CH",
+        "osm_id": "osm:relation:41542",
+        "wof_id": "whosonfirst:region:85685519",
+        "gn_id": "geonames:county:3178795"
+      },
+      {
+        "name": "L'Aquila",
+        "code": "066",
+        "identifier": "AQ",
+        "osm_id": "osm:relation:167044",
+        "wof_id": "whosonfirst:region:85685505",
+        "gn_id": "geonames:county:3175120"
+      },
+      {
+        "name": "Pescara",
+        "code": "068",
+        "identifier": "PE",
+        "osm_id": "osm:relation:41778",
+        "wof_id": "whosonfirst:region:85685513",
+        "gn_id": "geonames:county:3171163"
+      },
+      {
+        "name": "Teramo",
+        "code": "067",
+        "identifier": "TE",
+        "osm_id": "osm:relation:42024",
+        "wof_id": "whosonfirst:region:85685509",
+        "gn_id": "geonames:county:3165802"
+      }
+    ]
+  },
+  {
+    "name": "Basilicata",
+    "code": "17",
+    "identifier": "ITH",
+    "osm_id": "osm:relation:40137",
+    "gn_id": "geonames:macroregion:3182306",
+    "wof_id": "whosonfirst:macroregion:404227529",
+    "children": [
+      {
+        "name": "Matera",
+        "code": "077",
+        "identifier": "MT",
+        "osm_id": "osm:relation:40259",
+        "wof_id": "whosonfirst:region:85685559",
+        "gn_id": "geonames:county:3173718"
+      },
+      {
+        "name": "Potenza",
+        "code": "076",
+        "identifier": "PZ",
+        "osm_id": "osm:relation:40136",
+        "wof_id": "whosonfirst:region:85685555",
+        "gn_id": "geonames:county:3170025"
+      }
+    ]
+  },
+  {
+    "name": "Calabria",
+    "code": "18",
+    "identifier": "ITC",
+    "osm_id": "osm:relation:1783980",
+    "gn_id": "geonames:macroregion:2525468",
+    "wof_id": "whosonfirst:macroregion:404227531",
+    "children": [
+      {
+        "name": "Catanzaro",
+        "code": "079",
+        "identifier": "CZ",
+        "osm_id": "osm:relation:39637",
+        "wof_id": "whosonfirst:region:85685569",
+        "gn_id": "geonames:county:2525058"
+      },
+      {
+        "name": "Cosenza",
+        "code": "078",
+        "identifier": "CS",
+        "osm_id": "osm:relation:39788",
+        "wof_id": "whosonfirst:region:85685565",
+        "gn_id": "geonames:county:2524906"
+      },
+      {
+        "name": "Crotone",
+        "code": "101",
+        "identifier": "KR",
+        "osm_id": "osm:relation:39748",
+        "wof_id": "whosonfirst:region:85685687",
+        "gn_id": "geonames:county:6458615"
+      },
+      {
+        "name": "Reggio Calabria",
+        "code": "080",
+        "identifier": "RC",
+        "osm_id": "osm:relation:44862",
+        "wof_id": "whosonfirst:region:85685577",
+        "gn_id": "geonames:county:2523629"
+      },
+      {
+        "name": "Vibo Valentia",
+        "code": "082",
+        "identifier": "VV",
+        "osm_id": "osm:relation:44866",
+        "wof_id": "whosonfirst:region:85685691",
+        "gn_id": "geonames:county:6457405"
+      }
+    ]
+  },
+  {
+    "name": "Campania",
+    "code": "15",
+    "identifier": "ITF",
+    "osm_id": "osm:relation:40218",
+    "gn_id": "geonames:macroregion:3181042",
+    "wof_id": "whosonfirst:macroregion:404227525",
+    "children": [
+      {
+        "name": "Avellino",
+        "code": "064",
+        "identifier": "AV",
+        "osm_id": "osm:relation:40715",
+        "wof_id": "whosonfirst:region:85685493",
+        "gn_id": "geonames:county:3182649"
+      },
+      {
+        "name": "Benevento",
+        "code": "062",
+        "identifier": "BN",
+        "osm_id": "osm:relation:40973",
+        "wof_id": "whosonfirst:region:85685483",
+        "gn_id": "geonames:county:3182178"
+      },
+      {
+        "name": "Caserta",
+        "code": "061",
+        "identifier": "CE",
+        "osm_id": "osm:relation:40940",
+        "wof_id": "whosonfirst:region:85685477",
+        "gn_id": "geonames:county:3179865"
+      },
+      {
+        "name": "Napoli",
+        "code": "063",
+        "identifier": "NA",
+        "osm_id": "osm:relation:40600",
+        "wof_id": "whosonfirst:region:85685487",
+        "gn_id": "geonames:county:3172391"
+      },
+      {
+        "name": "Salerno",
+        "code": "065",
+        "identifier": "SA",
+        "osm_id": "osm:relation:40217",
+        "wof_id": "whosonfirst:region:85685497",
+        "gn_id": "geonames:county:3168670"
+      }
+    ]
+  },
+  {
+    "name": "Emilia-Romagna",
+    "code": "05",
+    "identifier": "ITD",
+    "osm_id": "osm:relation:42611",
+    "gn_id": "geonames:macroregion:3177401",
+    "wof_id": "whosonfirst:macroregion:404227509",
+    "children": [
+      {
+        "name": "Bologna",
+        "code": "037",
+        "identifier": "BO",
+        "osm_id": "osm:relation:42856",
+        "wof_id": "whosonfirst:region:85685351",
+        "gn_id": "geonames:county:3181927"
+      },
+      {
+        "name": "Ferrara",
+        "code": "038",
+        "identifier": "FE",
+        "osm_id": "osm:relation:43292",
+        "wof_id": "whosonfirst:region:85685359",
+        "gn_id": "geonames:county:3177088"
+      },
+      {
+        "name": "Forlì-Cesena",
+        "code": "040",
+        "identifier": "FC",
+        "osm_id": "osm:relation:42609",
+        "wof_id": "whosonfirst:region:85685367",
+        "gn_id": "geonames:county:3176745"
+      },
+      {
+        "name": "Modena",
+        "code": "036",
+        "identifier": "MO",
+        "osm_id": "osm:relation:42884",
+        "wof_id": "whosonfirst:region:85685347",
+        "gn_id": "geonames:county:3173330"
+      },
+      {
+        "name": "Parma",
+        "code": "034",
+        "identifier": "PR",
+        "osm_id": "osm:relation:43080",
+        "wof_id": "whosonfirst:region:85685339",
+        "gn_id": "geonames:county:3171456"
+      },
+      {
+        "name": "Piacenza",
+        "code": "033",
+        "identifier": "PC",
+        "osm_id": "osm:relation:43332",
+        "wof_id": "whosonfirst:region:85685331",
+        "gn_id": "geonames:county:3171057"
+      },
+      {
+        "name": "Ravenna",
+        "code": "039",
+        "identifier": "RA",
+        "osm_id": "osm:relation:42889",
+        "wof_id": "whosonfirst:region:85685363",
+        "gn_id": "geonames:county:3169560"
+      },
+      {
+        "name": "Reggio Emilia",
+        "code": "035",
+        "identifier": "RE",
+        "osm_id": "osm:relation:42965",
+        "wof_id": "whosonfirst:region:85685343",
+        "gn_id": "geonames:county:3169524"
+      },
+      {
+        "name": "Rimini",
+        "code": "099",
+        "identifier": "RN",
+        "osm_id": "osm:relation:42661",
+        "wof_id": "whosonfirst:region:85685675",
+        "gn_id": "geonames:county:6457404"
+      }
+    ]
+  },
+  {
+    "name": "Friuli-Venezia Giulia",
+    "code": "06",
+    "identifier": "ITH",
+    "osm_id": "osm:relation:179296",
+    "gn_id": "geonames:macroregion:3176525",
+    "wof_id": "whosonfirst:macroregion:404227505",
+    "children": [
+      {
+        "name": "Gorizia",
+        "code": "031",
+        "identifier": "GO",
+        "osm_id": "osm:relation:179294",
+        "wof_id": "whosonfirst:region:85685325",
+        "gn_id": "geonames:county:3175985"
+      },
+      {
+        "name": "Pordenone",
+        "code": "028",
+        "identifier": "PN",
+        "osm_id": "osm:relation:179293",
+        "wof_id": "whosonfirst:region:85685649",
+        "gn_id": "geonames:county:3170146"
+      },
+      {
+        "name": "Trieste",
+        "code": "032",
+        "identifier": "TS",
+        "osm_id": "osm:relation:179292",
+        "wof_id": "whosonfirst:region:85685329",
+        "gn_id": "geonames:county:3165184"
+      },
+      {
+        "name": "Udine",
+        "code": "029",
+        "identifier": "UD",
+        "osm_id": "osm:relation:179295",
+        "wof_id": "whosonfirst:region:85685321",
+        "gn_id": "geonames:county:3165071"
+      }
+    ]
+  },
+  {
+    "name": "Lazio",
+    "code": "07",
+    "identifier": "ITI",
+    "osm_id": "osm:relation:40784",
+    "gn_id": "geonames:macroregion:3174976",
+    "wof_id": "whosonfirst:macroregion:404227517",
+    "children": [
+      {
+        "name": "Frosinone",
+        "code": "060",
+        "identifier": "FR",
+        "osm_id": "osm:relation:41223",
+        "wof_id": "whosonfirst:region:85685473",
+        "gn_id": "geonames:county:3176513"
+      },
+      {
+        "name": "Latina",
+        "code": "059",
+        "identifier": "LT",
+        "osm_id": "osm:relation:40783",
+        "wof_id": "whosonfirst:region:85685467",
+        "gn_id": "geonames:county:3175057"
+      },
+      {
+        "name": "Rieti",
+        "code": "057",
+        "identifier": "RI",
+        "osm_id": "osm:relation:41781",
+        "wof_id": "whosonfirst:region:85685455",
+        "gn_id": "geonames:county:3169411"
+      },
+      {
+        "name": "Roma",
+        "code": "058",
+        "identifier": "RM",
+        "osm_id": "osm:relation:41313",
+        "wof_id": "whosonfirst:region:85685461",
+        "gn_id": "geonames:county:3169069"
+      },
+      {
+        "name": "Viterbo",
+        "code": "056",
+        "identifier": "VT",
+        "osm_id": "osm:relation:41817",
+        "wof_id": "whosonfirst:region:85685451",
+        "gn_id": "geonames:county:3164038"
+      }
+    ]
+  },
+  {
+    "name": "Liguria",
+    "code": "08",
+    "identifier": "ITC",
+    "osm_id": "osm:relation:301482",
+    "gn_id": "geonames:macroregion:3174725",
+    "wof_id": "whosonfirst:macroregion:404227507",
+    "children": [
+      {
+        "name": "Genova",
+        "code": "010",
+        "identifier": "GE",
+        "osm_id": "osm:relation:49135",
+        "wof_id": "whosonfirst:region:85685219",
+        "gn_id": "geonames:county:3176217"
+      },
+      {
+        "name": "Imperia",
+        "code": "008",
+        "identifier": "IM",
+        "osm_id": "osm:relation:42628",
+        "wof_id": "whosonfirst:region:85685209",
+        "gn_id": "geonames:county:3175531"
+      },
+      {
+        "name": "La Spezia",
+        "code": "011",
+        "identifier": "SP",
+        "osm_id": "osm:relation:49131",
+        "wof_id": "whosonfirst:region:85685225",
+        "gn_id": "geonames:county:3175080"
+      },
+      {
+        "name": "Savona",
+        "code": "009",
+        "identifier": "SV",
+        "osm_id": "osm:relation:42760",
+        "wof_id": "whosonfirst:region:85685215",
+        "gn_id": "geonames:county:3167021"
+      }
+    ]
+  },
+  {
+    "name": "Lombardia",
+    "code": "03",
+    "identifier": "ITC",
+    "osm_id": "osm:relation:44879",
+    "gn_id": "geonames:macroregion:3174618",
+    "wof_id": "whosonfirst:macroregion:404227497",
+    "children": [
+      {
+        "name": "Bergamo",
+        "code": "016",
+        "identifier": "BG",
+        "osm_id": "osm:relation:44996",
+        "wof_id": "whosonfirst:region:85685249",
+        "gn_id": "geonames:county:3182163"
+      },
+      {
+        "name": "Brescia",
+        "code": "017",
+        "identifier": "BS",
+        "osm_id": "osm:relation:44882",
+        "wof_id": "whosonfirst:region:85685253",
+        "gn_id": "geonames:county:3181553"
+      },
+      {
+        "name": "Como",
+        "code": "013",
+        "identifier": "CO",
+        "osm_id": "osm:relation:45614",
+        "wof_id": "whosonfirst:region:85685235",
+        "gn_id": "geonames:county:3178227"
+      },
+      {
+        "name": "Cremona",
+        "code": "019",
+        "identifier": "CR",
+        "osm_id": "osm:relation:43893",
+        "wof_id": "whosonfirst:region:85685263",
+        "gn_id": "geonames:county:3177837"
+      },
+      {
+        "name": "Lecco",
+        "code": "097",
+        "identifier": "LC",
+        "osm_id": "osm:relation:45639",
+        "wof_id": "whosonfirst:region:85685669",
+        "gn_id": "geonames:county:6458616"
+      },
+      {
+        "name": "Lodi",
+        "code": "098",
+        "identifier": "LO",
+        "osm_id": "osm:relation:44181",
+        "wof_id": "whosonfirst:region:85685671",
+        "gn_id": "geonames:county:6458617"
+      },
+      {
+        "name": "Mantova",
+        "code": "020",
+        "identifier": "MN",
+        "osm_id": "osm:relation:43798",
+        "wof_id": "whosonfirst:region:85685269",
+        "gn_id": "geonames:county:3174050"
+      },
+      {
+        "name": "Milano",
+        "code": "015",
+        "identifier": "MI",
+        "osm_id": "osm:relation:44881",
+        "wof_id": "whosonfirst:region:85685243",
+        "gn_id": "geonames:county:3173434"
+      },
+      {
+        "name": "Monza e Brianza",
+        "code": "108",
+        "identifier": "MB",
+        "osm_id": "osm:relation:251419",
+        "wof_id": "whosonfirst:region:85685723",
+        "gn_id": "geonames:county:6955700"
+      },
+      {
+        "name": "Pavia",
+        "code": "018",
+        "identifier": "PV",
+        "osm_id": "osm:relation:43483",
+        "wof_id": "whosonfirst:region:85685257",
+        "gn_id": "geonames:county:3171364"
+      },
+      {
+        "name": "Sondrio",
+        "code": "014",
+        "identifier": "SO",
+        "osm_id": "osm:relation:46708",
+        "wof_id": "whosonfirst:region:85685239",
+        "gn_id": "geonames:county:3166396"
+      },
+      {
+        "name": "Varese",
+        "code": "012",
+        "identifier": "VA",
+        "osm_id": "osm:relation:45347",
+        "wof_id": "whosonfirst:region:85685231",
+        "gn_id": "geonames:county:3164697"
+      }
+    ]
+  },
+  {
+    "name": "Marche",
+    "code": "11",
+    "identifier": "ITI",
+    "osm_id": "osm:relation:53060",
+    "gn_id": "geonames:macroregion:3174004",
+    "wof_id": "whosonfirst:macroregion:404227515",
+    "children": [
+      {
+        "name": "Ancona",
+        "code": "042",
+        "identifier": "AN",
+        "osm_id": "osm:relation:53059",
+        "wof_id": "whosonfirst:region:85685379",
+        "gn_id": "geonames:county:3183087"
+      },
+      {
+        "name": "Ascoli Piceno",
+        "code": "044",
+        "identifier": "AP",
+        "osm_id": "osm:relation:42141",
+        "wof_id": "whosonfirst:region:85685387",
+        "gn_id": "geonames:county:3182748"
+      },
+      {
+        "name": "Fermo",
+        "code": "109",
+        "identifier": "FM",
+        "osm_id": "osm:relation:907991",
+        "wof_id": "whosonfirst:region:85685727",
+        "gn_id": "geonames:county:6955471"
+      },
+      {
+        "name": "Macerata",
+        "code": "043",
+        "identifier": "MC",
+        "osm_id": "osm:relation:42212",
+        "wof_id": "whosonfirst:region:85685383",
+        "gn_id": "geonames:county:3174379"
+      },
+      {
+        "name": "Pesaro e Urbino",
+        "code": "041",
+        "identifier": "PU",
+        "osm_id": "osm:relation:42455",
+        "wof_id": "whosonfirst:region:85685375",
+        "gn_id": "geonames:county:3171172"
+      }
+    ]
+  },
+  {
+    "name": "Molise",
+    "code": "14",
+    "identifier": "ITF",
+    "osm_id": "osm:relation:41256",
+    "gn_id": "geonames:macroregion:3173222",
+    "wof_id": "whosonfirst:macroregion:404227523",
+    "children": [
+      {
+        "name": "Campobasso",
+        "code": "070",
+        "identifier": "CB",
+        "osm_id": "osm:relation:41255",
+        "wof_id": "whosonfirst:region:85685523",
+        "gn_id": "geonames:county:3180990"
+      },
+      {
+        "name": "Isernia",
+        "code": "094",
+        "identifier": "IS",
+        "osm_id": "osm:relation:41277",
+        "wof_id": "whosonfirst:region:85685653",
+        "gn_id": "geonames:county:3175444"
+      }
+    ]
+  },
+  {
+    "name": "Piemonte",
+    "code": "01",
+    "identifier": "ITC",
+    "osm_id": "osm:relation:44874",
+    "gn_id": "geonames:macroregion:3170831",
+    "wof_id": "whosonfirst:macroregion:404227493",
+    "children": [
+      {
+        "name": "Alessandria",
+        "code": "006",
+        "identifier": "AL",
+        "osm_id": "osm:relation:43199",
+        "wof_id": "whosonfirst:region:85685199",
+        "gn_id": "geonames:county:3183298"
+      },
+      {
+        "name": "Asti",
+        "code": "005",
+        "identifier": "AT",
+        "osm_id": "osm:relation:43267",
+        "wof_id": "whosonfirst:region:85685195",
+        "gn_id": "geonames:county:3182712"
+      },
+      {
+        "name": "Biella",
+        "code": "096",
+        "identifier": "BI",
+        "osm_id": "osm:relation:44913",
+        "wof_id": "whosonfirst:region:85685665",
+        "gn_id": "geonames:county:6457397"
+      },
+      {
+        "name": "Cuneo",
+        "code": "004",
+        "identifier": "CN",
+        "osm_id": "osm:relation:42845",
+        "wof_id": "whosonfirst:region:85685187",
+        "gn_id": "geonames:county:3177699"
+      },
+      {
+        "name": "Novara",
+        "code": "003",
+        "identifier": "NO",
+        "osm_id": "osm:relation:1552704",
+        "wof_id": "whosonfirst:region:85685183",
+        "gn_id": "geonames:county:3172188"
+      },
+      {
+        "name": "Torino",
+        "code": "001",
+        "identifier": "TO",
+        "osm_id": "osm:relation:44880",
+        "wof_id": "whosonfirst:region:85685169",
+        "gn_id": "geonames:county:3165523"
+      },
+      {
+        "name": "Verbano-Cusio-Ossola",
+        "code": "103",
+        "identifier": "VB",
+        "osm_id": "osm:relation:46089",
+        "wof_id": "whosonfirst:region:85685695",
+        "gn_id": "geonames:county:3164567"
+      },
+      {
+        "name": "Vercelli",
+        "code": "002",
+        "identifier": "VC",
+        "osm_id": "osm:relation:1552705",
+        "wof_id": "whosonfirst:region:85685177",
+        "gn_id": "geonames:county:3164564"
+      }
+    ]
+  },
+  {
+    "name": "Puglia",
+    "code": "16",
+    "identifier": "ITF",
+    "osm_id": "osm:relation:40095",
+    "gn_id": "geonames:macroregion:3169778",
+    "wof_id": "whosonfirst:macroregion:404227527",
+    "children": [
+      {
+        "name": "Bari",
+        "code": "072",
+        "identifier": "BA",
+        "osm_id": "osm:relation:40707",
+        "wof_id": "whosonfirst:region:85685531",
+        "gn_id": "geonames:county:3182350"
+      },
+      {
+        "name": "Barletta-Andria-Trani",
+        "code": "110",
+        "identifier": "BT",
+        "osm_id": "osm:relation:2203582",
+        "wof_id": "whosonfirst:region:85685731",
+        "gn_id": "geonames:county:6955699"
+      },
+      {
+        "name": "Brindisi",
+        "code": "073",
+        "identifier": "BR",
+        "osm_id": "osm:relation:40485",
+        "wof_id": "whosonfirst:region:85685543",
+        "gn_id": "geonames:county:3181526"
+      },
+      {
+        "name": "Foggia",
+        "code": "071",
+        "identifier": "FG",
+        "osm_id": "osm:relation:41093",
+        "wof_id": "whosonfirst:region:85685527",
+        "gn_id": "geonames:county:3176884"
+      },
+      {
+        "name": "Lecce",
+        "code": "075",
+        "identifier": "LE",
+        "osm_id": "osm:relation:40094",
+        "wof_id": "whosonfirst:region:85685547",
+        "gn_id": "geonames:county:3174952"
+      },
+      {
+        "name": "Taranto",
+        "code": "074",
+        "identifier": "TA",
+        "osm_id": "osm:relation:40423",
+        "wof_id": "whosonfirst:region:85685539",
+        "gn_id": "geonames:county:3165924"
+      }
+    ]
+  },
+  {
+    "name": "Sardegna",
+    "code": "20",
+    "identifier": "ITH",
+    "osm_id": "osm:relation:7361997",
+    "gn_id": "geonames:macroregion:2523228",
+    "wof_id": "whosonfirst:macroregion:404227535",
+    "children": [
+      {
+        "name": "Cagliari",
+        "code": "092",
+        "identifier": "CA",
+        "osm_id": "osm:relation:276369",
+        "wof_id": "whosonfirst:region:1360702173",
+        "gn_id": "geonames:county:2525471"
+      },
+      {
+        "name": "Nuoro",
+        "code": "091",
+        "identifier": "NU",
+        "osm_id": "osm:relation:39979",
+        "wof_id": "whosonfirst:region:1360702177",
+        "gn_id": "geonames:county:3172153"
+      },
+      {
+        "name": "Oristano",
+        "code": "095",
+        "identifier": "OR",
+        "osm_id": "osm:relation:40021",
+        "wof_id": "whosonfirst:region:85685659",
+        "gn_id": "geonames:county:2523962"
+      },
+      {
+        "name": "Sassari",
+        "code": "090",
+        "identifier": "SS",
+        "osm_id": "osm:relation:275098",
+        "wof_id": "whosonfirst:region:1360702175",
+        "gn_id": "geonames:county:3167094"
+      }
+    ]
+  },
+  {
+    "name": "Sicilia",
+    "code": "19",
+    "identifier": "ITG",
+    "osm_id": "osm:relation:39152",
+    "gn_id": "geonames:macroregion:2523119",
+    "wof_id": "whosonfirst:macroregion:404227533",
+    "children": [
+      {
+        "name": "Agrigento",
+        "code": "084",
+        "identifier": "AG",
+        "osm_id": "osm:relation:39151",
+        "wof_id": "whosonfirst:region:85685601",
+        "gn_id": "geonames:county:2525763"
+      },
+      {
+        "name": "Caltanissetta",
+        "code": "085",
+        "identifier": "CL",
+        "osm_id": "osm:relation:39178",
+        "wof_id": "whosonfirst:region:85685605",
+        "gn_id": "geonames:county:2525447"
+      },
+      {
+        "name": "Catania",
+        "code": "087",
+        "identifier": "CT",
+        "osm_id": "osm:relation:39181",
+        "wof_id": "whosonfirst:region:85685617",
+        "gn_id": "geonames:county:2525065"
+      },
+      {
+        "name": "Enna",
+        "code": "086",
+        "identifier": "EN",
+        "osm_id": "osm:relation:39216",
+        "wof_id": "whosonfirst:region:85685611",
+        "gn_id": "geonames:county:2524818"
+      },
+      {
+        "name": "Messina",
+        "code": "083",
+        "identifier": "ME",
+        "osm_id": "osm:relation:39374",
+        "wof_id": "whosonfirst:region:85685595",
+        "gn_id": "geonames:county:2524169"
+      },
+      {
+        "name": "Palermo",
+        "code": "082",
+        "identifier": "PA",
+        "osm_id": "osm:relation:39295",
+        "wof_id": "whosonfirst:region:85685591",
+        "gn_id": "geonames:county:2523918"
+      },
+      {
+        "name": "Ragusa",
+        "code": "088",
+        "identifier": "RG",
+        "osm_id": "osm:relation:39157",
+        "wof_id": "whosonfirst:region:85685621",
+        "gn_id": "geonames:county:2523649"
+      },
+      {
+        "name": "Siracusa",
+        "code": "089",
+        "identifier": "SR",
+        "osm_id": "osm:relation:39155",
+        "wof_id": "whosonfirst:region:85685627",
+        "gn_id": "geonames:county:2523082"
+      },
+      {
+        "name": "Trapani",
+        "code": "081",
+        "identifier": "TP",
+        "osm_id": "osm:relation:39166",
+        "wof_id": "whosonfirst:region:85685581",
+        "gn_id": "geonames:county:2522875"
+      }
+    ]
+  },
+  {
+    "name": "Toscana",
+    "code": "09",
+    "identifier": "ITI",
+    "osm_id": "osm:relation:41977",
+    "gn_id": "geonames:macroregion:3165361",
+    "wof_id": "whosonfirst:macroregion:404227511",
+    "children": [
+      {
+        "name": "Arezzo",
+        "code": "051",
+        "identifier": "AR",
+        "osm_id": "osm:relation:42366",
+        "wof_id": "whosonfirst:region:85685423",
+        "gn_id": "geonames:county:3182882"
+      },
+      {
+        "name": "Firenze",
+        "code": "048",
+        "identifier": "FI",
+        "osm_id": "osm:relation:42472",
+        "wof_id": "whosonfirst:region:85685407",
+        "gn_id": "geonames:county:3176958"
+      },
+      {
+        "name": "Grosseto",
+        "code": "053",
+        "identifier": "GR",
+        "osm_id": "osm:relation:41976",
+        "wof_id": "whosonfirst:region:85685433",
+        "gn_id": "geonames:county:3175784"
+      },
+      {
+        "name": "Livorno",
+        "code": "049",
+        "identifier": "LI",
+        "osm_id": "osm:relation:42147",
+        "wof_id": "whosonfirst:region:85685413",
+        "gn_id": "geonames:county:3174658"
+      },
+      {
+        "name": "Lucca",
+        "code": "046",
+        "identifier": "LU",
+        "osm_id": "osm:relation:42614",
+        "wof_id": "whosonfirst:region:85685399",
+        "gn_id": "geonames:county:3174529"
+      },
+      {
+        "name": "Massa-Carrara",
+        "code": "045",
+        "identifier": "MS",
+        "osm_id": "osm:relation:42782",
+        "wof_id": "whosonfirst:region:85685395",
+        "gn_id": "geonames:county:3173767"
+      },
+      {
+        "name": "Pisa",
+        "code": "050",
+        "identifier": "PI",
+        "osm_id": "osm:relation:42338",
+        "wof_id": "whosonfirst:region:85685419",
+        "gn_id": "geonames:county:3170646"
+      },
+      {
+        "name": "Pistoia",
+        "code": "047",
+        "identifier": "PT",
+        "osm_id": "osm:relation:42637",
+        "wof_id": "whosonfirst:region:85685403",
+        "gn_id": "geonames:county:3170620"
+      },
+      {
+        "name": "Prato",
+        "code": "100",
+        "identifier": "PO",
+        "osm_id": "osm:relation:42619",
+        "wof_id": "whosonfirst:region:85685683",
+        "gn_id": "geonames:county:6458618"
+      },
+      {
+        "name": "Siena",
+        "code": "052",
+        "identifier": "SI",
+        "osm_id": "osm:relation:42172",
+        "wof_id": "whosonfirst:region:85685431",
+        "gn_id": "geonames:county:3166546"
+      }
+    ]
+  },
+  {
+    "name": "Trentino-Alto Adige",
+    "code": "04",
+    "identifier": "ITE",
+    "osm_id": "osm:relation:45757",
+    "gn_id": "geonames:macroregion:3165244",
+    "wof_id": "whosonfirst:macroregion:404227499",
+    "children": [
+      {
+        "name": "Bolzano",
+        "code": "021",
+        "identifier": "BZ",
+        "osm_id": "osm:relation:47046",
+        "wof_id": "whosonfirst:region:85685271",
+        "gn_id": "geonames:county:3181912"
+      },
+      {
+        "name": "Trento",
+        "code": "022",
+        "identifier": "TN",
+        "osm_id": "osm:relation:45756",
+        "wof_id": "whosonfirst:region:85685277",
+        "gn_id": "geonames:county:3165241"
+      }
+    ]
+  },
+  {
+    "name": "Umbria",
+    "code": "10",
+    "identifier": "ITI",
+    "osm_id": "osm:relation:42004",
+    "gn_id": "geonames:macroregion:3165048",
+    "wof_id": "whosonfirst:macroregion:404227513",
+    "children": [
+      {
+        "name": "Perugia",
+        "code": "054",
+        "identifier": "PG",
+        "osm_id": "osm:relation:42106",
+        "wof_id": "whosonfirst:region:85685439",
+        "gn_id": "geonames:county:3171179"
+      },
+      {
+        "name": "Terni",
+        "code": "055",
+        "identifier": "TR",
+        "osm_id": "osm:relation:42003",
+        "wof_id": "whosonfirst:region:85685443",
+        "gn_id": "geonames:county:3165770"
+      }
+    ]
+  },
+  {
+    "name": "Valle d'Aosta",
+    "code": "02",
+    "identifier": "ITC",
+    "osm_id": "osm:relation:45155",
+    "gn_id": "geonames:macroregion:3164857",
+    "wof_id": "whosonfirst:macroregion:404227495",
+    "children": [
+      {
+        "name": "Valle d'Aosta",
+        "code": "007",
+        "identifier": "AO",
+        "osm_id": null,
+        "wof_id": "whosonfirst:region:85685205",
+        "gn_id": "geonames:county:3182996"
+      }
+    ]
+  },
+  {
+    "name": "Veneto",
+    "code": "05",
+    "identifier": "ITD",
+    "osm_id": "osm:relation:43648",
+    "gn_id": "geonames:macroregion:3164604",
+    "wof_id": "whosonfirst:macroregion:404227501",
+    "children": [
+      {
+        "name": "Belluno",
+        "code": "025",
+        "identifier": "BL",
+        "osm_id": "osm:relation:46429",
+        "wof_id": "whosonfirst:region:85685293",
+        "gn_id": "geonames:county:3182209"
+      },
+      {
+        "name": "Padova",
+        "code": "028",
+        "identifier": "PD",
+        "osm_id": "osm:relation:44217",
+        "wof_id": "whosonfirst:region:85685309",
+        "gn_id": "geonames:county:3171727"
+      },
+      {
+        "name": "Rovigo",
+        "code": "029",
+        "identifier": "RO",
+        "osm_id": "osm:relation:43647",
+        "wof_id": "whosonfirst:region:85685313",
+        "gn_id": "geonames:county:3168842"
+      },
+      {
+        "name": "Treviso",
+        "code": "027",
+        "identifier": "TV",
+        "osm_id": "osm:relation:45300",
+        "wof_id": "whosonfirst:region:85685297",
+        "gn_id": "geonames:county:3165200"
+      },
+      {
+        "name": "Venezia",
+        "code": "026",
+        "identifier": "VE",
+        "osm_id": "osm:relation:44230",
+        "wof_id": "whosonfirst:region:85685305",
+        "gn_id": "geonames:county:3164600"
+      },
+      {
+        "name": "Verona",
+        "code": "023",
+        "identifier": "VR",
+        "osm_id": "osm:relation:44107",
+        "wof_id": "whosonfirst:region:85685281",
+        "gn_id": "geonames:county:3164526"
+      },
+      {
+        "name": "Vicenza",
+        "code": "024",
+        "identifier": "VI",
+        "osm_id": "osm:relation:44580",
+        "wof_id": "whosonfirst:region:85685287",
+        "gn_id": "geonames:county:3164418"
+      }
+    ]
+  }
+]

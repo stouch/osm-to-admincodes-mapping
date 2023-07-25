@@ -1,4 +1,6 @@
-Je cherche la liste des régions et des provinces d'Italie.
+Je cherche la liste des régions et des provinces d'Italie, écrites en italien.
+Donne les codes régions en ISO 3166-2, et leurs identifiers au format NUTS-1.
+Donne les codes départements au format ISO 3166-2, et leurs identifiers au format ISTAT.
 Peux-tu les donner dans un tableau JSON au format suivant :
 ```
 [
@@ -9,7 +11,8 @@ Peux-tu les donner dans un tableau JSON au format suivant :
         "children": [
             {
                 "intl_name": "Bergamo",
-                "code": "24100"
+                "identifier": "BG",
+                "code": "016"
             },
             ...
         ] 
