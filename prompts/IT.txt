@@ -1,18 +1,15 @@
 Je cherche la liste des régions et des provinces d'Italie, écrites en italien.
-Donne les codes régions en ISO 3166-2, et leurs identifiers au format NUTS-1.
-Donne les codes départements au format ISO 3166-2, et leurs identifiers au format ISTAT.
+Donne les codes en ISO-3166-2.
 Peux-tu les donner dans un tableau JSON au format suivant :
 ```
 [
     {
         "intl_name": "Lombardia",
-        "identifier": "ITC",
-        "code": "25",
+        "code": "IT-25",
         "children": [
             {
                 "intl_name": "Bergamo",
-                "identifier": "BG",
-                "code": "016"
+                "code": "IT-BG"
             },
             ...
         ] 

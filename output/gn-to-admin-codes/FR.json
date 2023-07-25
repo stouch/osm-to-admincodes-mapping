@@ -1,201 +1,180 @@
 {
   "geonames:dependency:3381670": {
-    "code": "03",
-    "identifier": "GUF",
-    "children": { "geonames:region:6690605": { "code": "973" } }
+    "code": "FR-GUF",
+    "children": { "geonames:region:6690605": { "code": "FR-973" } }
   },
   "geonames:dependency:3579143": {
-    "code": "01",
-    "identifier": "GLP",
-    "children": { "geonames:region:6690363": { "code": "971" } }
+    "code": "FR-GLP",
+    "children": { "geonames:region:6690363": { "code": "FR-971" } }
   },
   "geonames:dependency:3570311": {
-    "code": "02",
-    "identifier": "MTQ",
-    "children": { "geonames:region:6690603": { "code": "972" } }
+    "code": "FR-MTQ",
+    "children": { "geonames:region:6690603": { "code": "FR-972" } }
   },
   "geonames:dependency:935317": {
-    "code": "04",
-    "identifier": "REU",
-    "children": { "geonames:region:6690283": { "code": "974" } }
+    "code": "FR-REU",
+    "children": { "geonames:region:6690283": { "code": "FR-974" } }
   },
-  "geonames:dependency:1024031": {
-    "code": "06",
-    "identifier": "MYT",
-    "children": {}
-  },
+  "geonames:dependency:1024031": { "code": "FR-MYT", "children": {} },
   "geonames:macroregion:11071625": {
-    "code": "84",
-    "identifier": "ARA",
+    "code": "FR-ARA",
     "children": {
-      "geonames:region:3038422": { "code": "01" },
-      "geonames:region:3038111": { "code": "03" },
-      "geonames:region:3037147": { "code": "07" },
-      "geonames:region:3028791": { "code": "15" },
-      "geonames:region:3020781": { "code": "26" },
-      "geonames:region:3013760": { "code": "43" },
-      "geonames:region:3013736": { "code": "74" },
-      "geonames:region:3012715": { "code": "38" },
-      "geonames:region:2997870": { "code": "42" },
-      "geonames:region:2984986": { "code": "63" },
-      "geonames:region:2987410": { "code": "69" },
-      "geonames:region:2975517": { "code": "73" }
+      "geonames:region:3038422": { "code": "FR-01" },
+      "geonames:region:3038111": { "code": "FR-03" },
+      "geonames:region:3037147": { "code": "FR-07" },
+      "geonames:region:3028791": { "code": "FR-15" },
+      "geonames:region:3020781": { "code": "FR-26" },
+      "geonames:region:3013760": { "code": "FR-43" },
+      "geonames:region:3013736": { "code": "FR-74" },
+      "geonames:region:3012715": { "code": "FR-38" },
+      "geonames:region:2997870": { "code": "FR-42" },
+      "geonames:region:2984986": { "code": "FR-63" },
+      "geonames:region:2987410": { "code": "FR-69" },
+      "geonames:region:2975517": { "code": "FR-73" }
     }
   },
   "geonames:macroregion:11071619": {
-    "code": "27",
-    "identifier": "BFC",
+    "code": "FR-BFC",
     "children": {
-      "geonames:region:3023423": { "code": "21" },
-      "geonames:region:3020989": { "code": "25" },
-      "geonames:region:3012051": { "code": "39" },
-      "geonames:region:2990371": { "code": "58" },
-      "geonames:region:3013737": { "code": "70" },
-      "geonames:region:2976082": { "code": "71" },
-      "geonames:region:2967222": { "code": "89" },
-      "geonames:region:3033789": { "code": "90" }
+      "geonames:region:3023423": { "code": "FR-21" },
+      "geonames:region:3020989": { "code": "FR-25" },
+      "geonames:region:3012051": { "code": "FR-39" },
+      "geonames:region:2990371": { "code": "FR-58" },
+      "geonames:region:3013737": { "code": "FR-70" },
+      "geonames:region:2976082": { "code": "FR-71" },
+      "geonames:region:2967222": { "code": "FR-89" },
+      "geonames:region:3033789": { "code": "FR-90" }
     }
   },
   "geonames:macroregion:3030293": {
-    "code": "53",
-    "identifier": "BRE",
+    "code": "FR-BRE",
     "children": {
-      "geonames:region:3023414": { "code": "22" },
-      "geonames:region:3018471": { "code": "29" },
-      "geonames:region:3012849": { "code": "35" },
-      "geonames:region:2991879": { "code": "56" }
+      "geonames:region:3023414": { "code": "FR-22" },
+      "geonames:region:3018471": { "code": "FR-29" },
+      "geonames:region:3012849": { "code": "FR-35" },
+      "geonames:region:2991879": { "code": "FR-56" }
     }
   },
   "geonames:macroregion:3027939": {
-    "code": "24",
-    "identifier": "CVL",
+    "code": "FR-CVL",
     "children": {
-      "geonames:region:3025480": { "code": "18" },
-      "geonames:region:3019316": { "code": "28" },
-      "geonames:region:3012805": { "code": "36" },
-      "geonames:region:3012804": { "code": "37" },
-      "geonames:region:2997856": { "code": "41" },
-      "geonames:region:2997857": { "code": "45" }
+      "geonames:region:3025480": { "code": "FR-18" },
+      "geonames:region:3019316": { "code": "FR-28" },
+      "geonames:region:3012805": { "code": "FR-36" },
+      "geonames:region:3012804": { "code": "FR-37" },
+      "geonames:region:2997856": { "code": "FR-41" },
+      "geonames:region:2997857": { "code": "FR-45" }
     }
   },
   "geonames:macroregion:3023519": {
-    "code": "94",
-    "identifier": "COR",
+    "code": "FR-COR",
     "children": {
-      "geonames:region:3023514": { "code": "2A" },
-      "geonames:region:3013793": { "code": "2B" }
+      "geonames:region:3023514": { "code": "FR-2A" },
+      "geonames:region:3013793": { "code": "FR-2B" }
     }
   },
   "geonames:macroregion:11071622": {
-    "code": "44",
-    "identifier": "GES",
+    "code": "FR-GES",
     "children": {
-      "geonames:region:3037136": { "code": "08" },
-      "geonames:region:3036420": { "code": "10" },
-      "geonames:region:2995603": { "code": "51" },
-      "geonames:region:3013757": { "code": "52" },
-      "geonames:region:2994111": { "code": "54" },
-      "geonames:region:2994106": { "code": "55" },
-      "geonames:region:2991627": { "code": "57" },
-      "geonames:region:3034720": { "code": "67" },
-      "geonames:region:3013663": { "code": "68" },
-      "geonames:region:2967681": { "code": "88" }
+      "geonames:region:3037136": { "code": "FR-08" },
+      "geonames:region:3036420": { "code": "FR-10" },
+      "geonames:region:2995603": { "code": "FR-51" },
+      "geonames:region:3013757": { "code": "FR-52" },
+      "geonames:region:2994111": { "code": "FR-54" },
+      "geonames:region:2994106": { "code": "FR-55" },
+      "geonames:region:2991627": { "code": "FR-57" },
+      "geonames:region:3034720": { "code": "FR-67" },
+      "geonames:region:3013663": { "code": "FR-68" },
+      "geonames:region:2967681": { "code": "FR-88" }
     }
   },
   "geonames:macroregion:11071624": {
-    "code": "32",
-    "identifier": "HDF",
+    "code": "FR-HDF",
     "children": {
-      "geonames:region:3038375": { "code": "02" },
-      "geonames:region:2990129": { "code": "59" },
-      "geonames:region:2989663": { "code": "60" },
-      "geonames:region:2988430": { "code": "62" },
-      "geonames:region:2974304": { "code": "80" }
+      "geonames:region:3038375": { "code": "FR-02" },
+      "geonames:region:2990129": { "code": "FR-59" },
+      "geonames:region:2989663": { "code": "FR-60" },
+      "geonames:region:2988430": { "code": "FR-62" },
+      "geonames:region:2974304": { "code": "FR-80" }
     }
   },
   "geonames:macroregion:3012874": {
-    "code": "11",
-    "identifier": "IDF",
+    "code": "FR-IDF",
     "children": {
-      "geonames:region:2968815": { "code": "75" },
-      "geonames:region:2975249": { "code": "77" },
-      "geonames:region:2967196": { "code": "78" },
-      "geonames:region:3019599": { "code": "91" },
-      "geonames:region:3013657": { "code": "92" },
-      "geonames:region:2975246": { "code": "93" },
-      "geonames:region:2971090": { "code": "94" },
-      "geonames:region:2971071": { "code": "95" }
+      "geonames:region:2968815": { "code": "FR-75" },
+      "geonames:region:2975249": { "code": "FR-77" },
+      "geonames:region:2967196": { "code": "FR-78" },
+      "geonames:region:3019599": { "code": "FR-91" },
+      "geonames:region:3013657": { "code": "FR-92" },
+      "geonames:region:2975246": { "code": "FR-93" },
+      "geonames:region:2971090": { "code": "FR-94" },
+      "geonames:region:2971071": { "code": "FR-95" }
     }
   },
   "geonames:macroregion:11071621": {
-    "code": "28",
-    "identifier": "NOR",
+    "code": "FR-NOR",
     "children": {
-      "geonames:region:3029094": { "code": "14" },
-      "geonames:region:3019317": { "code": "27" },
-      "geonames:region:2996268": { "code": "50" },
-      "geonames:region:2989247": { "code": "61" },
-      "geonames:region:2975248": { "code": "76" }
+      "geonames:region:3029094": { "code": "FR-14" },
+      "geonames:region:3019317": { "code": "FR-27" },
+      "geonames:region:2996268": { "code": "FR-50" },
+      "geonames:region:2989247": { "code": "FR-61" },
+      "geonames:region:2975248": { "code": "FR-76" }
     }
   },
   "geonames:macroregion:11071620": {
-    "code": "75",
-    "identifier": "NAQ",
+    "code": "FR-NAQ",
     "children": {
-      "geonames:region:3026646": { "code": "16" },
-      "geonames:region:3026644": { "code": "17" },
-      "geonames:region:3023532": { "code": "19" },
-      "geonames:region:3022516": { "code": "23" },
-      "geonames:region:3021042": { "code": "24" },
-      "geonames:region:3015948": { "code": "33" },
-      "geonames:region:3007866": { "code": "40" },
-      "geonames:region:2997523": { "code": "47" },
-      "geonames:region:2984887": { "code": "64" },
-      "geonames:region:3021501": { "code": "79" },
-      "geonames:region:2969280": { "code": "86" },
-      "geonames:region:3013719": { "code": "87" }
+      "geonames:region:3026646": { "code": "FR-16" },
+      "geonames:region:3026644": { "code": "FR-17" },
+      "geonames:region:3023532": { "code": "FR-19" },
+      "geonames:region:3022516": { "code": "FR-23" },
+      "geonames:region:3021042": { "code": "FR-24" },
+      "geonames:region:3015948": { "code": "FR-33" },
+      "geonames:region:3007866": { "code": "FR-40" },
+      "geonames:region:2997523": { "code": "FR-47" },
+      "geonames:region:2984887": { "code": "FR-64" },
+      "geonames:region:3021501": { "code": "FR-79" },
+      "geonames:region:2969280": { "code": "FR-86" },
+      "geonames:region:3013719": { "code": "FR-87" }
     }
   },
   "geonames:macroregion:11071623": {
-    "code": "76",
-    "identifier": "OCC",
+    "code": "FR-OCC",
     "children": {
-      "geonames:region:3036965": { "code": "09" },
-      "geonames:region:3036264": { "code": "11" },
-      "geonames:region:3035691": { "code": "12" },
-      "geonames:region:3016670": { "code": "30" },
-      "geonames:region:3013767": { "code": "31" },
-      "geonames:region:3016194": { "code": "32" },
-      "geonames:region:3013500": { "code": "34" },
-      "geonames:region:2997524": { "code": "46" },
-      "geonames:region:2997288": { "code": "48" },
-      "geonames:region:3013726": { "code": "65" },
-      "geonames:region:2984885": { "code": "66" },
-      "geonames:region:2973362": { "code": "81" },
-      "geonames:region:2973357": { "code": "82" }
+      "geonames:region:3036965": { "code": "FR-09" },
+      "geonames:region:3036264": { "code": "FR-11" },
+      "geonames:region:3035691": { "code": "FR-12" },
+      "geonames:region:3016670": { "code": "FR-30" },
+      "geonames:region:3013767": { "code": "FR-31" },
+      "geonames:region:3016194": { "code": "FR-32" },
+      "geonames:region:3013500": { "code": "FR-34" },
+      "geonames:region:2997524": { "code": "FR-46" },
+      "geonames:region:2997288": { "code": "FR-48" },
+      "geonames:region:3013726": { "code": "FR-65" },
+      "geonames:region:2984885": { "code": "FR-66" },
+      "geonames:region:2973362": { "code": "FR-81" },
+      "geonames:region:2973357": { "code": "FR-82" }
     }
   },
   "geonames:macroregion:2988289": {
-    "code": "52",
-    "identifier": "PDL",
+    "code": "FR-PDL",
     "children": {
-      "geonames:region:2997861": { "code": "44" },
-      "geonames:region:2996663": { "code": "49" },
-      "geonames:region:2994932": { "code": "53" },
-      "geonames:region:2975926": { "code": "72" },
-      "geonames:region:2970140": { "code": "85" }
+      "geonames:region:2997861": { "code": "FR-44" },
+      "geonames:region:2996663": { "code": "FR-49" },
+      "geonames:region:2994932": { "code": "FR-53" },
+      "geonames:region:2975926": { "code": "FR-72" },
+      "geonames:region:2970140": { "code": "FR-85" }
     }
   },
   "geonames:macroregion:2985244": {
-    "code": "93",
-    "identifier": "PAC",
+    "code": "FR-PAC",
     "children": {
-      "geonames:region:3038050": { "code": "04" },
-      "geonames:region:3013738": { "code": "05" },
-      "geonames:region:3038049": { "code": "06" },
-      "geonames:region:3031359": { "code": "13" },
-      "geonames:region:2970749": { "code": "83" },
-      "geonames:region:2970554": { "code": "84" }
+      "geonames:region:3038050": { "code": "FR-04" },
+      "geonames:region:3013738": { "code": "FR-05" },
+      "geonames:region:3038049": { "code": "FR-06" },
+      "geonames:region:3031359": { "code": "FR-13" },
+      "geonames:region:2970749": { "code": "FR-83" },
+      "geonames:region:2970554": { "code": "FR-84" }
     }
   }
 }

@@ -1,15 +1,14 @@
 [
   {
     "name": "Guyane",
-    "code": "03",
-    "identifier": "GUF",
+    "code": "FR-GUF",
     "osm_id": "osm:relation:2502058",
     "gn_id": "geonames:dependency:3381670",
     "wof_id": "whosonfirst:region:85671195",
     "children": [
       {
         "name": "Guyane",
-        "code": "973",
+        "code": "FR-973",
         "osm_id": "osm:relation:2202121",
         "wof_id": null,
         "gn_id": "geonames:region:6690605"
@@ -18,15 +17,14 @@
   },
   {
     "name": "Guadeloupe",
-    "code": "01",
-    "identifier": "GLP",
+    "code": "FR-GLP",
     "osm_id": "osm:relation:2562137",
     "gn_id": "geonames:dependency:3579143",
     "wof_id": "whosonfirst:region:85671209",
     "children": [
       {
         "name": "Guadeloupe",
-        "code": "971",
+        "code": "FR-971",
         "osm_id": "osm:relation:1047206",
         "wof_id": null,
         "gn_id": "geonames:region:6690363"
@@ -35,15 +33,14 @@
   },
   {
     "name": "Martinique",
-    "code": "02",
-    "identifier": "MTQ",
+    "code": "FR-MTQ",
     "osm_id": "osm:relation:2473088",
     "gn_id": "geonames:dependency:3570311",
     "wof_id": "whosonfirst:region:85671191",
     "children": [
       {
         "name": "Martinique",
-        "code": "972",
+        "code": "FR-972",
         "osm_id": null,
         "wof_id": null,
         "gn_id": "geonames:region:6690603"
@@ -52,15 +49,14 @@
   },
   {
     "name": "Réunion",
-    "code": "04",
-    "identifier": "REU",
+    "code": "FR-REU",
     "osm_id": "osm:relation:2470060",
     "gn_id": "geonames:dependency:935317",
     "wof_id": "whosonfirst:region:85671199",
     "children": [
       {
         "name": "Réunion",
-        "code": "974",
+        "code": "FR-974",
         "osm_id": "osm:relation:77601",
         "wof_id": null,
         "gn_id": "geonames:region:6690283"
@@ -69,15 +65,14 @@
   },
   {
     "name": "Mayotte",
-    "code": "06",
-    "identifier": "MYT",
+    "code": "FR-MYT",
     "osm_id": "osm:relation:1363069",
     "gn_id": "geonames:dependency:1024031",
     "wof_id": "whosonfirst:region:85671203",
     "children": [
       {
         "name": "Mayotte",
-        "code": "976",
+        "code": "FR-976",
         "osm_id": "osm:relation:3388394",
         "wof_id": null,
         "gn_id": null
@@ -86,92 +81,91 @@
   },
   {
     "name": "Auvergne-Rhône-Alpes",
-    "code": "84",
-    "identifier": "ARA",
+    "code": "FR-ARA",
     "osm_id": "osm:relation:3792877",
     "gn_id": "geonames:macroregion:11071625",
     "wof_id": "whosonfirst:macroregion:1108826389",
     "children": [
       {
         "name": "Ain",
-        "code": "01",
+        "code": "FR-01",
         "osm_id": "osm:relation:7387",
         "wof_id": "whosonfirst:region:85683153",
         "gn_id": "geonames:region:3038422"
       },
       {
         "name": "Allier",
-        "code": "03",
+        "code": "FR-03",
         "osm_id": "osm:relation:1450201",
         "wof_id": "whosonfirst:region:85683293",
         "gn_id": "geonames:region:3038111"
       },
       {
         "name": "Ardèche",
-        "code": "07",
+        "code": "FR-07",
         "osm_id": "osm:relation:7430",
         "wof_id": "whosonfirst:region:85683421",
         "gn_id": "geonames:region:3037147"
       },
       {
         "name": "Cantal",
-        "code": "15",
+        "code": "FR-15",
         "osm_id": "osm:relation:7381",
         "wof_id": "whosonfirst:region:85683517",
         "gn_id": "geonames:region:3028791"
       },
       {
         "name": "Drôme",
-        "code": "26",
+        "code": "FR-26",
         "osm_id": "osm:relation:7434",
         "wof_id": "whosonfirst:region:85683523",
         "gn_id": "geonames:region:3020781"
       },
       {
         "name": "Haute-Loire",
-        "code": "43",
+        "code": "FR-43",
         "osm_id": "osm:relation:7452",
         "wof_id": "whosonfirst:region:85683413",
         "gn_id": "geonames:region:3013760"
       },
       {
         "name": "Haute-Savoie",
-        "code": "74",
+        "code": "FR-74",
         "osm_id": "osm:relation:7407",
         "wof_id": "whosonfirst:region:85683227",
         "gn_id": "geonames:region:3013736"
       },
       {
         "name": "Isère",
-        "code": "38",
+        "code": "FR-38",
         "osm_id": "osm:relation:7437",
         "wof_id": "whosonfirst:region:85683427",
         "gn_id": "geonames:region:3012715"
       },
       {
         "name": "Loire",
-        "code": "42",
+        "code": "FR-42",
         "osm_id": "osm:relation:7420",
         "wof_id": "whosonfirst:region:85683377",
         "gn_id": "geonames:region:2997870"
       },
       {
         "name": "Puy-de-Dôme",
-        "code": "63",
+        "code": "FR-63",
         "osm_id": "osm:relation:7406",
         "wof_id": "whosonfirst:region:85683471",
         "gn_id": "geonames:region:2984986"
       },
       {
         "name": "Rhône",
-        "code": "69",
+        "code": "FR-69",
         "osm_id": "osm:relation:7378",
         "wof_id": "whosonfirst:region:85683569",
         "gn_id": "geonames:region:2987410"
       },
       {
         "name": "Savoie",
-        "code": "73",
+        "code": "FR-73",
         "osm_id": "osm:relation:7425",
         "wof_id": "whosonfirst:region:85683265",
         "gn_id": "geonames:region:2975517"
@@ -180,64 +174,63 @@
   },
   {
     "name": "Bourgogne-Franche-Comté",
-    "code": "27",
-    "identifier": "BFC",
+    "code": "FR-BFC",
     "osm_id": "osm:relation:3792878",
     "gn_id": "geonames:macroregion:11071619",
     "wof_id": "whosonfirst:macroregion:1108826395",
     "children": [
       {
         "name": "Côte-d'Or",
-        "code": "21",
+        "code": "FR-21",
         "osm_id": "osm:relation:7424",
         "wof_id": "whosonfirst:region:85683563",
         "gn_id": "geonames:region:3023423"
       },
       {
         "name": "Doubs",
-        "code": "25",
+        "code": "FR-25",
         "osm_id": "osm:relation:7462",
         "wof_id": "whosonfirst:region:85683239",
         "gn_id": "geonames:region:3020989"
       },
       {
         "name": "Jura",
-        "code": "39",
+        "code": "FR-39",
         "osm_id": "osm:relation:7460",
         "wof_id": "whosonfirst:region:85683173",
         "gn_id": "geonames:region:3012051"
       },
       {
         "name": "Nièvre",
-        "code": "58",
+        "code": "FR-58",
         "osm_id": "osm:relation:7448",
         "wof_id": "whosonfirst:region:85683359",
         "gn_id": "geonames:region:2990371"
       },
       {
         "name": "Haute-Saône",
-        "code": "70",
+        "code": "FR-70",
         "osm_id": "osm:relation:7423",
         "wof_id": "whosonfirst:region:85683559",
         "gn_id": "geonames:region:3013737"
       },
       {
         "name": "Saône-et-Loire",
-        "code": "71",
+        "code": "FR-71",
         "osm_id": "osm:relation:7397",
         "wof_id": "whosonfirst:region:85683543",
         "gn_id": "geonames:region:2976082"
       },
       {
         "name": "Yonne",
-        "code": "89",
+        "code": "FR-89",
         "osm_id": "osm:relation:7392",
         "wof_id": "whosonfirst:region:85683503",
         "gn_id": "geonames:region:2967222"
       },
       {
         "name": "Territoire de Belfort",
-        "code": "90",
+        "code": "FR-90",
         "osm_id": "osm:relation:7410",
         "wof_id": "whosonfirst:region:85683353",
         "gn_id": "geonames:region:3033789"
@@ -246,36 +239,35 @@
   },
   {
     "name": "Bretagne",
-    "code": "53",
-    "identifier": "BRE",
+    "code": "FR-BRE",
     "osm_id": "osm:relation:102740",
     "gn_id": "geonames:macroregion:3030293",
     "wof_id": "whosonfirst:macroregion:404227447",
     "children": [
       {
         "name": "Côtes-d'Armor",
-        "code": "22",
+        "code": "FR-22",
         "osm_id": "osm:relation:7398",
         "wof_id": "whosonfirst:region:85683515",
         "gn_id": "geonames:region:3023414"
       },
       {
         "name": "Finistère",
-        "code": "29",
+        "code": "FR-29",
         "osm_id": "osm:relation:102430",
         "wof_id": "whosonfirst:region:85683553",
         "gn_id": "geonames:region:3018471"
       },
       {
         "name": "Ille-et-Vilaine",
-        "code": "35",
+        "code": "FR-35",
         "osm_id": "osm:relation:7465",
         "wof_id": "whosonfirst:region:85683461",
         "gn_id": "geonames:region:3012849"
       },
       {
         "name": "Morbihan",
-        "code": "56",
+        "code": "FR-56",
         "osm_id": "osm:relation:7447",
         "wof_id": "whosonfirst:region:85683507",
         "gn_id": "geonames:region:2991879"
@@ -284,50 +276,49 @@
   },
   {
     "name": "Centre-Val de Loire",
-    "code": "24",
-    "identifier": "CVL",
+    "code": "FR-CVL",
     "osm_id": "osm:relation:8640",
     "gn_id": "geonames:macroregion:3027939",
     "wof_id": "whosonfirst:macroregion:404227461",
     "children": [
       {
         "name": "Cher",
-        "code": "18",
+        "code": "FR-18",
         "osm_id": "osm:relation:7456",
         "wof_id": "whosonfirst:region:85683549",
         "gn_id": "geonames:region:3025480"
       },
       {
         "name": "Eure-et-Loir",
-        "code": "28",
+        "code": "FR-28",
         "osm_id": "osm:relation:7374",
         "wof_id": "whosonfirst:region:85683189",
         "gn_id": "geonames:region:3019316"
       },
       {
         "name": "Indre",
-        "code": "36",
+        "code": "FR-36",
         "osm_id": "osm:relation:7417",
         "wof_id": "whosonfirst:region:85683311",
         "gn_id": "geonames:region:3012805"
       },
       {
         "name": "Indre-et-Loire",
-        "code": "37",
+        "code": "FR-37",
         "osm_id": "osm:relation:7408",
         "wof_id": "whosonfirst:region:85683575",
         "gn_id": "geonames:region:3012804"
       },
       {
         "name": "Loir-et-Cher",
-        "code": "41",
+        "code": "FR-41",
         "osm_id": "osm:relation:7399",
         "wof_id": "whosonfirst:region:85683349",
         "gn_id": "geonames:region:2997856"
       },
       {
         "name": "Loiret",
-        "code": "45",
+        "code": "FR-45",
         "osm_id": "osm:relation:7440",
         "wof_id": "whosonfirst:region:85683479",
         "gn_id": "geonames:region:2997857"
@@ -336,22 +327,21 @@
   },
   {
     "name": "Corse",
-    "code": "94",
-    "identifier": "COR",
+    "code": "FR-COR",
     "osm_id": "osm:relation:76910",
     "gn_id": "geonames:macroregion:3023519",
     "wof_id": "whosonfirst:macroregion:404227453",
     "children": [
       {
         "name": "Corse-du-sud",
-        "code": "2A",
+        "code": "FR-2A",
         "osm_id": "osm:relation:76932",
         "wof_id": "whosonfirst:region:85683167",
         "gn_id": "geonames:region:3023514"
       },
       {
         "name": "Haute-Corse",
-        "code": "2B",
+        "code": "FR-2B",
         "osm_id": "osm:relation:76931",
         "wof_id": "whosonfirst:region:85683493",
         "gn_id": "geonames:region:3013793"
@@ -360,78 +350,77 @@
   },
   {
     "name": "Grand Est",
-    "code": "44",
-    "identifier": "GES",
+    "code": "FR-GES",
     "osm_id": "osm:relation:3792876",
     "gn_id": "geonames:macroregion:11071622",
     "wof_id": "whosonfirst:macroregion:1108826391",
     "children": [
       {
         "name": "Ardennes",
-        "code": "08",
+        "code": "FR-08",
         "osm_id": "osm:relation:7395",
         "wof_id": "whosonfirst:region:85683309",
         "gn_id": "geonames:region:3037136"
       },
       {
         "name": "Aube",
-        "code": "10",
+        "code": "FR-10",
         "osm_id": "osm:relation:7441",
         "wof_id": "whosonfirst:region:85683193",
         "gn_id": "geonames:region:3036420"
       },
       {
         "name": "Marne",
-        "code": "51",
+        "code": "FR-51",
         "osm_id": "osm:relation:7379",
         "wof_id": "whosonfirst:region:85683405",
         "gn_id": "geonames:region:2995603"
       },
       {
         "name": "Haute-Marne",
-        "code": "52",
+        "code": "FR-52",
         "osm_id": "osm:relation:7396",
         "wof_id": "whosonfirst:region:85683261",
         "gn_id": "geonames:region:3013757"
       },
       {
         "name": "Meurthe-et-Moselle",
-        "code": "54",
+        "code": "FR-54",
         "osm_id": "osm:relation:51856",
         "wof_id": "whosonfirst:region:85683343",
         "gn_id": "geonames:region:2994111"
       },
       {
         "name": "Meuse",
-        "code": "55",
+        "code": "FR-55",
         "osm_id": "osm:relation:7382",
         "wof_id": "whosonfirst:region:85683297",
         "gn_id": "geonames:region:2994106"
       },
       {
         "name": "Moselle",
-        "code": "57",
+        "code": "FR-57",
         "osm_id": "osm:relation:51854",
         "wof_id": "whosonfirst:region:85683271",
         "gn_id": "geonames:region:2991627"
       },
       {
         "name": "Bas-Rhin",
-        "code": "67",
+        "code": "FR-67",
         "osm_id": "osm:relation:7415",
         "wof_id": "whosonfirst:region:85683221",
         "gn_id": "geonames:region:3034720"
       },
       {
         "name": "Haut-Rhin",
-        "code": "68",
+        "code": "FR-68",
         "osm_id": "osm:relation:7403",
         "wof_id": "whosonfirst:region:85683381",
         "gn_id": "geonames:region:3013663"
       },
       {
         "name": "Vosges",
-        "code": "88",
+        "code": "FR-88",
         "osm_id": "osm:relation:7384",
         "wof_id": "whosonfirst:region:85683223",
         "gn_id": "geonames:region:2967681"
@@ -440,43 +429,42 @@
   },
   {
     "name": "Hauts-de-France",
-    "code": "32",
-    "identifier": "HDF",
+    "code": "FR-HDF",
     "osm_id": "osm:relation:4217435",
     "gn_id": "geonames:macroregion:11071624",
     "wof_id": "whosonfirst:macroregion:1108826399",
     "children": [
       {
         "name": "Aisne",
-        "code": "02",
+        "code": "FR-02",
         "osm_id": "osm:relation:7411",
         "wof_id": "whosonfirst:region:85683247",
         "gn_id": "geonames:region:3038375"
       },
       {
         "name": "Nord",
-        "code": "59",
+        "code": "FR-59",
         "osm_id": "osm:relation:7400",
         "wof_id": "whosonfirst:region:85683445",
         "gn_id": "geonames:region:2990129"
       },
       {
         "name": "Oise",
-        "code": "60",
+        "code": "FR-60",
         "osm_id": "osm:relation:7427",
         "wof_id": "whosonfirst:region:85683289",
         "gn_id": "geonames:region:2989663"
       },
       {
         "name": "Pas-de-Calais",
-        "code": "62",
+        "code": "FR-62",
         "osm_id": "osm:relation:7394",
         "wof_id": "whosonfirst:region:85683255",
         "gn_id": "geonames:region:2988430"
       },
       {
         "name": "Somme",
-        "code": "80",
+        "code": "FR-80",
         "osm_id": "osm:relation:7463",
         "wof_id": "whosonfirst:region:85683363",
         "gn_id": "geonames:region:2974304"
@@ -485,64 +473,63 @@
   },
   {
     "name": "Île-de-France",
-    "code": "11",
-    "identifier": "IDF",
+    "code": "FR-IDF",
     "osm_id": "osm:relation:8649",
     "gn_id": "geonames:macroregion:3012874",
     "wof_id": "whosonfirst:macroregion:404227465",
     "children": [
       {
         "name": "Paris",
-        "code": "75",
+        "code": "FR-75",
         "osm_id": "osm:relation:71525",
         "wof_id": "whosonfirst:region:85683497",
         "gn_id": "geonames:region:2968815"
       },
       {
         "name": "Seine-et-Marne",
-        "code": "77",
+        "code": "FR-77",
         "osm_id": "osm:relation:7383",
         "wof_id": "whosonfirst:region:85683385",
         "gn_id": "geonames:region:2975249"
       },
       {
         "name": "Yvelines",
-        "code": "78",
+        "code": "FR-78",
         "osm_id": "osm:relation:7457",
         "wof_id": "whosonfirst:region:85683367",
         "gn_id": "geonames:region:2967196"
       },
       {
         "name": "Essonne",
-        "code": "91",
+        "code": "FR-91",
         "osm_id": "osm:relation:7401",
         "wof_id": "whosonfirst:region:85683371",
         "gn_id": "geonames:region:3019599"
       },
       {
         "name": "Hauts-de-Seine",
-        "code": "92",
+        "code": "FR-92",
         "osm_id": "osm:relation:7449",
         "wof_id": "whosonfirst:region:85683157",
         "gn_id": "geonames:region:3013657"
       },
       {
         "name": "Seine-Saint-Denis",
-        "code": "93",
+        "code": "FR-93",
         "osm_id": "osm:relation:7389",
         "wof_id": "whosonfirst:region:85683475",
         "gn_id": "geonames:region:2975246"
       },
       {
         "name": "Val-de-Marne",
-        "code": "94",
+        "code": "FR-94",
         "osm_id": "osm:relation:7458",
         "wof_id": "whosonfirst:region:85683459",
         "gn_id": "geonames:region:2971090"
       },
       {
         "name": "Val-d'Oise",
-        "code": "95",
+        "code": "FR-95",
         "osm_id": "osm:relation:7433",
         "wof_id": "whosonfirst:region:85683451",
         "gn_id": "geonames:region:2971071"
@@ -551,43 +538,42 @@
   },
   {
     "name": "Normandie",
-    "code": "28",
-    "identifier": "NOR",
+    "code": "FR-NOR",
     "osm_id": "osm:relation:3793170",
     "gn_id": "geonames:macroregion:11071621",
     "wof_id": "whosonfirst:macroregion:1108826393",
     "children": [
       {
         "name": "Calvados",
-        "code": "14",
+        "code": "FR-14",
         "osm_id": "osm:relation:7453",
         "wof_id": "whosonfirst:region:85683579",
         "gn_id": "geonames:region:3029094"
       },
       {
         "name": "Eure",
-        "code": "27",
+        "code": "FR-27",
         "osm_id": "osm:relation:7435",
         "wof_id": "whosonfirst:region:85683283",
         "gn_id": "geonames:region:3019317"
       },
       {
         "name": "Manche",
-        "code": "50",
+        "code": "FR-50",
         "osm_id": "osm:relation:7404",
         "wof_id": "whosonfirst:region:85683489",
         "gn_id": "geonames:region:2996268"
       },
       {
         "name": "Orne",
-        "code": "61",
+        "code": "FR-61",
         "osm_id": "osm:relation:7419",
         "wof_id": "whosonfirst:region:85683527",
         "gn_id": "geonames:region:2989247"
       },
       {
         "name": "Seine-Maritime",
-        "code": "76",
+        "code": "FR-76",
         "osm_id": "osm:relation:7426",
         "wof_id": "whosonfirst:region:85683251",
         "gn_id": "geonames:region:2975248"
@@ -596,92 +582,91 @@
   },
   {
     "name": "Nouvelle-Aquitaine",
-    "code": "75",
-    "identifier": "NAQ",
+    "code": "FR-NAQ",
     "osm_id": "osm:relation:3792880",
     "gn_id": "geonames:macroregion:11071620",
     "wof_id": "whosonfirst:macroregion:1108826385",
     "children": [
       {
         "name": "Charente",
-        "code": "16",
+        "code": "FR-16",
         "osm_id": "osm:relation:7428",
         "wof_id": "whosonfirst:region:85683437",
         "gn_id": "geonames:region:3026646"
       },
       {
         "name": "Charente-Maritime",
-        "code": "17",
+        "code": "FR-17",
         "osm_id": "osm:relation:7431",
         "wof_id": "whosonfirst:region:85683275",
         "gn_id": "geonames:region:3026644"
       },
       {
         "name": "Corrèze",
-        "code": "19",
+        "code": "FR-19",
         "osm_id": "osm:relation:7464",
         "wof_id": "whosonfirst:region:85683209",
         "gn_id": "geonames:region:3023532"
       },
       {
         "name": "Creuse",
-        "code": "23",
+        "code": "FR-23",
         "osm_id": "osm:relation:7459",
         "wof_id": "whosonfirst:region:85683179",
         "gn_id": "geonames:region:3022516"
       },
       {
         "name": "Dordogne",
-        "code": "24",
+        "code": "FR-24",
         "osm_id": "osm:relation:7375",
         "wof_id": "whosonfirst:region:85683331",
         "gn_id": "geonames:region:3021042"
       },
       {
         "name": "Gironde",
-        "code": "33",
+        "code": "FR-33",
         "osm_id": "osm:relation:7405",
         "wof_id": "whosonfirst:region:85683243",
         "gn_id": "geonames:region:3015948"
       },
       {
         "name": "Landes",
-        "code": "40",
+        "code": "FR-40",
         "osm_id": "osm:relation:7376",
         "wof_id": "whosonfirst:region:85683183",
         "gn_id": "geonames:region:3007866"
       },
       {
         "name": "Lot-et-Garonne",
-        "code": "47",
+        "code": "FR-47",
         "osm_id": "osm:relation:1284995",
         "wof_id": "whosonfirst:region:85683341",
         "gn_id": "geonames:region:2997523"
       },
       {
         "name": "Pyrénées-Atlantiques",
-        "code": "64",
+        "code": "FR-64",
         "osm_id": "osm:relation:7450",
         "wof_id": "whosonfirst:region:85683539",
         "gn_id": "geonames:region:2984887"
       },
       {
         "name": "Deux-Sèvres",
-        "code": "79",
+        "code": "FR-79",
         "osm_id": "osm:relation:7455",
         "wof_id": "whosonfirst:region:85683163",
         "gn_id": "geonames:region:3021501"
       },
       {
         "name": "Vienne",
-        "code": "86",
+        "code": "FR-86",
         "osm_id": "osm:relation:7377",
         "wof_id": "whosonfirst:region:85683185",
         "gn_id": "geonames:region:2969280"
       },
       {
         "name": "Haute-Vienne",
-        "code": "87",
+        "code": "FR-87",
         "osm_id": "osm:relation:7418",
         "wof_id": "whosonfirst:region:85683531",
         "gn_id": "geonames:region:3013719"
@@ -690,99 +675,98 @@
   },
   {
     "name": "Occitanie",
-    "code": "76",
-    "identifier": "OCC",
+    "code": "FR-OCC",
     "osm_id": "osm:relation:3792883",
     "gn_id": "geonames:macroregion:11071623",
     "wof_id": "whosonfirst:macroregion:1108826387",
     "children": [
       {
         "name": "Ariège",
-        "code": "09",
+        "code": "FR-09",
         "osm_id": "osm:relation:7439",
         "wof_id": "whosonfirst:region:85683335",
         "gn_id": "geonames:region:3036965"
       },
       {
         "name": "Aude",
-        "code": "11",
+        "code": "FR-11",
         "osm_id": "osm:relation:7446",
         "wof_id": "whosonfirst:region:85683485",
         "gn_id": "geonames:region:3036264"
       },
       {
         "name": "Aveyron",
-        "code": "12",
+        "code": "FR-12",
         "osm_id": "osm:relation:7451",
         "wof_id": "whosonfirst:region:85683301",
         "gn_id": "geonames:region:3035691"
       },
       {
         "name": "Gard",
-        "code": "30",
+        "code": "FR-30",
         "osm_id": "osm:relation:7461",
         "wof_id": "whosonfirst:region:85683431",
         "gn_id": "geonames:region:3016670"
       },
       {
         "name": "Haute-Garonne",
-        "code": "31",
+        "code": "FR-31",
         "osm_id": "osm:relation:7413",
         "wof_id": "whosonfirst:region:85683397",
         "gn_id": "geonames:region:3013767"
       },
       {
         "name": "Gers",
-        "code": "32",
+        "code": "FR-32",
         "osm_id": "osm:relation:7422",
         "wof_id": "whosonfirst:region:85683467",
         "gn_id": "geonames:region:3016194"
       },
       {
         "name": "Hérault",
-        "code": "34",
+        "code": "FR-34",
         "osm_id": "osm:relation:7429",
         "wof_id": "whosonfirst:region:85683419",
         "gn_id": "geonames:region:3013500"
       },
       {
         "name": "Lot",
-        "code": "46",
+        "code": "FR-46",
         "osm_id": "osm:relation:7454",
         "wof_id": "whosonfirst:region:85683389",
         "gn_id": "geonames:region:2997524"
       },
       {
         "name": "Lozère",
-        "code": "48",
+        "code": "FR-48",
         "osm_id": "osm:relation:7421",
         "wof_id": "whosonfirst:region:85683453",
         "gn_id": "geonames:region:2997288"
       },
       {
         "name": "Hautes-Pyrénées",
-        "code": "65",
+        "code": "FR-65",
         "osm_id": "osm:relation:7467",
         "wof_id": "whosonfirst:region:85683203",
         "gn_id": "geonames:region:3013726"
       },
       {
         "name": "Pyrénées-Orientales",
-        "code": "66",
+        "code": "FR-66",
         "osm_id": "osm:relation:7466",
         "wof_id": "whosonfirst:region:85683169",
         "gn_id": "geonames:region:2984885"
       },
       {
         "name": "Tarn",
-        "code": "81",
+        "code": "FR-81",
         "osm_id": "osm:relation:7442",
         "wof_id": "whosonfirst:region:85683603",
         "gn_id": "geonames:region:2973362"
       },
       {
         "name": "Tarn-et-Garonne",
-        "code": "82",
+        "code": "FR-82",
         "osm_id": "osm:relation:7388",
         "wof_id": "whosonfirst:region:85683217",
         "gn_id": "geonames:region:2973357"
@@ -791,43 +775,42 @@
   },
   {
     "name": "Pays de la Loire",
-    "code": "52",
-    "identifier": "PDL",
+    "code": "FR-PDL",
     "osm_id": "osm:relation:8650",
     "gn_id": "geonames:macroregion:2988289",
     "wof_id": "whosonfirst:macroregion:404227423",
     "children": [
       {
         "name": "Loire-Atlantique",
-        "code": "44",
+        "code": "FR-44",
         "osm_id": "osm:relation:7432",
         "wof_id": "whosonfirst:region:85683233",
         "gn_id": "geonames:region:2997861"
       },
       {
         "name": "Maine-et-Loire",
-        "code": "49",
+        "code": "FR-49",
         "osm_id": "osm:relation:7409",
         "wof_id": "whosonfirst:region:85683327",
         "gn_id": "geonames:region:2996663"
       },
       {
         "name": "Mayenne",
-        "code": "53",
+        "code": "FR-53",
         "osm_id": "osm:relation:7438",
         "wof_id": "whosonfirst:region:85683401",
         "gn_id": "geonames:region:2994932"
       },
       {
         "name": "Sarthe",
-        "code": "72",
+        "code": "FR-72",
         "osm_id": "osm:relation:7443",
         "wof_id": "whosonfirst:region:85683279",
         "gn_id": "geonames:region:2975926"
       },
       {
         "name": "Vendée",
-        "code": "85",
+        "code": "FR-85",
         "osm_id": "osm:relation:7402",
         "wof_id": "whosonfirst:region:85683409",
         "gn_id": "geonames:region:2970140"
@@ -836,50 +819,49 @@
   },
   {
     "name": "Provence-Alpes-Côte d'Azur",
-    "code": "93",
-    "identifier": "PAC",
+    "code": "FR-PAC",
     "osm_id": "osm:relation:8654",
     "gn_id": "geonames:macroregion:2985244",
     "wof_id": "whosonfirst:macroregion:404227445",
     "children": [
       {
         "name": "Alpes-de-Haute-Provence",
-        "code": "04",
+        "code": "FR-04",
         "osm_id": "osm:relation:7380",
         "wof_id": "whosonfirst:region:85683509",
         "gn_id": "geonames:region:3038050"
       },
       {
         "name": "Hautes-Alpes",
-        "code": "05",
+        "code": "FR-05",
         "osm_id": "osm:relation:7436",
         "wof_id": "whosonfirst:region:85683597",
         "gn_id": "geonames:region:3013738"
       },
       {
         "name": "Alpes-Maritimes",
-        "code": "06",
+        "code": "FR-06",
         "osm_id": "osm:relation:7385",
         "wof_id": "whosonfirst:region:85683323",
         "gn_id": "geonames:region:3038049"
       },
       {
         "name": "Bouches-du-Rhône",
-        "code": "13",
+        "code": "FR-13",
         "osm_id": "osm:relation:7393",
         "wof_id": "whosonfirst:region:85683441",
         "gn_id": "geonames:region:3031359"
       },
       {
         "name": "Var",
-        "code": "83",
+        "code": "FR-83",
         "osm_id": "osm:relation:7390",
         "wof_id": "whosonfirst:region:85683315",
         "gn_id": "geonames:region:2970749"
       },
       {
         "name": "Vaucluse",
-        "code": "84",
+        "code": "FR-84",
         "osm_id": "osm:relation:7445",
         "wof_id": "whosonfirst:region:85683201",
         "gn_id": "geonames:region:2970554"

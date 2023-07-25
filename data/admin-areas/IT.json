@@ -1,266 +1,234 @@
 [
   {
     "intl_name": "Abruzzo",
-    "identifier": "ITF",
-    "code": "13",
+    "code": "IT-65",
     "children": [
-      { "intl_name": "Chieti", "identifier": "CH", "code": "069" },
       {
         "gn_name": "Provincia dell' Aquila",
         "intl_name": "L'Aquila",
-        "identifier": "AQ",
-        "code": "066"
+        "code": "IT-AQ"
       },
-      { "intl_name": "Pescara", "identifier": "PE", "code": "068" },
-      { "intl_name": "Teramo", "identifier": "TE", "code": "067" }
+      { "intl_name": "Chieti", "code": "IT-CH" },
+      { "intl_name": "Pescara", "code": "IT-PE" },
+      { "intl_name": "Teramo", "code": "IT-TE" }
     ]
   },
   {
     "intl_name": "Basilicata",
-    "identifier": "ITH",
-    "code": "17",
+    "code": "IT-77",
     "children": [
-      { "intl_name": "Matera", "identifier": "MT", "code": "077" },
-      { "intl_name": "Potenza", "identifier": "PZ", "code": "076" }
+      { "intl_name": "Matera", "code": "IT-MT" },
+      { "intl_name": "Potenza", "code": "IT-PZ" }
     ]
   },
   {
     "intl_name": "Calabria",
-    "identifier": "ITC",
-    "code": "18",
+    "code": "IT-78",
     "children": [
-      { "intl_name": "Catanzaro", "identifier": "CZ", "code": "079" },
-      { "intl_name": "Cosenza", "identifier": "CS", "code": "078" },
-      { "intl_name": "Crotone", "identifier": "KR", "code": "101" },
-      { "intl_name": "Reggio Calabria", "identifier": "RC", "code": "080" },
-      { "intl_name": "Vibo Valentia", "identifier": "VV", "code": "082" }
+      { "intl_name": "Catanzaro", "code": "IT-CZ" },
+      { "intl_name": "Cosenza", "code": "IT-CS" },
+      { "intl_name": "Crotone", "code": "IT-KR" },
+      { "intl_name": "Reggio Calabria", "code": "IT-RC" },
+      { "intl_name": "Vibo Valentia", "code": "IT-VV" }
     ]
   },
   {
     "intl_name": "Campania",
-    "identifier": "ITF",
-    "code": "15",
+    "code": "IT-72",
     "children": [
-      { "intl_name": "Avellino", "identifier": "AV", "code": "064" },
-      { "intl_name": "Benevento", "identifier": "BN", "code": "062" },
-      { "intl_name": "Caserta", "identifier": "CE", "code": "061" },
-      { "intl_name": "Napoli", "identifier": "NA", "code": "063" },
-      { "intl_name": "Salerno", "identifier": "SA", "code": "065" }
+      { "intl_name": "Benevento", "code": "IT-BN" },
+      { "intl_name": "Caserta", "code": "IT-CE" },
+      { "intl_name": "Napoli", "code": "IT-NA" },
+      { "intl_name": "Salerno", "code": "IT-SA" },
+      { "intl_name": "Avellino", "code": "IT-AV" }
     ]
   },
   {
     "intl_name": "Emilia-Romagna",
-    "identifier": "ITD",
-    "code": "05",
+    "code": "IT-45",
     "children": [
-      { "intl_name": "Bologna", "identifier": "BO", "code": "037" },
-      { "intl_name": "Ferrara", "identifier": "FE", "code": "038" },
-      { "intl_name": "Forlì-Cesena", "identifier": "FC", "code": "040" },
-      { "intl_name": "Modena", "identifier": "MO", "code": "036" },
-      { "intl_name": "Parma", "identifier": "PR", "code": "034" },
-      { "intl_name": "Piacenza", "identifier": "PC", "code": "033" },
-      { "intl_name": "Ravenna", "identifier": "RA", "code": "039" },
-      { "intl_name": "Reggio Emilia", "identifier": "RE", "code": "035" },
-      { "intl_name": "Rimini", "identifier": "RN", "code": "099" }
+      { "intl_name": "Bologna", "code": "IT-BO" },
+      { "intl_name": "Ferrara", "code": "IT-FE" },
+      { "intl_name": "Forlì-Cesena", "code": "IT-FC" },
+      { "intl_name": "Modena", "code": "IT-MO" },
+      { "intl_name": "Parma", "code": "IT-PR" },
+      { "intl_name": "Piacenza", "code": "IT-PC" },
+      { "intl_name": "Ravenna", "code": "IT-RA" },
+      { "intl_name": "Reggio Emilia", "code": "IT-RE" },
+      { "intl_name": "Rimini", "code": "IT-RN" }
     ]
   },
   {
     "intl_name": "Friuli-Venezia Giulia",
-    "identifier": "ITH",
-    "code": "06",
+    "code": "IT-36",
     "children": [
-      { "intl_name": "Gorizia", "identifier": "GO", "code": "031" },
-      { "intl_name": "Pordenone", "identifier": "PN", "code": "028" },
-      { "intl_name": "Trieste", "identifier": "TS", "code": "032" },
-      { "intl_name": "Udine", "identifier": "UD", "code": "029" }
+      { "intl_name": "Gorizia", "code": "IT-GO" },
+      { "intl_name": "Pordenone", "code": "IT-PN" },
+      { "intl_name": "Trieste", "code": "IT-TS" },
+      { "intl_name": "Udine", "code": "IT-UD" }
     ]
   },
   {
     "intl_name": "Lazio",
-    "identifier": "ITI",
-    "code": "07",
+    "code": "IT-62",
     "children": [
-      { "intl_name": "Frosinone", "identifier": "FR", "code": "060" },
-      { "intl_name": "Latina", "identifier": "LT", "code": "059" },
-      { "intl_name": "Rieti", "identifier": "RI", "code": "057" },
-      { "intl_name": "Roma", "identifier": "RM", "code": "058" },
-      { "intl_name": "Viterbo", "identifier": "VT", "code": "056" }
+      { "intl_name": "Frosinone", "code": "IT-FR" },
+      { "intl_name": "Latina", "code": "IT-LT" },
+      { "intl_name": "Rieti", "code": "IT-RI" },
+      { "intl_name": "Roma", "code": "IT-RM" },
+      { "intl_name": "Viterbo", "code": "IT-VT" }
     ]
   },
   {
     "intl_name": "Liguria",
-    "identifier": "ITC",
-    "code": "08",
+    "code": "IT-42",
     "children": [
-      { "intl_name": "Genova", "identifier": "GE", "code": "010" },
-      { "intl_name": "Imperia", "identifier": "IM", "code": "008" },
-      { "intl_name": "La Spezia", "identifier": "SP", "code": "011" },
-      { "intl_name": "Savona", "identifier": "SV", "code": "009" }
+      { "intl_name": "Genova", "code": "IT-GE" },
+      { "intl_name": "Imperia", "code": "IT-IM" },
+      { "intl_name": "La Spezia", "code": "IT-SP" },
+      { "intl_name": "Savona", "code": "IT-SV" }
     ]
   },
   {
     "intl_name": "Lombardia",
-    "identifier": "ITC",
-    "code": "03",
+    "code": "IT-25",
     "children": [
-      { "intl_name": "Bergamo", "identifier": "BG", "code": "016" },
-      { "intl_name": "Brescia", "identifier": "BS", "code": "017" },
-      { "intl_name": "Como", "identifier": "CO", "code": "013" },
-      { "intl_name": "Cremona", "identifier": "CR", "code": "019" },
-      { "intl_name": "Lecco", "identifier": "LC", "code": "097" },
-      { "intl_name": "Lodi", "identifier": "LO", "code": "098" },
-      { "intl_name": "Mantova", "identifier": "MN", "code": "020" },
-      { "intl_name": "Milano", "identifier": "MI", "code": "015" },
-      { "intl_name": "Monza e Brianza", "identifier": "MB", "code": "108" },
-      { "intl_name": "Pavia", "identifier": "PV", "code": "018" },
-      { "intl_name": "Sondrio", "identifier": "SO", "code": "014" },
-      { "intl_name": "Varese", "identifier": "VA", "code": "012" }
+      { "intl_name": "Bergamo", "code": "IT-BG" },
+      { "intl_name": "Brescia", "code": "IT-BS" },
+      { "intl_name": "Como", "code": "IT-CO" },
+      { "intl_name": "Cremona", "code": "IT-CR" },
+      { "intl_name": "Lecco", "code": "IT-LC" },
+      { "intl_name": "Lodi", "code": "IT-LO" },
+      { "intl_name": "Mantova", "code": "IT-MN" },
+      { "intl_name": "Milano", "code": "IT-MI" },
+      { "intl_name": "Monza e della Brianza", "code": "IT-MB" },
+      { "intl_name": "Pavia", "code": "IT-PV" },
+      { "intl_name": "Sondrio", "code": "IT-SO" },
+      { "intl_name": "Varese", "code": "IT-VA" }
     ]
   },
   {
     "intl_name": "Marche",
-    "identifier": "ITI",
-    "code": "11",
+    "code": "IT-57",
     "children": [
-      { "intl_name": "Ancona", "identifier": "AN", "code": "042" },
-      { "intl_name": "Ascoli Piceno", "identifier": "AP", "code": "044" },
-      { "intl_name": "Fermo", "identifier": "FM", "code": "109" },
-      { "intl_name": "Macerata", "identifier": "MC", "code": "043" },
-      { "intl_name": "Pesaro e Urbino", "identifier": "PU", "code": "041" }
+      { "intl_name": "Ancona", "code": "IT-AN" },
+      { "intl_name": "Ascoli Piceno", "code": "IT-AP" },
+      { "intl_name": "Fermo", "code": "IT-FM" },
+      { "intl_name": "Macerata", "code": "IT-MC" },
+      { "intl_name": "Pesaro e Urbino", "code": "IT-PU" }
     ]
   },
   {
     "intl_name": "Molise",
-    "identifier": "ITF",
-    "code": "14",
+    "code": "IT-67",
     "children": [
-      { "intl_name": "Campobasso", "identifier": "CB", "code": "070" },
-      { "intl_name": "Isernia", "identifier": "IS", "code": "094" }
+      { "intl_name": "Campobasso", "code": "IT-CB" },
+      { "intl_name": "Isernia", "code": "IT-IS" }
     ]
   },
   {
     "intl_name": "Piemonte",
-    "identifier": "ITC",
-    "code": "01",
+    "code": "IT-21",
     "children": [
-      { "intl_name": "Alessandria", "identifier": "AL", "code": "006" },
-      { "intl_name": "Asti", "identifier": "AT", "code": "005" },
-      { "intl_name": "Biella", "identifier": "BI", "code": "096" },
-      { "intl_name": "Cuneo", "identifier": "CN", "code": "004" },
-      { "intl_name": "Novara", "identifier": "NO", "code": "003" },
-      { "intl_name": "Torino", "identifier": "TO", "code": "001" },
-      {
-        "intl_name": "Verbano-Cusio-Ossola",
-        "identifier": "VB",
-        "code": "103"
-      },
-      { "intl_name": "Vercelli", "identifier": "VC", "code": "002" }
+      { "intl_name": "Alessandria", "code": "IT-AL" },
+      { "intl_name": "Asti", "code": "IT-AT" },
+      { "intl_name": "Biella", "code": "IT-BI" },
+      { "intl_name": "Cuneo", "code": "IT-CN" },
+      { "intl_name": "Novara", "code": "IT-NO" },
+      { "intl_name": "Torino", "code": "IT-TO" },
+      { "intl_name": "Verbano-Cusio-Ossola", "code": "IT-VCO" },
+      { "intl_name": "Vercelli", "code": "IT-VC" }
     ]
   },
   {
     "intl_name": "Puglia",
-    "identifier": "ITF",
-    "code": "16",
+    "code": "IT-75",
     "children": [
-      { "intl_name": "Bari", "identifier": "BA", "code": "072" },
-      {
-        "intl_name": "Barletta-Andria-Trani",
-        "identifier": "BT",
-        "code": "110"
-      },
-      { "intl_name": "Brindisi", "identifier": "BR", "code": "073" },
-      { "intl_name": "Foggia", "identifier": "FG", "code": "071" },
-      { "intl_name": "Lecce", "identifier": "LE", "code": "075" },
-      { "intl_name": "Taranto", "identifier": "TA", "code": "074" }
+      { "intl_name": "Bari", "code": "IT-BA" },
+      { "intl_name": "Barletta-Andria-Trani", "code": "IT-BT" },
+      { "intl_name": "Brindisi", "code": "IT-BR" },
+      { "intl_name": "Foggia", "code": "IT-FG" },
+      { "intl_name": "Lecce", "code": "IT-LE" },
+      { "intl_name": "Taranto", "code": "IT-TA" }
     ]
   },
   {
     "intl_name": "Sardegna",
-    "identifier": "ITH",
-    "code": "20",
+    "code": "IT-88",
     "children": [
-      { "intl_name": "Cagliari", "identifier": "CA", "code": "092" },
-      { "intl_name": "Nuoro", "identifier": "NU", "code": "091" },
-      { "intl_name": "Oristano", "identifier": "OR", "code": "095" },
-      { "intl_name": "Sassari", "identifier": "SS", "code": "090" }
+      { "intl_name": "Cagliari", "code": "IT-CA" },
+      { "intl_name": "Nuoro", "code": "IT-NU" },
+      { "intl_name": "Oristano", "code": "IT-OR" },
+      { "intl_name": "Sassari", "code": "IT-SS" }
     ]
   },
   {
     "intl_name": "Sicilia",
-    "identifier": "ITG",
-    "code": "19",
+    "code": "IT-82",
     "children": [
-      { "intl_name": "Agrigento", "identifier": "AG", "code": "084" },
-      { "intl_name": "Caltanissetta", "identifier": "CL", "code": "085" },
-      { "intl_name": "Catania", "identifier": "CT", "code": "087" },
-      { "intl_name": "Enna", "identifier": "EN", "code": "086" },
-      { "intl_name": "Messina", "identifier": "ME", "code": "083" },
-      { "intl_name": "Palermo", "identifier": "PA", "code": "082" },
-      { "intl_name": "Ragusa", "identifier": "RG", "code": "088" },
-      { "intl_name": "Siracusa", "identifier": "SR", "code": "089" },
-      { "intl_name": "Trapani", "identifier": "TP", "code": "081" }
+      { "intl_name": "Agrigento", "code": "IT-AG" },
+      { "intl_name": "Caltanissetta", "code": "IT-CL" },
+      { "intl_name": "Catania", "code": "IT-CT" },
+      { "intl_name": "Enna", "code": "IT-EN" },
+      { "intl_name": "Messina", "code": "IT-ME" },
+      { "intl_name": "Palermo", "code": "IT-PA" },
+      { "intl_name": "Ragusa", "code": "IT-RG" },
+      { "intl_name": "Siracusa", "code": "IT-SR" },
+      { "intl_name": "Trapani", "code": "IT-TP" }
     ]
   },
   {
     "intl_name": "Toscana",
-    "identifier": "ITI",
-    "code": "09",
+    "code": "IT-52",
     "children": [
-      { "intl_name": "Arezzo", "identifier": "AR", "code": "051" },
+      { "intl_name": "Arezzo", "code": "IT-AR" },
       {
         "gn_name": "Province of Florence",
         "intl_name": "Firenze",
-        "identifier": "FI",
-        "code": "048"
+        "code": "IT-FI"
       },
-      { "intl_name": "Grosseto", "identifier": "GR", "code": "053" },
-      { "intl_name": "Livorno", "identifier": "LI", "code": "049" },
-      { "intl_name": "Lucca", "identifier": "LU", "code": "046" },
-      { "intl_name": "Massa-Carrara", "identifier": "MS", "code": "045" },
-      { "intl_name": "Pisa", "identifier": "PI", "code": "050" },
-      { "intl_name": "Pistoia", "identifier": "PT", "code": "047" },
-      { "intl_name": "Prato", "identifier": "PO", "code": "100" },
-      { "intl_name": "Siena", "identifier": "SI", "code": "052" }
+      { "intl_name": "Grosseto", "code": "IT-GR" },
+      { "intl_name": "Livorno", "code": "IT-LI" },
+      { "intl_name": "Lucca", "code": "IT-LU" },
+      { "intl_name": "Massa-Carrara", "code": "IT-MS" },
+      { "intl_name": "Pisa", "code": "IT-PI" },
+      { "intl_name": "Pistoia", "code": "IT-PT" },
+      { "intl_name": "Prato", "code": "IT-PO" },
+      { "intl_name": "Siena", "code": "IT-SI" }
     ]
   },
   {
-    "intl_name": "Trentino-Alto Adige",
-    "identifier": "ITE",
-    "code": "04",
+    "intl_name": "Trentino-Alto Adige/Südtirol",
+    "code": "IT-32",
     "children": [
-      { "intl_name": "Bolzano", "identifier": "BZ", "code": "021" },
-      { "intl_name": "Trento", "identifier": "TN", "code": "022" }
+      { "intl_name": "Bolzano", "code": "IT-BZ" },
+      { "intl_name": "Trento", "code": "IT-TN" }
     ]
   },
   {
     "intl_name": "Umbria",
-    "identifier": "ITI",
-    "code": "10",
+    "code": "IT-55",
     "children": [
-      { "intl_name": "Perugia", "identifier": "PG", "code": "054" },
-      { "intl_name": "Terni", "identifier": "TR", "code": "055" }
+      { "intl_name": "Perugia", "code": "IT-PG" },
+      { "intl_name": "Terni", "code": "IT-TR" }
     ]
   },
   {
     "intl_name": "Valle d'Aosta",
-    "identifier": "ITC",
-    "code": "02",
-    "children": [
-      { "intl_name": "Valle d'Aosta", "identifier": "AO", "code": "007" }
-    ]
+    "code": "IT-23",
+    "children": [{ "intl_name": "Valle d'Aosta", "code": "IT-AO" }]
   },
   {
     "intl_name": "Veneto",
-    "identifier": "ITD",
-    "code": "05",
+    "code": "IT-34",
     "children": [
-      { "intl_name": "Belluno", "identifier": "BL", "code": "025" },
-      { "intl_name": "Padova", "identifier": "PD", "code": "028" },
-      { "intl_name": "Rovigo", "identifier": "RO", "code": "029" },
-      { "intl_name": "Treviso", "identifier": "TV", "code": "027" },
-      { "intl_name": "Venezia", "identifier": "VE", "code": "026" },
-      { "intl_name": "Verona", "identifier": "VR", "code": "023" },
-      { "intl_name": "Vicenza", "identifier": "VI", "code": "024" }
+      { "intl_name": "Belluno", "code": "IT-BL" },
+      { "intl_name": "Padova", "code": "IT-PD" },
+      { "intl_name": "Rovigo", "code": "IT-RO" },
+      { "intl_name": "Treviso", "code": "IT-TV" },
+      { "intl_name": "Venezia", "code": "IT-VE" },
+      { "intl_name": "Verona", "code": "IT-VR" },
+      { "intl_name": "Vicenza", "code": "IT-VI" }
     ]
   }
 ]

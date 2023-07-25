@@ -5,12 +5,11 @@ Peux-tu les donner dans un tableau JSON au format suivant :
 [
     {
         "name": "Bourgogne-Franche-Comté",
-        "identifier": "BFG",
-        "code": "27",
+        "code": "FR-BFC",
         "children": [
             {
                 "name": "Saône-et-loire",
-                "code": "71"
+                "code": "FR-71"
             },
             ...
         ] 

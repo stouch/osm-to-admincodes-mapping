@@ -1,197 +1,180 @@
 {
   "osm:relation:2502058": {
-    "code": "03",
-    "identifier": "GUF",
-    "children": { "osm:relation:2202121": { "code": "973" } }
+    "code": "FR-GUF",
+    "children": { "osm:relation:2202121": { "code": "FR-973" } }
   },
   "osm:relation:2562137": {
-    "code": "01",
-    "identifier": "GLP",
-    "children": { "osm:relation:1047206": { "code": "971" } }
+    "code": "FR-GLP",
+    "children": { "osm:relation:1047206": { "code": "FR-971" } }
   },
-  "osm:relation:2473088": { "code": "02", "identifier": "MTQ", "children": {} },
+  "osm:relation:2473088": { "code": "FR-MTQ", "children": {} },
   "osm:relation:2470060": {
-    "code": "04",
-    "identifier": "REU",
-    "children": { "osm:relation:77601": { "code": "974" } }
+    "code": "FR-REU",
+    "children": { "osm:relation:77601": { "code": "FR-974" } }
   },
   "osm:relation:1363069": {
-    "code": "06",
-    "identifier": "MYT",
-    "children": { "osm:relation:3388394": { "code": "976" } }
+    "code": "FR-MYT",
+    "children": { "osm:relation:3388394": { "code": "FR-976" } }
   },
   "osm:relation:3792877": {
-    "code": "84",
-    "identifier": "ARA",
+    "code": "FR-ARA",
     "children": {
-      "osm:relation:7387": { "code": "01" },
-      "osm:relation:1450201": { "code": "03" },
-      "osm:relation:7430": { "code": "07" },
-      "osm:relation:7381": { "code": "15" },
-      "osm:relation:7434": { "code": "26" },
-      "osm:relation:7452": { "code": "43" },
-      "osm:relation:7407": { "code": "74" },
-      "osm:relation:7437": { "code": "38" },
-      "osm:relation:7420": { "code": "42" },
-      "osm:relation:7406": { "code": "63" },
-      "osm:relation:7378": { "code": "69" },
-      "osm:relation:7425": { "code": "73" }
+      "osm:relation:7387": { "code": "FR-01" },
+      "osm:relation:1450201": { "code": "FR-03" },
+      "osm:relation:7430": { "code": "FR-07" },
+      "osm:relation:7381": { "code": "FR-15" },
+      "osm:relation:7434": { "code": "FR-26" },
+      "osm:relation:7452": { "code": "FR-43" },
+      "osm:relation:7407": { "code": "FR-74" },
+      "osm:relation:7437": { "code": "FR-38" },
+      "osm:relation:7420": { "code": "FR-42" },
+      "osm:relation:7406": { "code": "FR-63" },
+      "osm:relation:7378": { "code": "FR-69" },
+      "osm:relation:7425": { "code": "FR-73" }
     }
   },
   "osm:relation:3792878": {
-    "code": "27",
-    "identifier": "BFC",
+    "code": "FR-BFC",
     "children": {
-      "osm:relation:7424": { "code": "21" },
-      "osm:relation:7462": { "code": "25" },
-      "osm:relation:7460": { "code": "39" },
-      "osm:relation:7448": { "code": "58" },
-      "osm:relation:7423": { "code": "70" },
-      "osm:relation:7397": { "code": "71" },
-      "osm:relation:7392": { "code": "89" },
-      "osm:relation:7410": { "code": "90" }
+      "osm:relation:7424": { "code": "FR-21" },
+      "osm:relation:7462": { "code": "FR-25" },
+      "osm:relation:7460": { "code": "FR-39" },
+      "osm:relation:7448": { "code": "FR-58" },
+      "osm:relation:7423": { "code": "FR-70" },
+      "osm:relation:7397": { "code": "FR-71" },
+      "osm:relation:7392": { "code": "FR-89" },
+      "osm:relation:7410": { "code": "FR-90" }
     }
   },
   "osm:relation:102740": {
-    "code": "53",
-    "identifier": "BRE",
+    "code": "FR-BRE",
     "children": {
-      "osm:relation:7398": { "code": "22" },
-      "osm:relation:102430": { "code": "29" },
-      "osm:relation:7465": { "code": "35" },
-      "osm:relation:7447": { "code": "56" }
+      "osm:relation:7398": { "code": "FR-22" },
+      "osm:relation:102430": { "code": "FR-29" },
+      "osm:relation:7465": { "code": "FR-35" },
+      "osm:relation:7447": { "code": "FR-56" }
     }
   },
   "osm:relation:8640": {
-    "code": "24",
-    "identifier": "CVL",
+    "code": "FR-CVL",
     "children": {
-      "osm:relation:7456": { "code": "18" },
-      "osm:relation:7374": { "code": "28" },
-      "osm:relation:7417": { "code": "36" },
-      "osm:relation:7408": { "code": "37" },
-      "osm:relation:7399": { "code": "41" },
-      "osm:relation:7440": { "code": "45" }
+      "osm:relation:7456": { "code": "FR-18" },
+      "osm:relation:7374": { "code": "FR-28" },
+      "osm:relation:7417": { "code": "FR-36" },
+      "osm:relation:7408": { "code": "FR-37" },
+      "osm:relation:7399": { "code": "FR-41" },
+      "osm:relation:7440": { "code": "FR-45" }
     }
   },
   "osm:relation:76910": {
-    "code": "94",
-    "identifier": "COR",
+    "code": "FR-COR",
     "children": {
-      "osm:relation:76932": { "code": "2A" },
-      "osm:relation:76931": { "code": "2B" }
+      "osm:relation:76932": { "code": "FR-2A" },
+      "osm:relation:76931": { "code": "FR-2B" }
     }
   },
   "osm:relation:3792876": {
-    "code": "44",
-    "identifier": "GES",
+    "code": "FR-GES",
     "children": {
-      "osm:relation:7395": { "code": "08" },
-      "osm:relation:7441": { "code": "10" },
-      "osm:relation:7379": { "code": "51" },
-      "osm:relation:7396": { "code": "52" },
-      "osm:relation:51856": { "code": "54" },
-      "osm:relation:7382": { "code": "55" },
-      "osm:relation:51854": { "code": "57" },
-      "osm:relation:7415": { "code": "67" },
-      "osm:relation:7403": { "code": "68" },
-      "osm:relation:7384": { "code": "88" }
+      "osm:relation:7395": { "code": "FR-08" },
+      "osm:relation:7441": { "code": "FR-10" },
+      "osm:relation:7379": { "code": "FR-51" },
+      "osm:relation:7396": { "code": "FR-52" },
+      "osm:relation:51856": { "code": "FR-54" },
+      "osm:relation:7382": { "code": "FR-55" },
+      "osm:relation:51854": { "code": "FR-57" },
+      "osm:relation:7415": { "code": "FR-67" },
+      "osm:relation:7403": { "code": "FR-68" },
+      "osm:relation:7384": { "code": "FR-88" }
     }
   },
   "osm:relation:4217435": {
-    "code": "32",
-    "identifier": "HDF",
+    "code": "FR-HDF",
     "children": {
-      "osm:relation:7411": { "code": "02" },
-      "osm:relation:7400": { "code": "59" },
-      "osm:relation:7427": { "code": "60" },
-      "osm:relation:7394": { "code": "62" },
-      "osm:relation:7463": { "code": "80" }
+      "osm:relation:7411": { "code": "FR-02" },
+      "osm:relation:7400": { "code": "FR-59" },
+      "osm:relation:7427": { "code": "FR-60" },
+      "osm:relation:7394": { "code": "FR-62" },
+      "osm:relation:7463": { "code": "FR-80" }
     }
   },
   "osm:relation:8649": {
-    "code": "11",
-    "identifier": "IDF",
+    "code": "FR-IDF",
     "children": {
-      "osm:relation:71525": { "code": "75" },
-      "osm:relation:7383": { "code": "77" },
-      "osm:relation:7457": { "code": "78" },
-      "osm:relation:7401": { "code": "91" },
-      "osm:relation:7449": { "code": "92" },
-      "osm:relation:7389": { "code": "93" },
-      "osm:relation:7458": { "code": "94" },
-      "osm:relation:7433": { "code": "95" }
+      "osm:relation:71525": { "code": "FR-75" },
+      "osm:relation:7383": { "code": "FR-77" },
+      "osm:relation:7457": { "code": "FR-78" },
+      "osm:relation:7401": { "code": "FR-91" },
+      "osm:relation:7449": { "code": "FR-92" },
+      "osm:relation:7389": { "code": "FR-93" },
+      "osm:relation:7458": { "code": "FR-94" },
+      "osm:relation:7433": { "code": "FR-95" }
     }
   },
   "osm:relation:3793170": {
-    "code": "28",
-    "identifier": "NOR",
+    "code": "FR-NOR",
     "children": {
-      "osm:relation:7453": { "code": "14" },
-      "osm:relation:7435": { "code": "27" },
-      "osm:relation:7404": { "code": "50" },
-      "osm:relation:7419": { "code": "61" },
-      "osm:relation:7426": { "code": "76" }
+      "osm:relation:7453": { "code": "FR-14" },
+      "osm:relation:7435": { "code": "FR-27" },
+      "osm:relation:7404": { "code": "FR-50" },
+      "osm:relation:7419": { "code": "FR-61" },
+      "osm:relation:7426": { "code": "FR-76" }
     }
   },
   "osm:relation:3792880": {
-    "code": "75",
-    "identifier": "NAQ",
+    "code": "FR-NAQ",
     "children": {
-      "osm:relation:7428": { "code": "16" },
-      "osm:relation:7431": { "code": "17" },
-      "osm:relation:7464": { "code": "19" },
-      "osm:relation:7459": { "code": "23" },
-      "osm:relation:7375": { "code": "24" },
-      "osm:relation:7405": { "code": "33" },
-      "osm:relation:7376": { "code": "40" },
-      "osm:relation:1284995": { "code": "47" },
-      "osm:relation:7450": { "code": "64" },
-      "osm:relation:7455": { "code": "79" },
-      "osm:relation:7377": { "code": "86" },
-      "osm:relation:7418": { "code": "87" }
+      "osm:relation:7428": { "code": "FR-16" },
+      "osm:relation:7431": { "code": "FR-17" },
+      "osm:relation:7464": { "code": "FR-19" },
+      "osm:relation:7459": { "code": "FR-23" },
+      "osm:relation:7375": { "code": "FR-24" },
+      "osm:relation:7405": { "code": "FR-33" },
+      "osm:relation:7376": { "code": "FR-40" },
+      "osm:relation:1284995": { "code": "FR-47" },
+      "osm:relation:7450": { "code": "FR-64" },
+      "osm:relation:7455": { "code": "FR-79" },
+      "osm:relation:7377": { "code": "FR-86" },
+      "osm:relation:7418": { "code": "FR-87" }
     }
   },
   "osm:relation:3792883": {
-    "code": "76",
-    "identifier": "OCC",
+    "code": "FR-OCC",
     "children": {
-      "osm:relation:7439": { "code": "09" },
-      "osm:relation:7446": { "code": "11" },
-      "osm:relation:7451": { "code": "12" },
-      "osm:relation:7461": { "code": "30" },
-      "osm:relation:7413": { "code": "31" },
-      "osm:relation:7422": { "code": "32" },
-      "osm:relation:7429": { "code": "34" },
-      "osm:relation:7454": { "code": "46" },
-      "osm:relation:7421": { "code": "48" },
-      "osm:relation:7467": { "code": "65" },
-      "osm:relation:7466": { "code": "66" },
-      "osm:relation:7442": { "code": "81" },
-      "osm:relation:7388": { "code": "82" }
+      "osm:relation:7439": { "code": "FR-09" },
+      "osm:relation:7446": { "code": "FR-11" },
+      "osm:relation:7451": { "code": "FR-12" },
+      "osm:relation:7461": { "code": "FR-30" },
+      "osm:relation:7413": { "code": "FR-31" },
+      "osm:relation:7422": { "code": "FR-32" },
+      "osm:relation:7429": { "code": "FR-34" },
+      "osm:relation:7454": { "code": "FR-46" },
+      "osm:relation:7421": { "code": "FR-48" },
+      "osm:relation:7467": { "code": "FR-65" },
+      "osm:relation:7466": { "code": "FR-66" },
+      "osm:relation:7442": { "code": "FR-81" },
+      "osm:relation:7388": { "code": "FR-82" }
     }
   },
   "osm:relation:8650": {
-    "code": "52",
-    "identifier": "PDL",
+    "code": "FR-PDL",
     "children": {
-      "osm:relation:7432": { "code": "44" },
-      "osm:relation:7409": { "code": "49" },
-      "osm:relation:7438": { "code": "53" },
-      "osm:relation:7443": { "code": "72" },
-      "osm:relation:7402": { "code": "85" }
+      "osm:relation:7432": { "code": "FR-44" },
+      "osm:relation:7409": { "code": "FR-49" },
+      "osm:relation:7438": { "code": "FR-53" },
+      "osm:relation:7443": { "code": "FR-72" },
+      "osm:relation:7402": { "code": "FR-85" }
     }
   },
   "osm:relation:8654": {
-    "code": "93",
-    "identifier": "PAC",
+    "code": "FR-PAC",
     "children": {
-      "osm:relation:7380": { "code": "04" },
-      "osm:relation:7436": { "code": "05" },
-      "osm:relation:7385": { "code": "06" },
-      "osm:relation:7393": { "code": "13" },
-      "osm:relation:7390": { "code": "83" },
-      "osm:relation:7445": { "code": "84" }
+      "osm:relation:7380": { "code": "FR-04" },
+      "osm:relation:7436": { "code": "FR-05" },
+      "osm:relation:7385": { "code": "FR-06" },
+      "osm:relation:7393": { "code": "FR-13" },
+      "osm:relation:7390": { "code": "FR-83" },
+      "osm:relation:7445": { "code": "FR-84" }
     }
   }
 }

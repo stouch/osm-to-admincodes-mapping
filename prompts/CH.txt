@@ -4,8 +4,7 @@ Peux-tu les donner dans un tableau JSON au format suivant :
 [
     {
         "name": "Genève",
-        "identifier": "GE",
-        "code": "25"
+        "code": "CH-GE"
     },
     ...
 ]

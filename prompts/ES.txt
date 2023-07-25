@@ -5,11 +5,11 @@ Peux-tu les donner dans un tableau JSON au format suivant :
 [
     {
         "intl_name": "Andalucía",
-        "identifier": "AN",
+        "code": "ES-AN",
         "children": [
             {
                 "name": "Almería",
-                "code": "AL"
+                "code": "ES-AL"
             },
             ...
         ] 

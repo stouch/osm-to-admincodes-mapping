@@ -4,12 +4,11 @@ For each `<country>.txt`, we need ChatGPT to generate admin areas (`./admin-area
 [
     {
         "name": "Bourgogne-Franche-Comté",
-        "identifier": "BFG",
-        "code": "27",
+        "code": "FR-BFC",
         "children": [
             {
                 "name": "Saône-et-loire",
-                "code": "71"
+                "code": "FR-71"
             },
             ...
         ]

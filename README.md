@@ -7,6 +7,8 @@ We often need to get quickly the _AdminCode_ of an admin area, but we only got i
 
 This project goals to map, in JSON files, the worldwide administrative areas, from different taxonomies (WOF, OSM, GN), with their common _AdminCode_.
 
+To be compliant with ISO codes (ISO-3166-1 / ISO-3166-2), we prefix all admin codes with the country code. For example : _FR-71_.
+
 Available countries:
 
 - France
@@ -31,28 +33,27 @@ Then, these data are enriched with APIs, using their names, so we can collect th
 `./data/enriched-admin-areas`
 
 ```json
-  {
-    "name": "Auvergne-Rhône-Alpes",
-    "code": "84",
-    "identifier": "ARA",
-    "osm_id": "osm:relation:3792877",
-    "gn_id": "geonames:macroregion:11071625",
-    "wof_id": "whosonfirst:macroregion:1108826389",
-    "children": [
-      {
-        "name": "Ain",
-        "code": "01",
-        "osm_id": "osm:relation:7387",
-        "wof_id": "whosonfirst:region:85683153",
-        "gn_id": "geonames:region:3038422"
-      },
-      {
-        "name": "Allier",
-        "code": "03",
-        "osm_id": "osm:relation:1450201",
-        "wof_id": "whosonfirst:region:85683293",
-        "gn_id": "geonames:region:3038111"
-      },
+{
+  "name": "Auvergne-Rhône-Alpes",
+  "code": "FR-ARA",
+  "osm_id": "osm:relation:3792877",
+  "gn_id": "geonames:macroregion:11071625",
+  "wof_id": "whosonfirst:macroregion:1108826389",
+  "children": [
+    {
+      "name": "Ain",
+      "code": "FR-01",
+      "osm_id": "osm:relation:7387",
+      "wof_id": "whosonfirst:region:85683153",
+      "gn_id": "geonames:region:3038422"
+    },
+    {
+      "name": "Allier",
+      "code": "FR-03",
+      "osm_id": "osm:relation:1450201",
+      "wof_id": "whosonfirst:region:85683293",
+      "gn_id": "geonames:region:3038111"
+    },
 ```
 
 ### JSON mappings
@@ -64,28 +65,26 @@ Finally, we got outputs :
 ```json
 {
   "osm:relation:3792877": {
-    "code": "84",
-    "identifier": "ARA",
-    "children": {
-      "osm:relation:7411": { "code": "01" },
-      "osm:relation:1450201": { "code": "03" },
-      "osm:relation:7430": { "code": "07" },
-      "osm:relation:7381": { "code": "15" },
-      "osm:relation:7434": { "code": "26" },
-      "osm:relation:7452": { "code": "43" },
-      "osm:relation:7407": { "code": "74" },
-      "osm:relation:7437": { "code": "38" },
-      "osm:relation:7420": { "code": "42" },
-      "osm:relation:7406": { "code": "63" },
-      "osm:relation:4850451": { "code": "69" },
-      "osm:relation:7425": { "code": "73" }
-    }
-  },
-  "osm:relation:3792878": {
-    "code": "27",
-    "identifier": "BFC",
-    "children": {
-      "osm:relation:7424": { "code": "21" },
+  "code": "FR-ARA",
+  "children": {
+    "osm:relation:7387": { "code": "FR-01" },
+    "osm:relation:1450201": { "code": "FR-03" },
+    "osm:relation:7430": { "code": "FR-07" },
+    "osm:relation:7381": { "code": "FR-15" },
+    "osm:relation:7434": { "code": "FR-26" },
+    "osm:relation:7452": { "code": "FR-43" },
+    "osm:relation:7407": { "code": "FR-74" },
+    "osm:relation:7437": { "code": "FR-38" },
+    "osm:relation:7420": { "code": "FR-42" },
+    "osm:relation:7406": { "code": "FR-63" },
+    "osm:relation:7378": { "code": "FR-69" },
+    "osm:relation:7425": { "code": "FR-73" }
+  }
+},
+"osm:relation:3792878": {
+  "code": "FR-BFC",
+  "children": {
+    "osm:relation:7424": { "code": "FR-21" },
 ```
 
 ## Prerequisites

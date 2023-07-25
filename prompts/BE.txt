@@ -4,13 +4,11 @@ Peux-tu les donner dans un tableau JSON au format suivant :
 [
     {
         "name": "Wallonie",
-        "identifier": "WAL",
-        "code": "03000",
+        "code": "BE-WAL",
         "children": [
             {
                 "name": "Hainaut",
-                "identifier": "WHT",
-                "code": "50000"
+                "code": "BE-WHT"
             },
             ...
         ] 

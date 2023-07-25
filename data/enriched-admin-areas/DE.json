@@ -1,7 +1,7 @@
 [
   {
     "name": "Baden-Württemberg",
-    "identifier": "BW",
+    "code": "DE-BW",
     "osm_id": "osm:relation:62611",
     "gn_id": "geonames:region:2953481",
     "wof_id": "whosonfirst:region:85682567",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Bavière",
-    "identifier": "BY",
+    "code": "DE-BY",
     "osm_id": "osm:relation:2145268",
     "gn_id": "geonames:region:2951839",
     "wof_id": "whosonfirst:region:85682571",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Berlin",
-    "identifier": "BE",
+    "code": "DE-BE",
     "osm_id": "osm:relation:62422",
     "gn_id": "geonames:region:2950157",
     "wof_id": "whosonfirst:region:85682499",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Brandenburg",
-    "identifier": "BB",
+    "code": "DE-BB",
     "osm_id": "osm:relation:62504",
     "gn_id": "geonames:region:2945356",
     "wof_id": "whosonfirst:region:85682553",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Brême",
-    "identifier": "HB",
+    "code": "DE-HB",
     "osm_id": "osm:relation:62718",
     "gn_id": "geonames:region:2944387",
     "wof_id": "whosonfirst:region:85682561",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Hamburg",
-    "identifier": "HH",
+    "code": "DE-HH",
     "osm_id": "osm:relation:62782",
     "gn_id": "geonames:region:2911297",
     "wof_id": "whosonfirst:region:85682505",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Hesse",
-    "identifier": "HE",
+    "code": "DE-HE",
     "osm_id": "osm:relation:62650",
     "gn_id": "geonames:region:2905330",
     "wof_id": "whosonfirst:region:85682531",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Mecklenburg-Vorpommern",
-    "identifier": "MV",
+    "code": "DE-MV",
     "osm_id": "osm:relation:28322",
     "gn_id": "geonames:region:2872567",
     "wof_id": "whosonfirst:region:85682487",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Niedersachsen",
-    "identifier": "NI",
+    "code": "DE-NI",
     "osm_id": "osm:relation:62771",
     "gn_id": "geonames:region:2862926",
     "wof_id": "whosonfirst:region:85682555",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Nordrhein-Westfalen",
-    "identifier": "NW",
+    "code": "DE-NW",
     "osm_id": "osm:relation:62761",
     "gn_id": "geonames:region:2861876",
     "wof_id": "whosonfirst:region:85682513",
@@ -81,7 +81,7 @@
   },
   {
     "name": "Rheinland-Pfalz",
-    "identifier": "RP",
+    "code": "DE-RP",
     "osm_id": "osm:relation:62341",
     "gn_id": "geonames:region:2847618",
     "wof_id": "whosonfirst:region:85682491",
@@ -89,7 +89,7 @@
   },
   {
     "name": "Saarland",
-    "identifier": "SL",
+    "code": "DE-SL",
     "osm_id": "osm:relation:62372",
     "gn_id": "geonames:region:2842635",
     "wof_id": "whosonfirst:region:85682479",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Sachsen",
-    "identifier": "SN",
+    "code": "DE-SN",
     "osm_id": "osm:relation:62467",
     "gn_id": "geonames:region:2842566",
     "wof_id": "whosonfirst:region:85682523",
@@ -105,7 +105,7 @@
   },
   {
     "name": "Sachsen-Anhalt",
-    "identifier": "ST",
+    "code": "DE-ST",
     "osm_id": "osm:relation:62607",
     "gn_id": "geonames:region:2842565",
     "wof_id": "whosonfirst:region:85682519",
@@ -113,7 +113,7 @@
   },
   {
     "name": "Schleswig-Holstein",
-    "identifier": "SH",
+    "code": "DE-SH",
     "osm_id": "osm:relation:51529",
     "gn_id": "geonames:region:2838632",
     "wof_id": "whosonfirst:region:85682517",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Freistaat Thüringen",
-    "identifier": "TH",
+    "code": "DE-TH",
     "osm_id": "osm:relation:62366",
     "gn_id": "geonames:region:2822542",
     "wof_id": "whosonfirst:region:85682541",

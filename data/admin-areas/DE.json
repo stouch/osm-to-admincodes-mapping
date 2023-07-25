@@ -1,79 +1,79 @@
 [
-  { "name": "Baden-Württemberg", "identifier": "BW", "children": [] },
+  { "name": "Baden-Württemberg", "code": "DE-BW", "children": [] },
   {
     "gn_name": "Bavaria",
     "wof_name": "Bavaria",
     "name": "Bavière",
-    "identifier": "BY",
+    "code": "DE-BY",
     "children": []
   },
-  { "name": "Berlin", "identifier": "BE", "children": [] },
+  { "name": "Berlin", "code": "DE-BE", "children": [] },
   {
     "intl_name": "Brandenburg",
     "name": "Brandebourg",
-    "identifier": "BB",
+    "code": "DE-BB",
     "children": []
   },
-  { "name": "Brême", "identifier": "HB", "children": [] },
+  { "name": "Brême", "code": "DE-HB", "children": [] },
   {
     "intl_name": "Hamburg",
     "name": "Hambourg",
-    "identifier": "HH",
+    "code": "DE-HH",
     "children": []
   },
-  { "name": "Hesse", "identifier": "HE", "children": [] },
+  { "name": "Hesse", "code": "DE-HE", "children": [] },
   {
     "gn_name": "Mecklenburg-Western Pomerania",
     "intl_name": "Mecklenburg-Vorpommern",
     "name": "Mecklembourg-Poméranie-Occidentale",
-    "identifier": "MV",
+    "code": "DE-MV",
     "children": []
   },
   {
     "gn_name": "Lower Saxony",
     "intl_name": "Niedersachsen",
     "name": "Basse-Saxe",
-    "identifier": "NI",
+    "code": "DE-NI",
     "children": []
   },
   {
     "intl_name": "Nordrhein-Westfalen",
     "name": "Rhénanie-du-Nord-Westphalie",
-    "identifier": "NW",
+    "code": "DE-NW",
     "children": []
   },
   {
     "intl_name": "Rheinland-Pfalz",
     "name": "Rhénanie-Palatinat",
-    "identifier": "RP",
+    "code": "DE-RP",
     "children": []
   },
   {
     "intl_name": "Saarland",
     "name": "Sarre",
-    "identifier": "SL",
+    "code": "DE-SL",
     "children": []
   },
   {
     "gn_name": "Saxony, Germany",
     "intl_name": "Sachsen",
     "name": "Saxe",
-    "identifier": "SN",
+    "code": "DE-SN",
     "children": []
   },
   {
     "gn_name": "Saxony-Anhalt",
     "intl_name": "Sachsen-Anhalt",
     "name": "Saxe-Anhalt",
-    "identifier": "ST",
+    "code": "DE-ST",
     "children": []
   },
-  { "name": "Schleswig-Holstein", "identifier": "SH", "children": [] },
+  { "name": "Schleswig-Holstein", "code": "DE-SH", "children": [] },
   {
     "gn_name": "Thuringia",
     "intl_name": "Freistaat Thüringen",
     "name": "Thuringe",
-    "identifier": "TH",
+    "code": "DE-TH",
     "children": []
   }
 ]

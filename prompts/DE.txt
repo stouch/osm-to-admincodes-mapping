@@ -5,7 +5,7 @@ Peux-tu les donner dans un tableau JSON au format suivant :
 [
     {
         "intl_name": "Bayern",
-        "identifier": "BY",
+        "code": "DE-BY",
         "children": [] 
     },
     ...

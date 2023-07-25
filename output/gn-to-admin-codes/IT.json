@@ -1,228 +1,206 @@
 {
   "geonames:macroregion:3183560": {
-    "code": "13",
-    "identifier": "ITF",
+    "code": "IT-65",
     "children": {
-      "geonames:county:3178795": { "code": "069", "identifier": "CH" },
-      "geonames:county:3175120": { "code": "066", "identifier": "AQ" },
-      "geonames:county:3171163": { "code": "068", "identifier": "PE" },
-      "geonames:county:3165802": { "code": "067", "identifier": "TE" }
+      "geonames:county:3175120": { "code": "IT-AQ" },
+      "geonames:county:3178795": { "code": "IT-CH" },
+      "geonames:county:3171163": { "code": "IT-PE" },
+      "geonames:county:3165802": { "code": "IT-TE" }
     }
   },
   "geonames:macroregion:3182306": {
-    "code": "17",
-    "identifier": "ITH",
+    "code": "IT-77",
     "children": {
-      "geonames:county:3173718": { "code": "077", "identifier": "MT" },
-      "geonames:county:3170025": { "code": "076", "identifier": "PZ" }
+      "geonames:county:3173718": { "code": "IT-MT" },
+      "geonames:county:3170025": { "code": "IT-PZ" }
     }
   },
   "geonames:macroregion:2525468": {
-    "code": "18",
-    "identifier": "ITC",
+    "code": "IT-78",
     "children": {
-      "geonames:county:2525058": { "code": "079", "identifier": "CZ" },
-      "geonames:county:2524906": { "code": "078", "identifier": "CS" },
-      "geonames:county:6458615": { "code": "101", "identifier": "KR" },
-      "geonames:county:2523629": { "code": "080", "identifier": "RC" },
-      "geonames:county:6457405": { "code": "082", "identifier": "VV" }
+      "geonames:county:2525058": { "code": "IT-CZ" },
+      "geonames:county:2524906": { "code": "IT-CS" },
+      "geonames:county:6458615": { "code": "IT-KR" },
+      "geonames:county:2523629": { "code": "IT-RC" },
+      "geonames:county:6457405": { "code": "IT-VV" }
     }
   },
   "geonames:macroregion:3181042": {
-    "code": "15",
-    "identifier": "ITF",
+    "code": "IT-72",
     "children": {
-      "geonames:county:3182649": { "code": "064", "identifier": "AV" },
-      "geonames:county:3182178": { "code": "062", "identifier": "BN" },
-      "geonames:county:3179865": { "code": "061", "identifier": "CE" },
-      "geonames:county:3172391": { "code": "063", "identifier": "NA" },
-      "geonames:county:3168670": { "code": "065", "identifier": "SA" }
+      "geonames:county:3182178": { "code": "IT-BN" },
+      "geonames:county:3179865": { "code": "IT-CE" },
+      "geonames:county:3172391": { "code": "IT-NA" },
+      "geonames:county:3168670": { "code": "IT-SA" },
+      "geonames:county:3182649": { "code": "IT-AV" }
     }
   },
   "geonames:macroregion:3177401": {
-    "code": "05",
-    "identifier": "ITD",
+    "code": "IT-45",
     "children": {
-      "geonames:county:3181927": { "code": "037", "identifier": "BO" },
-      "geonames:county:3177088": { "code": "038", "identifier": "FE" },
-      "geonames:county:3176745": { "code": "040", "identifier": "FC" },
-      "geonames:county:3173330": { "code": "036", "identifier": "MO" },
-      "geonames:county:3171456": { "code": "034", "identifier": "PR" },
-      "geonames:county:3171057": { "code": "033", "identifier": "PC" },
-      "geonames:county:3169560": { "code": "039", "identifier": "RA" },
-      "geonames:county:3169524": { "code": "035", "identifier": "RE" },
-      "geonames:county:6457404": { "code": "099", "identifier": "RN" }
+      "geonames:county:3181927": { "code": "IT-BO" },
+      "geonames:county:3177088": { "code": "IT-FE" },
+      "geonames:county:3176745": { "code": "IT-FC" },
+      "geonames:county:3173330": { "code": "IT-MO" },
+      "geonames:county:3171456": { "code": "IT-PR" },
+      "geonames:county:3171057": { "code": "IT-PC" },
+      "geonames:county:3169560": { "code": "IT-RA" },
+      "geonames:county:3169524": { "code": "IT-RE" },
+      "geonames:county:6457404": { "code": "IT-RN" }
     }
   },
   "geonames:macroregion:3176525": {
-    "code": "06",
-    "identifier": "ITH",
+    "code": "IT-36",
     "children": {
-      "geonames:county:3175985": { "code": "031", "identifier": "GO" },
-      "geonames:county:3170146": { "code": "028", "identifier": "PN" },
-      "geonames:county:3165184": { "code": "032", "identifier": "TS" },
-      "geonames:county:3165071": { "code": "029", "identifier": "UD" }
+      "geonames:county:3175985": { "code": "IT-GO" },
+      "geonames:county:3170146": { "code": "IT-PN" },
+      "geonames:county:3165184": { "code": "IT-TS" },
+      "geonames:county:3165071": { "code": "IT-UD" }
     }
   },
   "geonames:macroregion:3174976": {
-    "code": "07",
-    "identifier": "ITI",
+    "code": "IT-62",
     "children": {
-      "geonames:county:3176513": { "code": "060", "identifier": "FR" },
-      "geonames:county:3175057": { "code": "059", "identifier": "LT" },
-      "geonames:county:3169411": { "code": "057", "identifier": "RI" },
-      "geonames:county:3169069": { "code": "058", "identifier": "RM" },
-      "geonames:county:3164038": { "code": "056", "identifier": "VT" }
+      "geonames:county:3176513": { "code": "IT-FR" },
+      "geonames:county:3175057": { "code": "IT-LT" },
+      "geonames:county:3169411": { "code": "IT-RI" },
+      "geonames:county:3169069": { "code": "IT-RM" },
+      "geonames:county:3164038": { "code": "IT-VT" }
     }
   },
   "geonames:macroregion:3174725": {
-    "code": "08",
-    "identifier": "ITC",
+    "code": "IT-42",
     "children": {
-      "geonames:county:3176217": { "code": "010", "identifier": "GE" },
-      "geonames:county:3175531": { "code": "008", "identifier": "IM" },
-      "geonames:county:3175080": { "code": "011", "identifier": "SP" },
-      "geonames:county:3167021": { "code": "009", "identifier": "SV" }
+      "geonames:county:3176217": { "code": "IT-GE" },
+      "geonames:county:3175531": { "code": "IT-IM" },
+      "geonames:county:3175080": { "code": "IT-SP" },
+      "geonames:county:3167021": { "code": "IT-SV" }
     }
   },
   "geonames:macroregion:3174618": {
-    "code": "03",
-    "identifier": "ITC",
+    "code": "IT-25",
     "children": {
-      "geonames:county:3182163": { "code": "016", "identifier": "BG" },
-      "geonames:county:3181553": { "code": "017", "identifier": "BS" },
-      "geonames:county:3178227": { "code": "013", "identifier": "CO" },
-      "geonames:county:3177837": { "code": "019", "identifier": "CR" },
-      "geonames:county:6458616": { "code": "097", "identifier": "LC" },
-      "geonames:county:6458617": { "code": "098", "identifier": "LO" },
-      "geonames:county:3174050": { "code": "020", "identifier": "MN" },
-      "geonames:county:3173434": { "code": "015", "identifier": "MI" },
-      "geonames:county:6955700": { "code": "108", "identifier": "MB" },
-      "geonames:county:3171364": { "code": "018", "identifier": "PV" },
-      "geonames:county:3166396": { "code": "014", "identifier": "SO" },
-      "geonames:county:3164697": { "code": "012", "identifier": "VA" }
+      "geonames:county:3182163": { "code": "IT-BG" },
+      "geonames:county:3181553": { "code": "IT-BS" },
+      "geonames:county:3178227": { "code": "IT-CO" },
+      "geonames:county:3177837": { "code": "IT-CR" },
+      "geonames:county:6458616": { "code": "IT-LC" },
+      "geonames:county:6458617": { "code": "IT-LO" },
+      "geonames:county:3174050": { "code": "IT-MN" },
+      "geonames:county:3173434": { "code": "IT-MI" },
+      "geonames:county:6955700": { "code": "IT-MB" },
+      "geonames:county:3171364": { "code": "IT-PV" },
+      "geonames:county:3166396": { "code": "IT-SO" },
+      "geonames:county:3164697": { "code": "IT-VA" }
     }
   },
   "geonames:macroregion:3174004": {
-    "code": "11",
-    "identifier": "ITI",
+    "code": "IT-57",
     "children": {
-      "geonames:county:3183087": { "code": "042", "identifier": "AN" },
-      "geonames:county:3182748": { "code": "044", "identifier": "AP" },
-      "geonames:county:6955471": { "code": "109", "identifier": "FM" },
-      "geonames:county:3174379": { "code": "043", "identifier": "MC" },
-      "geonames:county:3171172": { "code": "041", "identifier": "PU" }
+      "geonames:county:3183087": { "code": "IT-AN" },
+      "geonames:county:3182748": { "code": "IT-AP" },
+      "geonames:county:6955471": { "code": "IT-FM" },
+      "geonames:county:3174379": { "code": "IT-MC" },
+      "geonames:county:3171172": { "code": "IT-PU" }
     }
   },
   "geonames:macroregion:3173222": {
-    "code": "14",
-    "identifier": "ITF",
+    "code": "IT-67",
     "children": {
-      "geonames:county:3180990": { "code": "070", "identifier": "CB" },
-      "geonames:county:3175444": { "code": "094", "identifier": "IS" }
+      "geonames:county:3180990": { "code": "IT-CB" },
+      "geonames:county:3175444": { "code": "IT-IS" }
     }
   },
   "geonames:macroregion:3170831": {
-    "code": "01",
-    "identifier": "ITC",
+    "code": "IT-21",
     "children": {
-      "geonames:county:3183298": { "code": "006", "identifier": "AL" },
-      "geonames:county:3182712": { "code": "005", "identifier": "AT" },
-      "geonames:county:6457397": { "code": "096", "identifier": "BI" },
-      "geonames:county:3177699": { "code": "004", "identifier": "CN" },
-      "geonames:county:3172188": { "code": "003", "identifier": "NO" },
-      "geonames:county:3165523": { "code": "001", "identifier": "TO" },
-      "geonames:county:3164567": { "code": "103", "identifier": "VB" },
-      "geonames:county:3164564": { "code": "002", "identifier": "VC" }
+      "geonames:county:3183298": { "code": "IT-AL" },
+      "geonames:county:3182712": { "code": "IT-AT" },
+      "geonames:county:6457397": { "code": "IT-BI" },
+      "geonames:county:3177699": { "code": "IT-CN" },
+      "geonames:county:3172188": { "code": "IT-NO" },
+      "geonames:county:3165523": { "code": "IT-TO" },
+      "geonames:county:3164567": { "code": "IT-VCO" },
+      "geonames:county:3164564": { "code": "IT-VC" }
     }
   },
   "geonames:macroregion:3169778": {
-    "code": "16",
-    "identifier": "ITF",
+    "code": "IT-75",
     "children": {
-      "geonames:county:3182350": { "code": "072", "identifier": "BA" },
-      "geonames:county:6955699": { "code": "110", "identifier": "BT" },
-      "geonames:county:3181526": { "code": "073", "identifier": "BR" },
-      "geonames:county:3176884": { "code": "071", "identifier": "FG" },
-      "geonames:county:3174952": { "code": "075", "identifier": "LE" },
-      "geonames:county:3165924": { "code": "074", "identifier": "TA" }
+      "geonames:county:3182350": { "code": "IT-BA" },
+      "geonames:county:6955699": { "code": "IT-BT" },
+      "geonames:county:3181526": { "code": "IT-BR" },
+      "geonames:county:3176884": { "code": "IT-FG" },
+      "geonames:county:3174952": { "code": "IT-LE" },
+      "geonames:county:3165924": { "code": "IT-TA" }
     }
   },
   "geonames:macroregion:2523228": {
-    "code": "20",
-    "identifier": "ITH",
+    "code": "IT-88",
     "children": {
-      "geonames:county:2525471": { "code": "092", "identifier": "CA" },
-      "geonames:county:3172153": { "code": "091", "identifier": "NU" },
-      "geonames:county:2523962": { "code": "095", "identifier": "OR" },
-      "geonames:county:3167094": { "code": "090", "identifier": "SS" }
+      "geonames:county:2525471": { "code": "IT-CA" },
+      "geonames:county:3172153": { "code": "IT-NU" },
+      "geonames:county:2523962": { "code": "IT-OR" },
+      "geonames:county:3167094": { "code": "IT-SS" }
     }
   },
   "geonames:macroregion:2523119": {
-    "code": "19",
-    "identifier": "ITG",
+    "code": "IT-82",
     "children": {
-      "geonames:county:2525763": { "code": "084", "identifier": "AG" },
-      "geonames:county:2525447": { "code": "085", "identifier": "CL" },
-      "geonames:county:2525065": { "code": "087", "identifier": "CT" },
-      "geonames:county:2524818": { "code": "086", "identifier": "EN" },
-      "geonames:county:2524169": { "code": "083", "identifier": "ME" },
-      "geonames:county:2523918": { "code": "082", "identifier": "PA" },
-      "geonames:county:2523649": { "code": "088", "identifier": "RG" },
-      "geonames:county:2523082": { "code": "089", "identifier": "SR" },
-      "geonames:county:2522875": { "code": "081", "identifier": "TP" }
+      "geonames:county:2525763": { "code": "IT-AG" },
+      "geonames:county:2525447": { "code": "IT-CL" },
+      "geonames:county:2525065": { "code": "IT-CT" },
+      "geonames:county:2524818": { "code": "IT-EN" },
+      "geonames:county:2524169": { "code": "IT-ME" },
+      "geonames:county:2523918": { "code": "IT-PA" },
+      "geonames:county:2523649": { "code": "IT-RG" },
+      "geonames:county:2523082": { "code": "IT-SR" },
+      "geonames:county:2522875": { "code": "IT-TP" }
     }
   },
   "geonames:macroregion:3165361": {
-    "code": "09",
-    "identifier": "ITI",
+    "code": "IT-52",
     "children": {
-      "geonames:county:3182882": { "code": "051", "identifier": "AR" },
-      "geonames:county:3176958": { "code": "048", "identifier": "FI" },
-      "geonames:county:3175784": { "code": "053", "identifier": "GR" },
-      "geonames:county:3174658": { "code": "049", "identifier": "LI" },
-      "geonames:county:3174529": { "code": "046", "identifier": "LU" },
-      "geonames:county:3173767": { "code": "045", "identifier": "MS" },
-      "geonames:county:3170646": { "code": "050", "identifier": "PI" },
-      "geonames:county:3170620": { "code": "047", "identifier": "PT" },
-      "geonames:county:6458618": { "code": "100", "identifier": "PO" },
-      "geonames:county:3166546": { "code": "052", "identifier": "SI" }
+      "geonames:county:3182882": { "code": "IT-AR" },
+      "geonames:county:3176958": { "code": "IT-FI" },
+      "geonames:county:3175784": { "code": "IT-GR" },
+      "geonames:county:3174658": { "code": "IT-LI" },
+      "geonames:county:3174529": { "code": "IT-LU" },
+      "geonames:county:3173767": { "code": "IT-MS" },
+      "geonames:county:3170646": { "code": "IT-PI" },
+      "geonames:county:3170620": { "code": "IT-PT" },
+      "geonames:county:6458618": { "code": "IT-PO" },
+      "geonames:county:3166546": { "code": "IT-SI" }
     }
   },
   "geonames:macroregion:3165244": {
-    "code": "04",
-    "identifier": "ITE",
+    "code": "IT-32",
     "children": {
-      "geonames:county:3181912": { "code": "021", "identifier": "BZ" },
-      "geonames:county:3165241": { "code": "022", "identifier": "TN" }
+      "geonames:county:3181912": { "code": "IT-BZ" },
+      "geonames:county:3165241": { "code": "IT-TN" }
     }
   },
   "geonames:macroregion:3165048": {
-    "code": "10",
-    "identifier": "ITI",
+    "code": "IT-55",
     "children": {
-      "geonames:county:3171179": { "code": "054", "identifier": "PG" },
-      "geonames:county:3165770": { "code": "055", "identifier": "TR" }
+      "geonames:county:3171179": { "code": "IT-PG" },
+      "geonames:county:3165770": { "code": "IT-TR" }
     }
   },
   "geonames:macroregion:3164857": {
-    "code": "02",
-    "identifier": "ITC",
-    "children": {
-      "geonames:county:3182996": { "code": "007", "identifier": "AO" }
-    }
+    "code": "IT-23",
+    "children": { "geonames:county:3182996": { "code": "IT-AO" } }
   },
   "geonames:macroregion:3164604": {
-    "code": "05",
-    "identifier": "ITD",
+    "code": "IT-34",
     "children": {
-      "geonames:county:3182209": { "code": "025", "identifier": "BL" },
-      "geonames:county:3171727": { "code": "028", "identifier": "PD" },
-      "geonames:county:3168842": { "code": "029", "identifier": "RO" },
-      "geonames:county:3165200": { "code": "027", "identifier": "TV" },
-      "geonames:county:3164600": { "code": "026", "identifier": "VE" },
-      "geonames:county:3164526": { "code": "023", "identifier": "VR" },
-      "geonames:county:3164418": { "code": "024", "identifier": "VI" }
+      "geonames:county:3182209": { "code": "IT-BL" },
+      "geonames:county:3171727": { "code": "IT-PD" },
+      "geonames:county:3168842": { "code": "IT-RO" },
+      "geonames:county:3165200": { "code": "IT-TV" },
+      "geonames:county:3164600": { "code": "IT-VE" },
+      "geonames:county:3164526": { "code": "IT-VR" },
+      "geonames:county:3164418": { "code": "IT-VI" }
     }
   }
 }

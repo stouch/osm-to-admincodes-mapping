@@ -1,129 +1,131 @@
 {
   "whosonfirst:macroregion:404227361": {
-    "identifier": "AN",
+    "code": "ES-AN",
     "children": {
-      "whosonfirst:region:85682631": { "code": "AL" },
-      "whosonfirst:region:85682679": { "code": "CA" },
-      "whosonfirst:region:85682697": { "code": "CO" },
-      "whosonfirst:region:85682731": { "code": "GR" },
-      "whosonfirst:region:85682749": { "code": "H" },
-      "whosonfirst:region:85682757": { "code": "J" },
-      "whosonfirst:region:85682787": { "code": "MA" },
-      "whosonfirst:region:85682841": { "code": "SE" }
+      "whosonfirst:region:85682631": { "code": "ES-AL" },
+      "whosonfirst:region:85682679": { "code": "ES-CA" },
+      "whosonfirst:region:85682697": { "code": "ES-CO" },
+      "whosonfirst:region:85682731": { "code": "ES-GR" },
+      "whosonfirst:region:85682749": { "code": "ES-H" },
+      "whosonfirst:region:85682757": { "code": "ES-J" },
+      "whosonfirst:region:85682787": { "code": "ES-MA" },
+      "whosonfirst:region:85682841": { "code": "ES-SE" }
     }
   },
   "whosonfirst:macroregion:404227363": {
-    "identifier": "AR",
+    "code": "ES-AR",
     "children": {
-      "whosonfirst:region:85682753": { "code": "HU" },
-      "whosonfirst:region:85682857": { "code": "TE" },
-      "whosonfirst:region:85682891": { "code": "Z" }
+      "whosonfirst:region:85682753": { "code": "ES-HU" },
+      "whosonfirst:region:85682857": { "code": "ES-TE" },
+      "whosonfirst:region:85682891": { "code": "ES-Z" }
     }
   },
   "whosonfirst:macroregion:404227365": {
-    "identifier": "AS",
-    "children": { "whosonfirst:region:85682805": { "code": "O" } }
+    "code": "ES-AS",
+    "children": { "whosonfirst:region:85682805": { "code": "ES-O" } }
   },
   "whosonfirst:macroregion:404227367": {
-    "identifier": "IB",
-    "children": { "whosonfirst:region:85682647": { "code": "PM" } }
+    "code": "ES-IB",
+    "children": { "whosonfirst:region:85682647": { "code": "ES-PM" } }
   },
   "whosonfirst:macroregion:404227369": {
-    "identifier": "CN",
+    "code": "ES-CN",
     "children": {
-      "whosonfirst:region:85682831": { "code": "TF" },
-      "whosonfirst:region:85682821": { "code": "GC" }
+      "whosonfirst:region:85682831": { "code": "ES-TF" },
+      "whosonfirst:region:85682821": { "code": "ES-GC" }
     }
   },
   "whosonfirst:macroregion:404227371": {
-    "identifier": "CB",
-    "children": { "whosonfirst:region:85682833": { "code": "S" } }
+    "code": "ES-CB",
+    "children": { "whosonfirst:region:85682833": { "code": "ES-S" } }
   },
   "whosonfirst:macroregion:404227373": {
-    "identifier": "CL",
+    "code": "ES-CL",
     "children": {
-      "whosonfirst:region:85682639": { "code": "AV" },
-      "whosonfirst:region:85682667": { "code": "BU" },
-      "whosonfirst:region:85682765": { "code": "LE" },
-      "whosonfirst:region:85682815": { "code": "P" },
-      "whosonfirst:region:85682829": { "code": "SA" },
-      "whosonfirst:region:85682839": { "code": "SG" },
-      "whosonfirst:region:85682847": { "code": "SO" },
-      "whosonfirst:region:85682873": { "code": "VA" },
-      "whosonfirst:region:85682883": { "code": "ZA" }
+      "whosonfirst:region:85682639": { "code": "ES-AV" },
+      "whosonfirst:region:85682667": { "code": "ES-BU" },
+      "whosonfirst:region:85682765": { "code": "ES-LE" },
+      "whosonfirst:region:85682815": { "code": "ES-P" },
+      "whosonfirst:region:85682829": { "code": "ES-SA" },
+      "whosonfirst:region:85682839": { "code": "ES-SG" },
+      "whosonfirst:region:85682847": { "code": "ES-SO" },
+      "whosonfirst:region:85682873": { "code": "ES-VA" },
+      "whosonfirst:region:85682883": { "code": "ES-ZA" }
     }
   },
   "whosonfirst:macroregion:404227375": {
-    "identifier": "CM",
+    "code": "ES-CM",
     "children": {
-      "whosonfirst:region:85682621": { "code": "AB" },
-      "whosonfirst:region:85682689": { "code": "CR" },
-      "whosonfirst:region:85682715": { "code": "CU" },
-      "whosonfirst:region:85682737": { "code": "GU" },
-      "whosonfirst:region:85682863": { "code": "TO" }
+      "whosonfirst:region:85682621": { "code": "ES-AB" },
+      "whosonfirst:region:85682689": { "code": "ES-CR" },
+      "whosonfirst:region:85682715": { "code": "ES-CU" },
+      "whosonfirst:region:85682737": { "code": "ES-GU" },
+      "whosonfirst:region:85682863": { "code": "ES-TO" }
     }
   },
   "whosonfirst:macroregion:404227379": {
-    "identifier": "CT",
+    "code": "ES-CT",
     "children": {
-      "whosonfirst:region:85682663": { "code": "B" },
-      "whosonfirst:region:85682721": { "code": "GI" },
-      "whosonfirst:region:85682769": { "code": "L" },
-      "whosonfirst:region:85682851": { "code": "T" }
+      "whosonfirst:region:85682663": { "code": "ES-B" },
+      "whosonfirst:region:85682721": { "code": "ES-GI" },
+      "whosonfirst:region:85682769": { "code": "ES-L" },
+      "whosonfirst:region:85682851": { "code": "ES-T" }
     }
   },
   "whosonfirst:macroregion:404227381": {
-    "identifier": "VC",
+    "code": "ES-VC",
     "children": {
-      "whosonfirst:region:85682625": { "code": "A" },
-      "whosonfirst:region:85682685": { "code": "CS" },
-      "whosonfirst:region:85682867": { "code": "V" }
+      "whosonfirst:region:85682625": { "code": "ES-A" },
+      "whosonfirst:region:85682685": { "code": "ES-CS" },
+      "whosonfirst:region:85682867": { "code": "ES-V" }
     }
   },
   "whosonfirst:macroregion:404227383": {
-    "identifier": "EX",
+    "code": "ES-EX",
     "children": {
-      "whosonfirst:region:85682643": { "code": "BA" },
-      "whosonfirst:region:85682675": { "code": "CC" }
+      "whosonfirst:region:85682643": { "code": "ES-BA" },
+      "whosonfirst:region:85682675": { "code": "ES-CC" }
     }
   },
   "whosonfirst:macroregion:404227385": {
-    "identifier": "GA",
+    "code": "ES-GA",
     "children": {
-      "whosonfirst:region:85682775": { "code": "LU" },
-      "whosonfirst:region:85682801": { "code": "OR" },
-      "whosonfirst:region:85682825": { "code": "PO" }
+      "whosonfirst:region:85682701": { "code": "ES-C" },
+      "whosonfirst:region:85682775": { "code": "ES-LU" },
+      "whosonfirst:region:85682801": { "code": "ES-OR" },
+      "whosonfirst:region:85682825": { "code": "ES-PO" }
     }
   },
   "whosonfirst:macroregion:404227397": {
-    "identifier": "RI",
-    "children": { "whosonfirst:region:85682773": { "code": "LO" } }
+    "code": "ES-RI",
+    "children": { "whosonfirst:region:85682773": { "code": "ES-LO" } }
   },
   "whosonfirst:macroregion:404227387": {
-    "identifier": "MD",
-    "children": { "whosonfirst:region:85682783": { "code": "M" } }
+    "code": "ES-MD",
+    "children": { "whosonfirst:region:85682783": { "code": "ES-M" } }
   },
   "whosonfirst:macroregion:404227389": {
-    "identifier": "MC",
-    "children": { "whosonfirst:region:85682791": { "code": "MU" } }
+    "code": "ES-MC",
+    "children": { "whosonfirst:region:85682791": { "code": "ES-MU" } }
   },
   "whosonfirst:macroregion:404227391": {
-    "identifier": "NC",
-    "children": { "whosonfirst:region:85682795": { "code": "NA" } }
+    "code": "ES-NC",
+    "children": { "whosonfirst:region:85682795": { "code": "ES-NA" } }
   },
   "whosonfirst:macroregion:404227393": {
-    "identifier": "PV",
+    "code": "ES-PV",
     "children": {
-      "whosonfirst:region:85682615": { "code": "VI" },
-      "whosonfirst:region:85682741": { "code": "SS" }
+      "whosonfirst:region:85682615": { "code": "ES-VI" },
+      "whosonfirst:region:85682741": { "code": "ES-SS" },
+      "whosonfirst:region:85682879": { "code": "ES-BI" }
     }
   },
   "whosonfirst:macroregion:404227399": {
-    "identifier": "CE",
-    "children": { "whosonfirst:region:85682895": { "code": "CE" } }
+    "code": "ES-CE",
+    "children": { "whosonfirst:region:85682895": { "code": "ES-CE" } }
   },
   "whosonfirst:macroregion:404227401": {
-    "identifier": "ML",
-    "children": { "whosonfirst:region:85682899": { "code": "ML" } }
+    "code": "ES-ML",
+    "children": { "whosonfirst:region:85682899": { "code": "ES-ML" } }
   }
 }

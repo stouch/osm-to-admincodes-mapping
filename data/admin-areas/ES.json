@@ -1,150 +1,150 @@
 [
   {
     "intl_name": "Andalucía",
-    "identifier": "AN",
+    "code": "ES-AN",
     "children": [
-      { "name": "Almería", "code": "AL" },
-      { "name": "Cádiz", "code": "CA" },
-      { "name": "Córdoba", "code": "CO" },
-      { "name": "Granada", "code": "GR" },
-      { "name": "Huelva", "code": "H" },
-      { "name": "Jaén", "code": "J" },
-      { "name": "Málaga", "code": "MA" },
-      { "name": "Sevilla", "code": "SE" }
+      { "name": "Almería", "code": "ES-AL" },
+      { "name": "Cádiz", "code": "ES-CA" },
+      { "name": "Córdoba", "code": "ES-CO" },
+      { "name": "Granada", "code": "ES-GR" },
+      { "name": "Huelva", "code": "ES-H" },
+      { "name": "Jaén", "code": "ES-J" },
+      { "name": "Málaga", "code": "ES-MA" },
+      { "name": "Sevilla", "code": "ES-SE" }
     ]
   },
   {
     "intl_name": "Aragón",
-    "identifier": "AR",
+    "code": "ES-AR",
     "children": [
-      { "name": "Huesca", "code": "HU" },
-      { "name": "Teruel", "code": "TE" },
-      { "name": "Zaragoza", "code": "Z" }
+      { "name": "Huesca", "code": "ES-HU" },
+      { "name": "Teruel", "code": "ES-TE" },
+      { "name": "Zaragoza", "code": "ES-Z" }
     ]
   },
   {
     "intl_name": "Asturias",
-    "identifier": "AS",
-    "children": [{ "name": "Asturias", "code": "O" }]
+    "code": "ES-AS",
+    "children": [{ "name": "Asturias", "code": "ES-O" }]
   },
   {
     "intl_name": "Islas Baleares",
-    "identifier": "IB",
-    "children": [{ "name": "Islas Baleares", "code": "PM" }]
+    "code": "ES-IB",
+    "children": [{ "name": "Islas Baleares", "code": "ES-PM" }]
   },
   {
     "intl_name": "Canarias",
-    "identifier": "CN",
+    "code": "ES-CN",
     "children": [
-      { "name": "Santa Cruz de Tenerife", "code": "TF" },
-      { "name": "Las Palmas", "code": "GC" }
+      { "name": "Santa Cruz de Tenerife", "code": "ES-TF" },
+      { "name": "Las Palmas", "code": "ES-GC" }
     ]
   },
   {
     "intl_name": "Cantabria",
-    "identifier": "CB",
-    "children": [{ "name": "Cantabria", "code": "S" }]
+    "code": "ES-CB",
+    "children": [{ "name": "Cantabria", "code": "ES-S" }]
   },
   {
     "intl_name": "Castilla y León",
-    "identifier": "CL",
+    "code": "ES-CL",
     "children": [
-      { "name": "Ávila", "code": "AV" },
-      { "name": "Burgos", "code": "BU" },
-      { "name": "León", "code": "LE" },
-      { "name": "Palencia", "code": "P" },
-      { "name": "Salamanca", "code": "SA" },
-      { "name": "Segovia", "code": "SG" },
-      { "name": "Soria", "code": "SO" },
-      { "name": "Valladolid", "code": "VA" },
-      { "name": "Zamora", "code": "ZA" }
+      { "name": "Ávila", "code": "ES-AV" },
+      { "name": "Burgos", "code": "ES-BU" },
+      { "name": "León", "code": "ES-LE" },
+      { "name": "Palencia", "code": "ES-P" },
+      { "name": "Salamanca", "code": "ES-SA" },
+      { "name": "Segovia", "code": "ES-SG" },
+      { "name": "Soria", "code": "ES-SO" },
+      { "name": "Valladolid", "code": "ES-VA" },
+      { "name": "Zamora", "code": "ES-ZA" }
     ]
   },
   {
     "intl_name": "Castilla-La Mancha",
-    "identifier": "CM",
+    "code": "ES-CM",
     "children": [
-      { "name": "Albacete", "code": "AB" },
-      { "name": "Ciudad Real", "code": "CR" },
-      { "name": "Cuenca", "code": "CU" },
-      { "name": "Guadalajara", "code": "GU" },
-      { "name": "Toledo", "code": "TO" }
+      { "name": "Albacete", "code": "ES-AB" },
+      { "name": "Ciudad Real", "code": "ES-CR" },
+      { "name": "Cuenca", "code": "ES-CU" },
+      { "name": "Guadalajara", "code": "ES-GU" },
+      { "name": "Toledo", "code": "ES-TO" }
     ]
   },
   {
     "intl_name": "Cataluña",
-    "identifier": "CT",
+    "code": "ES-CT",
     "children": [
-      { "name": "Barcelona", "code": "B" },
-      { "name": "Girona", "code": "GI" },
-      { "name": "Lleida", "code": "L" },
-      { "name": "Tarragona", "code": "T" }
+      { "name": "Barcelona", "code": "ES-B" },
+      { "name": "Girona", "code": "ES-GI" },
+      { "name": "Lleida", "code": "ES-L" },
+      { "name": "Tarragona", "code": "ES-T" }
     ]
   },
   {
     "intl_name": "Comunidad Valenciana",
-    "identifier": "VC",
+    "code": "ES-VC",
     "children": [
-      { "name": "Alicante", "code": "A" },
-      { "name": "Castellón", "code": "CS" },
-      { "name": "Valencia", "code": "V" }
+      { "name": "Alicante", "code": "ES-A" },
+      { "name": "Castellón", "code": "ES-CS" },
+      { "name": "Valencia", "code": "ES-V" }
     ]
   },
   {
     "intl_name": "Extremadura",
-    "identifier": "EX",
+    "code": "ES-EX",
     "children": [
-      { "name": "Badajoz", "code": "BA" },
-      { "name": "Cáceres", "code": "CC" }
+      { "name": "Badajoz", "code": "ES-BA" },
+      { "name": "Cáceres", "code": "ES-CC" }
     ]
   },
   {
     "intl_name": "Galicia",
-    "identifier": "GA",
+    "code": "ES-GA",
     "children": [
-      { "name": "A Coruña", "code": "C" },
-      { "name": "Lugo", "code": "LU" },
-      { "name": "Ourense", "code": "OR" },
-      { "name": "Pontevedra", "code": "PO" }
+      { "wof_name": "Coruna", "name": "A Coruña", "code": "ES-C" },
+      { "name": "Lugo", "code": "ES-LU" },
+      { "name": "Ourense", "code": "ES-OR" },
+      { "name": "Pontevedra", "code": "ES-PO" }
     ]
   },
   {
     "intl_name": "La Rioja",
-    "identifier": "RI",
-    "children": [{ "name": "La Rioja", "code": "LO" }]
+    "code": "ES-RI",
+    "children": [{ "name": "La Rioja", "code": "ES-LO" }]
   },
   {
     "intl_name": "Madrid",
-    "identifier": "MD",
-    "children": [{ "name": "Madrid", "code": "M" }]
+    "code": "ES-MD",
+    "children": [{ "name": "Madrid", "code": "ES-M" }]
   },
   {
     "intl_name": "Murcia",
-    "identifier": "MC",
-    "children": [{ "name": "Murcia", "code": "MU" }]
+    "code": "ES-MC",
+    "children": [{ "name": "Murcia", "code": "ES-MU" }]
   },
   {
     "intl_name": "Navarra",
-    "identifier": "NC",
-    "children": [{ "name": "Navarra", "code": "NA" }]
+    "code": "ES-NC",
+    "children": [{ "name": "Navarra", "code": "ES-NA" }]
   },
   {
     "intl_name": "País Vasco",
-    "identifier": "PV",
+    "code": "ES-PV",
     "children": [
-      { "name": "Álava", "code": "VI" },
-      { "name": "Gipuzkoa", "code": "SS" },
-      { "name": "Bizkaia", "code": "BI" }
+      { "name": "Álava", "code": "ES-VI" },
+      { "name": "Gipuzkoa", "code": "ES-SS" },
+      { "name": "Vizcaya", "code": "ES-BI" }
     ]
   },
   {
     "intl_name": "Ceuta",
-    "identifier": "CE",
-    "children": [{ "name": "Ceuta", "code": "CE" }]
+    "code": "ES-CE",
+    "children": [{ "name": "Ceuta", "code": "ES-CE" }]
   },
   {
     "intl_name": "Melilla",
-    "identifier": "ML",
-    "children": [{ "name": "Melilla", "code": "ML" }]
+    "code": "ES-ML",
+    "children": [{ "name": "Melilla", "code": "ES-ML" }]
   }
 ]

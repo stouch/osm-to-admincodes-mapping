@@ -1,60 +1,52 @@
 [
   {
-    "gn_name": "Wallonia",
-    "name": "Wallonie",
-    "identifier": "WAL",
-    "code": "03000",
-    "children": [
-      { "name": "Hainaut", "identifier": "WHT", "code": "50000" },
-      { "name": "Liège", "identifier": "WLG", "code": "52000" },
-      { "name": "Luxembourg", "identifier": "WLX", "code": "54000" },
-      { "name": "Namur", "identifier": "WNA", "code": "56000" },
-      { "name": "Brabant wallon", "identifier": "WBR", "code": "57000" }
-    ]
+    "name": "Bruxelles-Capitale",
+    "code": "BE-BRU",
+    "children": []
   },
   {
     "gn_name": "Flanders",
     "wof_name": "Flemish Region",
     "name": "Flandre",
-    "identifier": "VLG",
-    "code": "02000",
+    "code": "BE-VLG",
     "children": [
       {
         "gn_name": "Antwerpen",
         "name": "Anvers",
-        "identifier": "VAN",
-        "code": "10000"
+        "code": "BE-VAN"
       },
       {
         "gn_name": "Limburg",
         "name": "Limbourg",
-        "identifier": "VLI",
-        "code": "13000"
+        "code": "BE-VLI"
       },
       {
         "gn_name": "Oost-Vlaanderen",
         "name": "Flandre orientale",
-        "identifier": "VOV",
-        "code": "15000"
+        "code": "BE-VOV"
       },
       {
         "gn_name": "Vlaams-Brabant",
         "name": "Brabant flamand",
-        "identifier": "VBR",
-        "code": "19000"
+        "code": "BE-VBR"
       },
       {
         "gn_name": "West-Vlaanderen",
         "name": "Flandre occidentale",
-        "identifier": "VWV",
-        "code": "23000"
+        "code": "BE-VWV"
       }
     ]
   },
   {
-    "name": "Bruxelles-Capitale",
-    "identifier": "BRU",
-    "code": "01000",
-    "children": []
+    "gn_name": "Wallonia",
+    "name": "Wallonie",
+    "code": "BE-WAL",
+    "children": [
+      { "name": "Hainaut", "code": "BE-WHT" },
+      { "name": "Liège", "code": "BE-WLG" },
+      { "name": "Luxembourg", "code": "BE-WLX" },
+      { "name": "Namur", "code": "BE-WNA" },
+      { "name": "Brabant wallon", "code": "BE-WBR" }
+    ]
   }
 ]

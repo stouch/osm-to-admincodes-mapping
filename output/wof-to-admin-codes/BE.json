@@ -1,29 +1,23 @@
 {
-  "whosonfirst:macroregion:404227353": {
-    "code": "03000",
-    "identifier": "WAL",
-    "children": {
-      "whosonfirst:region:85681723": { "code": "50000", "identifier": "WHT" },
-      "whosonfirst:region:85681691": { "code": "52000", "identifier": "WLG" },
-      "whosonfirst:region:85681727": { "code": "54000", "identifier": "WLX" },
-      "whosonfirst:region:85681699": { "code": "56000", "identifier": "WNA" },
-      "whosonfirst:region:85681693": { "code": "57000", "identifier": "WBR" }
-    }
-  },
+  "whosonfirst:region:85681713": { "code": "BE-BRU", "children": {} },
   "whosonfirst:macroregion:404227357": {
-    "code": "02000",
-    "identifier": "VLG",
+    "code": "BE-VLG",
     "children": {
-      "whosonfirst:region:85681715": { "code": "10000", "identifier": "VAN" },
-      "whosonfirst:region:85681705": { "code": "13000", "identifier": "VLI" },
-      "whosonfirst:region:85681733": { "code": "15000", "identifier": "VOV" },
-      "whosonfirst:region:85681731": { "code": "19000", "identifier": "VBR" },
-      "whosonfirst:region:85681709": { "code": "23000", "identifier": "VWV" }
+      "whosonfirst:region:85681715": { "code": "BE-VAN" },
+      "whosonfirst:region:85681705": { "code": "BE-VLI" },
+      "whosonfirst:region:85681733": { "code": "BE-VOV" },
+      "whosonfirst:region:85681731": { "code": "BE-VBR" },
+      "whosonfirst:region:85681709": { "code": "BE-VWV" }
     }
   },
-  "whosonfirst:region:85681713": {
-    "code": "01000",
-    "identifier": "BRU",
-    "children": {}
+  "whosonfirst:macroregion:404227353": {
+    "code": "BE-WAL",
+    "children": {
+      "whosonfirst:region:85681723": { "code": "BE-WHT" },
+      "whosonfirst:region:85681691": { "code": "BE-WLG" },
+      "whosonfirst:region:85681727": { "code": "BE-WLX" },
+      "whosonfirst:region:85681699": { "code": "BE-WNA" },
+      "whosonfirst:region:85681693": { "code": "BE-WBR" }
+    }
   }
 }
