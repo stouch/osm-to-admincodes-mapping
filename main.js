@@ -1,9 +1,10 @@
 import fs from "fs";
 import {
-  RequestChatGPT,
-  RequestGNFirstResult,
-  RequestOSMFirstResult,
-  RequestWOFFirstResult,
+  requestChatGPT,
+  getGNAutocomplete,
+  getOSMAutocomplete,
+  getWOFAutocomplete,
+  fetchOSM,
 } from "./api-clients.js";
 import "dotenv/config";
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
@@ -53,7 +54,7 @@ if (existingLabels) {
   process.stdout.write(
     `Requesting ChatGPT about ${country} admin areas (can take up to 3min)...\n`
   );
-  adminAreaLabels = await RequestChatGPT(placesPrompt);
+  adminAreaLabels = await requestChatGPT(placesPrompt);
   if (adminAreaLabels && adminAreaLabels.obj) {
     adminAreaLabels = adminAreaLabels.obj;
     process.stdout.write(
@@ -104,25 +105,30 @@ for (const region of adminAreaLabels) {
   // Find a OSM ID
   if (process.env.OSM_API_URL) {
     let osmRegionSearch, osmRegionSearchRegion;
-    // We first look for something above `state` or `county` (?q with a place_rank === 6)
-    if (hasHigherAdminAreas) {
+    if (region.osm_id) {
       await sleep(200);
-      osmRegionSearchRegion = await RequestOSMFirstResult(
-        region.osm_name || region.intl_name || region.name,
-        country,
-        "q"
-      );
-    }
-    // Address rank == place_rank == 6
-    if (osmRegionSearchRegion && osmRegionSearchRegion.place_rank === 6) {
-      osmRegionSearch = osmRegionSearchRegion;
+      osmRegionSearchRegion = await fetchOSM(region.osm_id, "R");
     } else {
-      await sleep(200);
-      osmRegionSearch = await RequestOSMFirstResult(
-        region.osm_name || region.intl_name || region.name,
-        country,
-        "state"
-      );
+      // We first look for something above `state` or `county` (?q with a place_rank === 6)
+      if (hasHigherAdminAreas) {
+        await sleep(200);
+        osmRegionSearchRegion = await getOSMAutocomplete(
+          region.osm_name || region.intl_name || region.name,
+          country,
+          "q"
+        );
+      }
+      // Address rank == place_rank == 6
+      if (osmRegionSearchRegion && osmRegionSearchRegion.place_rank === 6) {
+        osmRegionSearch = osmRegionSearchRegion;
+      } else {
+        await sleep(200);
+        osmRegionSearch = await getOSMAutocomplete(
+          region.osm_name || region.intl_name || region.name,
+          country,
+          "state"
+        );
+      }
     }
     if (osmRegionSearch) {
       regionData.osm_id = `osm:${osmRegionSearch.osm_type}:${osmRegionSearch.osm_id}`;
@@ -141,7 +147,7 @@ for (const region of adminAreaLabels) {
   if (process.env.PELIAS_GEONAME_API_URL) {
     let gnRegionSearch;
     await sleep(200);
-    gnRegionSearch = await RequestGNFirstResult(
+    gnRegionSearch = await getGNAutocomplete(
       region.gn_name || region.intl_name || region.name,
       country,
       gnStateTypePerCountry[country]
@@ -155,7 +161,7 @@ for (const region of adminAreaLabels) {
     ) {
       // not a hyper-region ? this state might be just a "region"
       await sleep(200);
-      gnRegionSearch = await RequestGNFirstResult(
+      gnRegionSearch = await getGNAutocomplete(
         region.gn_name || region.intl_name || region.name,
         country,
         "region"
@@ -178,7 +184,7 @@ for (const region of adminAreaLabels) {
   if (process.env.PELIAS_WOF_API_URL) {
     let wofRegionSearch;
     await sleep(200);
-    wofRegionSearch = await RequestWOFFirstResult(
+    wofRegionSearch = await getWOFAutocomplete(
       region.wof_name || region.intl_name || region.name,
       country,
       wofStateTypePerCountry[country]
@@ -192,7 +198,7 @@ for (const region of adminAreaLabels) {
     ) {
       // not a hyper-region ? this state might be just a "region"
       await sleep(200);
-      wofRegionSearch = await RequestWOFFirstResult(
+      wofRegionSearch = await getWOFAutocomplete(
         region.wof_name || region.intl_name || region.name,
         country,
         "region"
@@ -230,19 +236,25 @@ for (const region of adminAreaLabels) {
 
       // Find a OSM ID
       if (process.env.OSM_API_URL) {
-        await sleep(200);
-        let osmSearch = await RequestOSMFirstResult(
-          subregion.osm_name || subregion.intl_name || subregion.name,
-          country,
-          hasHigherAdminAreas ? "state" : "county"
-        );
-        if (!osmSearch) {
+        let osmSearch;
+        if (subregion.osm_id) {
           await sleep(200);
-          osmSearch = await RequestOSMFirstResult(
+          osmSearch = await fetchOSM(subregion.osm_id, "R");
+        } else {
+          await sleep(200);
+          osmSearch = await getOSMAutocomplete(
             subregion.osm_name || subregion.intl_name || subregion.name,
             country,
-            hasHigherAdminAreas ? "county" : "state" // try the other one in case of..
+            hasHigherAdminAreas ? "state" : "county"
           );
+          if (!osmSearch) {
+            await sleep(200);
+            osmSearch = await getOSMAutocomplete(
+              subregion.osm_name || subregion.intl_name || subregion.name,
+              country,
+              hasHigherAdminAreas ? "county" : "state" // try the other one in case of..
+            );
+          }
         }
         if (osmSearch) {
           if (
@@ -268,7 +280,7 @@ for (const region of adminAreaLabels) {
       if (process.env.PELIAS_GEONAME_API_URL) {
         let gnSerach;
         await sleep(200);
-        gnSerach = await RequestGNFirstResult(
+        gnSerach = await getGNAutocomplete(
           subregion.gn_name || subregion.intl_name || subregion.name,
           country,
           gnSubareaTypePerCountry[country]
@@ -297,7 +309,7 @@ for (const region of adminAreaLabels) {
       if (process.env.PELIAS_WOF_API_URL) {
         let wofSearch;
         await sleep(200);
-        wofSearch = await RequestWOFFirstResult(
+        wofSearch = await getWOFAutocomplete(
           subregion.wof_name || subregion.intl_name || subregion.name,
           country,
           wofSubareaTypePerCountry[country]
